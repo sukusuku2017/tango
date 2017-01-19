@@ -1,11 +1,11 @@
 # tango
 
-### 1 목적
+## 1 목적
 sukusuku 프로젝트에서 단어(単語, たんご, tango)의 데이터를 저장한다.
 
-### 2 구성
+## 2 구성
 New 스쿠스쿠 일본어 기본완성은 上, 下으로 구성되었다.
-교재와 과(챕터)의 구성은 다음과 같다.
+챕터의 구성은 다음과 같다.
 
 - New 스쿠스쿠 일본어 기본완성 上
   - 01과 ~ 10과 기초일본어 1코스
@@ -14,7 +14,7 @@ New 스쿠스쿠 일본어 기본완성은 上, 下으로 구성되었다.
   - 21과 ~ 30과 기초일본어 3코스
   - 31과 ~ 40과 기초일본어 4코스
 
-### 3 데이터
+## 3 데이터
 data 디렉토리에 챕터 별로 .json 확장자 파일로 저장한다.
 
 - 01과 => `ch01.json`
@@ -25,7 +25,7 @@ data 디렉토리에 챕터 별로 .json 확장자 파일로 저장한다.
 - 40과 => `ch40.json`
 
 
-### 4 JSON
+## 4 JSON
 json 파일의 구조는 다음과 같다.
 ```json
 {
@@ -40,27 +40,29 @@ json 파일의 구조는 다음과 같다.
 }
 ```
 
-#### 4.1 chapter `: String`
+### 4.1 chapter `: String`
 `chapter :` 챕터명. 'ch00' 4자리 문자열로 표시한다.
 
-#### 4.2 update `: String`
+### 4.2 update `: String`
 `update :` 마지막 업데이트 날짜. 'YYYY-MM-DD' 형태의 문자열로 표시한다.
 
-#### 4.3 author `: [ String ]`
+### 4.3 author `: [ String ]`
 `author :` 작성자 목록. 작성자, 수정자 이름을 문자열의 배열로 표시한다.
 
-#### 4.4 content `: [ Object ]`
+### 4.4 content `: [ Object ]`
 `content :` 단어 목록. 단어(Object)의 배열로 표시한다. 단어의 구성은 5
 
 ## 5 CONTENT
 단어 Object의 구조는 다음과 같다.
 
 참고 링크
-https://developer.mozilla.org/ko/docs/Web/HTML/Element/ruby
-https://namu.wiki/w/%ED%9B%84%EB%A6%AC%EA%B0%80%EB%82%98
 
+[ruby tag](https://developer.mozilla.org/ko/docs/Web/HTML/Element/ruby)
+[후리가나 - 나무위키](https://namu.wiki/w/%ED%9B%84%EB%A6%AC%EA%B0%80%EB%82%98)
 
-#### 5.1 사례1
+### 5.1 사례1
+문자(한자)와 문자(한자)로 이루어진 경우
+
 ```json
 {
   "mean": "다음 주",
@@ -86,7 +88,8 @@ https://namu.wiki/w/%ED%9B%84%EB%A6%AC%EA%B0%80%EB%82%98
 </ruby>
 ```
 
-#### 5.2 사례2
+### 5.2 사례2
+문자(히라카나)와 문자(한자)로 이루어진 경우
 ```json
 {
   "mean": "술",
@@ -110,7 +113,8 @@ https://namu.wiki/w/%ED%9B%84%EB%A6%AC%EA%B0%80%EB%82%98
 </ruby>
 ```
 
-#### 5.3 사례3
+### 5.3 사례3
+단어(한자)로 이루어진 경우
 ```json
 {
   "mean": "내일",
@@ -135,7 +139,8 @@ https://namu.wiki/w/%ED%9B%84%EB%A6%AC%EA%B0%80%EB%82%98
 </ruby>
 ```
 
-#### 5.4 사례4
+### 5.4 사례4
+단어(히라카나)로 이루어진 경우
 ```json
 {
   "mean": "반드시/꼭",
