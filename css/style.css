@@ -1,0 +1,25 @@
+body {
+  font-family: "source-han-sans-japanese", "source-han-sans-korean", sans-serif;
+  font-style: normal;
+  font-weight: 100;
+}
+
+code,
+pre {
+  -moz-osx-font-smoothing: auto;
+  -webkit-font-smoothing: auto;
+  font-family: "Inconsolata", "Consolas", "Monaco", "source-han-sans-japanese", monospace;
+}
+
+
+.message-header {
+  font-size: large;
+}
+
+.message-body {
+  font-size: x-large;
+}
+
+.highlight {
+  font-size: large;
+}
