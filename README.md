@@ -1,4 +1,4 @@
-# tango
+# Tango(たんご)
 
 ## 1 목적
 sukusuku 프로젝트에서 단어(単語, たんご, tango)의 데이터를 저장한다.
@@ -25,7 +25,7 @@ data 디렉토리에 챕터 별로 .json 확장자 파일로 저장한다.
 - 40과 => `ch40.json`
 
 
-## 4 JSON
+## 4 Json
 json 파일의 구조는 다음과 같다.
 ```json
 {
@@ -52,13 +52,12 @@ json 파일의 구조는 다음과 같다.
 ### 4.4 content `: [ Object ]`
 `content :` 단어 목록. 단어(Object)의 배열로 표시한다. 단어의 구성은 5
 
-## 5 CONTENT
+## 5 Word
 단어 Object의 구조는 다음과 같다.
 
 참고 링크
-
-[ruby tag](https://developer.mozilla.org/ko/docs/Web/HTML/Element/ruby)
-[후리가나 - 나무위키](https://namu.wiki/w/%ED%9B%84%EB%A6%AC%EA%B0%80%EB%82%98)
+- [ruby tag](https://developer.mozilla.org/ko/docs/Web/HTML/Element/ruby)
+- [후리가나 - 나무위키](https://namu.wiki/w/%ED%9B%84%EB%A6%AC%EA%B0%80%EB%82%98)
 
 ### 5.1 사례1
 문자(한자)와 문자(한자)로 이루어진 경우
