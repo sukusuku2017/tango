@@ -52,8 +52,15 @@ json 파일의 구조는 다음과 같다.
 #### 4.4 content `: [ Object ]`
 `content :` 단어 목록. 단어(Object)의 배열로 표시한다. 단어의 구성은 5
 
-### 5 CONTENT
+## 5 CONTENT
 단어 Object의 구조는 다음과 같다.
+
+참고 링크
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/ruby
+https://namu.wiki/w/%ED%9B%84%EB%A6%AC%EA%B0%80%EB%82%98
+
+
+#### 5.1 사례1
 ```json
 {
   "mean": "다음 주",
@@ -70,4 +77,78 @@ json 파일의 구조는 다음과 같다.
     }
   ]
 }
+```
+
+```html
+<ruby>
+  来 <rp>(</rp><rt>らい</rt><rp>)</rp>
+  週 <rp>(</rp><rt>しゅう</rt><rp>)</rp>
+</ruby>
+```
+
+#### 5.2 사례2
+```json
+{
+  "mean": "술",
+  "characters": [
+    {
+      "base": "お"
+    },
+    {
+      "base": "酒",
+      "ruby": "さけ",
+      "mean": "술 주"
+    }
+  ]
+}
+```
+
+```html
+<ruby>
+  お <rt></rt>
+  酒 <rp>(</rp><rt>さけ</rt><rp>)</rp>
+</ruby>
+```
+
+#### 5.3 사례3
+```json
+{
+  "mean": "내일",
+  "base": "明日",
+  "ruby": "あした",
+  "characters": [
+    {
+      "base": "明",
+      "mean": "밝을 명"
+    },
+    {
+      "base": "日",
+      "mean": "날 일"
+    }
+  ]
+}
+```
+
+```html
+<ruby>
+  明日 <rp>(</rp><rt>あした<rt><rp>)</rp>
+</ruby>
+```
+
+#### 5.4 사례4
+```json
+{
+  "mean": "반드시/꼭",
+  "characters": [
+    {
+      "base": "きっと"
+    }
+  ]
+}
+```
+
+```html
+<ruby>
+  きっと <rt></rt>
+</ruby>
 ```
