@@ -11,8 +11,8 @@
     <section class="section">
       <div class="container">
         <h1 class="title">단어 &lt;ruby&gt;</h1>
+        <h2>사례1</h2>
         <div class="columns is-mobile">
-
           <div class="column">
             <figure class="highlight">
               <pre><code class="language-json" data-lang="json">{
@@ -55,8 +55,34 @@
           </div>
         </div>
 
+        <h2>사례2</h2>
         <div class="columns">
           <div class="column">
+            <figure class="highlight">
+              <pre><code class="language-json" data-lang="json">{
+  "mean": "술",
+  "characters": [
+    {
+      "base": "お"
+    },
+    {
+      "base": "酒",
+      "ruby": "さけ",
+      "mean": "술 주"
+    }
+  ]
+}</code></pre>
+            </figure>
+          </div>
+          <div class="column">
+            <figure class="highlight">
+              <pre><code class="language-html" data-lang="html"><span class="nt">&lt;ruby&gt;</span>
+  お <span class="nt">&lt;rt&gt;</span><span class="nt">&lt;/rt&gt;</span>
+  酒 <span class="nt">&lt;rp&gt;</span><span>(</span><span class="nt">&lt;/rp&gt;</span><span class="nt">&lt;rt&gt;</span><span>さけ</span><span class="nt">&lt;/rt&gt;</span><span class="nt">&lt;rp&gt;</span><span>)</span><span class="nt">&lt;/rp&gt;</span>
+<span class="nt">&lt;/ruby&gt;</span></code></pre>
+            </figure>
+          </div>
+          <div class="column is-one-quarter">
             <article class="message">
               <div class="message-header">
                 <p>술</p>
@@ -69,12 +95,37 @@
               </div>
             </article>
           </div>
-          <div class="column">
-          </div>
         </div>
 
+        <h2>사례3</h2>
         <div class="columns">
           <div class="column">
+            <figure class="highlight">
+              <pre><code class="language-json" data-lang="json">{
+  "mean": "내일",
+  "base": "明日",
+  "ruby": "あした",
+  "characters": [
+    {
+      "base": "明",
+      "mean": "밝을 명"
+    },
+    {
+      "base": "日",
+      "mean": "날 일"
+    }
+  ]
+}</code></pre>
+            </figure>
+          </div>
+          <div class="column">
+            <figure class="highlight">
+              <pre><code class="language-html" data-lang="html"><span class="nt">&lt;ruby&gt;</span>
+  明日 <span class="nt">&lt;rp&gt;</span><span>(</span><span class="nt">&lt;/rp&gt;</span><span class="nt">&lt;rt&gt;</span><span>あした</span><span class="nt">&lt;/rt&gt;</span><span class="nt">&lt;rp&gt;</span><span>)</span><span class="nt">&lt;/rp&gt;</span>
+<span class="nt">&lt;/ruby&gt;</span></code></pre>
+            </figure>
+          </div>
+          <div class="column is-one-quarter">
             <article class="message">
               <div class="message-header">
                 <p>내일</p>
@@ -86,12 +137,30 @@
               </div>
             </article>
           </div>
-          <div class="column">
-          </div>
         </div>
 
+        <h2>사례4</h2>
         <div class="columns">
           <div class="column">
+            <figure class="highlight">
+              <pre><code class="language-json" data-lang="json">{
+  "mean": "반드시/꼭",
+  "characters": [
+    {
+      "base": "きっと"
+    }
+  ]
+}</code></pre>
+            </figure>
+          </div>
+          <div class="column">
+            <figure class="highlight">
+              <pre><code class="language-html" data-lang="html"><span class="nt">&lt;ruby&gt;</span>
+  きっと <span class="nt">&lt;rt&gt;</span><span class="nt">&lt;/rt&gt;</span>
+<span class="nt">&lt;/ruby&gt;</span></code></pre>
+            </figure>
+          </div>
+          <div class="column is-one-quarter">
             <article class="message">
               <div class="message-header">
                 <p>반드시/꼭</p>
@@ -102,8 +171,6 @@
                 </ruby>
               </div>
             </article>
-          </div>
-          <div class="column">
           </div>
         </div>
 
