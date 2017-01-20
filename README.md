@@ -75,19 +75,19 @@ json 파일의 구조는 다음과 같다.
 ### 5.4 characters `: [ Object ]`
 `characters :` 문자 단위의 배열.
 
-###$ 5.4.1 characters.base `: String`
+#### 5.4.1 characters.base `: String`
 `base :` 단어의 최소 단위 문자. 한자, or 히라카나, or 카타가나.
 
-###$ 5.4.2 characters.ruby `: String`
+#### 5.4.2 characters.ruby `: String`
 `ruby :` (한자인 경우) 주석 문자. 히라카나. 선택적.
 
-###$ 5.4.3 characters.mean `: String`
+#### 5.4.3 characters.mean `: String`
 `mean :` (한자인 경우) 한자의 훈음. 한글. 선택적.
 
 참고 링크
 - [후리가나 - 나무위키](https://namu.wiki/w/%ED%9B%84%EB%A6%AC%EA%B0%80%EB%82%98)
 
-## 6 <ruby>
+## 6 `<ruby>` Element
 
 - `<ruby>` 요소는 주석 문자를 나타냄. 루비 주석은 동아시아 문자들의 발음을 표기하기 위해 사용한다.
 - `<rt>` 요소는 `<ruby>` 요소 내부에서 사용되며, 루비 주석에서 발음을 포함한다.
