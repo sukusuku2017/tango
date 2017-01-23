@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "python -m SimpleHTTPServer 8000"
+    "start": "python -m SimpleHTTPServer 8000",
+    "convert": "node ./csv/csvto.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/sukusuku2017/tango/issues"
   },
-  "homepage": "https://sukusuku2017.github.io/tango/"
+  "homepage": "https://sukusuku2017.github.io/tango/",
+  "devDependencies": {
+    "csvtojson": "^1.1.2",
+    "jsonfile": "^2.4.0",
+    "underscore": "^1.8.3"
+  }
 }

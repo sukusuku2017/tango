@@ -1,0 +1,412 @@
+{
+  "chapter": "ch01",
+  "update": "2017-01-19",
+  "author": [
+    "Phil"
+  ],
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "おいしい"
+        }
+      ],
+      "mean": "맛있다"
+    },
+    {
+      "characters": [
+        {
+          "base": "明",
+          "mean": "밝을 명",
+          "ruby": "あか"
+        },
+        {
+          "base": "るい"
+        }
+      ],
+      "mean": "밝다"
+    },
+    {
+      "characters": [
+        {
+          "base": "真",
+          "mean": "참 진",
+          "ruby": "ま"
+        },
+        {
+          "base": "面",
+          "mean": "낯 면",
+          "ruby": "じ"
+        },
+        {
+          "base": "目",
+          "mean": "눈 목",
+          "ruby": "め"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "성실하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "上",
+          "mean": "윗 상",
+          "ruby": "うえ"
+        }
+      ],
+      "mean": "위"
+    },
+    {
+      "characters": [
+        {
+          "base": "お"
+        },
+        {
+          "base": "風",
+          "mean": "바람 풍",
+          "ruby": "ふ"
+        },
+        {
+          "base": "呂",
+          "mean": "성 려",
+          "ruby": "ろ"
+        },
+        {
+          "base": "に"
+        },
+        {
+          "base": "入",
+          "mean": "들 입",
+          "ruby": "はい"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "목욕을 하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "ちょっと"
+        }
+      ],
+      "mean": "조금/잠깐"
+    },
+    {
+      "characters": [
+        {
+          "base": "〜"
+        },
+        {
+          "base": "号",
+          "mean": "부를 호",
+          "ruby": "ごう"
+        },
+        {
+          "base": "線",
+          "mean": "줄 선",
+          "ruby": "せん"
+        }
+      ],
+      "mean": "~호선"
+    },
+    {
+      "characters": [
+        {
+          "base": "シャワーを"
+        },
+        {
+          "base": "浴",
+          "mean": "목욕할 욕",
+          "ruby": "あ"
+        },
+        {
+          "base": "びる"
+        }
+      ],
+      "mean": "샤워를 하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "〜"
+        },
+        {
+          "base": "ヵ"
+        },
+        {
+          "base": "月",
+          "mean": "달 월",
+          "ruby": "げつ"
+        }
+      ],
+      "mean": "~개월"
+    },
+    {
+      "characters": [
+        {
+          "base": "電",
+          "mean": "번개 전",
+          "ruby": "でん"
+        },
+        {
+          "base": "話",
+          "mean": "말씀 화",
+          "ruby": "わ"
+        },
+        {
+          "base": "に"
+        },
+        {
+          "base": "出",
+          "mean": "날 출",
+          "ruby": "で"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "전화를 받다"
+    },
+    {
+      "characters": [
+        {
+          "base": "お"
+        },
+        {
+          "base": "金",
+          "mean": "쇠 금",
+          "ruby": "かね"
+        },
+        {
+          "base": "持",
+          "mean": "가질 지",
+          "ruby": "も"
+        },
+        {
+          "base": "ち"
+        }
+      ],
+      "mean": "부자"
+    },
+    {
+      "characters": [
+        {
+          "base": "昨",
+          "mean": "어제 작",
+          "ruby": "きのう"
+        },
+        {
+          "base": "日",
+          "mean": "날 일",
+          "ruby": ""
+        }
+      ],
+      "mean": "어제"
+    },
+    {
+      "characters": [
+        {
+          "base": "国",
+          "mean": "나라 국",
+          "ruby": "こく"
+        },
+        {
+          "base": "際",
+          "mean": "즈음 제",
+          "ruby": "さい"
+        },
+        {
+          "base": "結",
+          "mean": "맺을 결",
+          "ruby": "けっ"
+        },
+        {
+          "base": "婚",
+          "mean": "혼일할 혼",
+          "ruby": "こん"
+        }
+      ],
+      "mean": "국제결혼"
+    },
+    {
+      "characters": [
+        {
+          "base": "朝",
+          "mean": "아침 조",
+          "ruby": "あさ"
+        },
+        {
+          "base": "７"
+        },
+        {
+          "base": "時",
+          "mean": "때 시",
+          "ruby": "じ"
+        },
+        {
+          "base": "に"
+        },
+        {
+          "base": "起",
+          "mean": "일어날 기",
+          "ruby": "お"
+        },
+        {
+          "base": "きる"
+        }
+      ],
+      "mean": "아침 7시에 일어나다"
+    },
+    {
+      "characters": [
+        {
+          "base": "2日"
+        }
+      ],
+      "mean": "2일"
+    },
+    {
+      "characters": [
+        {
+          "base": "〜"
+        },
+        {
+          "base": "回",
+          "mean": "돌아올 회",
+          "ruby": "かい"
+        }
+      ],
+      "mean": "~회"
+    },
+    {
+      "characters": [
+        {
+          "base": "お"
+        },
+        {
+          "base": "土",
+          "mean": "흙 토",
+          "ruby": "みやげ"
+        },
+        {
+          "base": "産",
+          "mean": "낳을 산",
+          "ruby": ""
+        }
+      ],
+      "mean": "선물"
+    },
+    {
+      "characters": [
+        {
+          "base": "お"
+        },
+        {
+          "base": "土",
+          "mean": "흙 토",
+          "ruby": "みやげ"
+        },
+        {
+          "base": "産",
+          "mean": "낳을 산",
+          "ruby": ""
+        },
+        {
+          "base": "を"
+        },
+        {
+          "base": "買",
+          "mean": "살 매",
+          "ruby": "か"
+        },
+        {
+          "base": "う"
+        }
+      ],
+      "mean": "선물을 사다"
+    },
+    {
+      "characters": [
+        {
+          "base": "夜",
+          "mean": "밤 야",
+          "ruby": "よる"
+        },
+        {
+          "base": "、"
+        },
+        {
+          "base": "遅",
+          "mean": "늦을 지",
+          "ruby": "おそ"
+        },
+        {
+          "base": "く"
+        },
+        {
+          "base": "寝",
+          "mean": "잠잘 침",
+          "ruby": "ね"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "밤 늦게 자다"
+    },
+    {
+      "characters": [
+        {
+          "base": "友",
+          "mean": "벗 우",
+          "ruby": "とも"
+        },
+        {
+          "base": "だ"
+        },
+        {
+          "base": "ち"
+        },
+        {
+          "base": "と"
+        },
+        {
+          "base": "遊",
+          "mean": "놀 유",
+          "ruby": "あそ"
+        },
+        {
+          "base": "ぶ"
+        }
+      ],
+      "mean": "친구와 놀다"
+    },
+    {
+      "characters": [
+        {
+          "base": "〜"
+        },
+        {
+          "base": "に"
+        },
+        {
+          "base": "遅",
+          "mean": "늦을 지",
+          "ruby": "おく"
+        },
+        {
+          "base": "れ"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "~에 늦다"
+    }
+  ]
+}
