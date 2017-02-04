@@ -29,11 +29,18 @@ csv()
 
       if (element == '단어') {
 
+        if (newWord) {
+          tempWordArray.push( _.clone(newWord) );
+          newWord = null;
+        }
+
         newWord = {
           characters: []
         };
 
       } else {
+
+        console.log(element);
 
         if (element) {
           newWord.characters.push({
@@ -49,6 +56,8 @@ csv()
         }
       }
     });
+
+    console.log(tempWordArray);
   }
 
   if (csvRow[0] == '한자') {
@@ -66,9 +75,7 @@ csv()
       } else {
         if (element) {
           word['characters'][indexCharacters]['mean'] = element;
-
           word['characters'][indexCharacters]['ruby'] = tempFuriArray[index];
-
         }
         indexCharacters++;
       }
@@ -84,6 +91,18 @@ csv()
 
     _.each(csvRow, function(element, index) {
 
+      if (word && word.characters &&
+          word.characters.length == 1 &&
+          !word.characters[0].ruby &&
+          !word.characters[0].mean
+         ) {
+        // let newWord = {
+        //   base: word.characters[0].base
+        // };
+        word.base = word.characters[0].base;
+        delete word['characters'];
+      }
+
       if (element == '의미') {
         word = tempWordArray[indexWord];
       } else {
@@ -96,7 +115,7 @@ csv()
     });
 
     if (tempWordArray.length) {
-      console.log(JSON.stringify(tempWordArray));
+      // console.log(JSON.stringify(tempWordArray));
       resultArray = resultArray.concat(tempWordArray);
     }
   }
@@ -105,7 +124,7 @@ csv()
 .on('done',()=>{
 
   let result = {
-    "chapter" : "ch01",
+    "chapter" : "wd01",
     "update" : "2017-01-19",
     "author" : [
       "Phil"
