@@ -1,0 +1,526 @@
+{
+  "chapter": "31",
+  "update": "2017-02-07",
+  "author": [
+    "Phil"
+  ],
+  "content": [
+    {
+      "base": "あそこ",
+      "mean": "저기"
+    },
+    {
+      "characters": [
+        {
+          "base": "集",
+          "mean": "모을 집",
+          "ruby": "あつ"
+        },
+        {
+          "base": "まる"
+        }
+      ],
+      "mean": "모이다"
+    },
+    {
+      "base": "ある",
+      "mean": "(사물이) 있다"
+    },
+    {
+      "characters": [
+        {
+          "base": "何",
+          "mean": "어찌 하",
+          "ruby": "なに"
+        },
+        {
+          "base": "か"
+        }
+      ],
+      "mean": "뭔가"
+    },
+    {
+      "characters": [
+        {
+          "base": "撮",
+          "mean": "사진 찍을 촬",
+          "ruby": "さつ"
+        },
+        {
+          "base": "影",
+          "mean": "그림자 영",
+          "ruby": "えい"
+        }
+      ],
+      "mean": "촬영"
+    },
+    {
+      "characters": [
+        {
+          "base": "芸",
+          "mean": "재주 예",
+          "ruby": "げい"
+        },
+        {
+          "base": "能",
+          "mean": "능할 능",
+          "ruby": "のう"
+        },
+        {
+          "base": "人",
+          "mean": "사람 인",
+          "ruby": "じん"
+        }
+      ],
+      "mean": "연예인"
+    },
+    {
+      "characters": [
+        {
+          "base": "背",
+          "mean": "등 배",
+          "ruby": "せ"
+        },
+        {
+          "base": "が"
+        },
+        {
+          "base": "高",
+          "mean": "높을 고",
+          "ruby": "たか"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "키가 크다"
+    },
+    {
+      "base": "スタイル",
+      "mean": "스타일"
+    },
+    {
+      "base": "まるで",
+      "mean": "마치"
+    },
+    {
+      "base": "モデル",
+      "mean": "모델"
+    },
+    {
+      "characters": [
+        {
+          "base": "人",
+          "mean": "사람 인",
+          "ruby": "にん"
+        },
+        {
+          "base": "気",
+          "mean": "기운 기",
+          "ruby": "き"
+        }
+      ],
+      "mean": "인기"
+    },
+    {
+      "base": "いる",
+      "mean": "(사람, 동물이) 있다"
+    },
+    {
+      "base": "すてきだ",
+      "mean": "멋있다"
+    },
+    {
+      "base": "〜がほしい",
+      "mean": "~을/를 원하다(갖고 싶다)"
+    },
+    {
+      "characters": [
+        {
+          "base": "早",
+          "mean": "이를 조",
+          "ruby": "はや"
+        },
+        {
+          "base": "く"
+        }
+      ],
+      "mean": "빨리"
+    },
+    {
+      "characters": [
+        {
+          "base": "電",
+          "mean": "번개 전",
+          "ruby": "でん"
+        },
+        {
+          "base": "話",
+          "mean": "말씀 화",
+          "ruby": "わ"
+        },
+        {
+          "base": "に"
+        },
+        {
+          "base": "出",
+          "mean": "날 출",
+          "ruby": "で"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "전화를 받다"
+    },
+    {
+      "characters": [
+        {
+          "base": "留",
+          "mean": "머무를 류",
+          "ruby": "る"
+        },
+        {
+          "base": "守",
+          "mean": "지킬 수",
+          "ruby": "す"
+        }
+      ],
+      "mean": "부재 중"
+    },
+    {
+      "base": "にこにこする",
+      "mean": "방긋거리다"
+    },
+    {
+      "characters": [
+        {
+          "base": "二",
+          "mean": "두 이",
+          "ruby": "ふたり"
+        },
+        {
+          "base": "人",
+          "mean": "사람 인",
+          "ruby": ""
+        }
+      ],
+      "mean": "두 사람"
+    },
+    {
+      "characters": [
+        {
+          "base": "仲",
+          "mean": "버금 중",
+          "ruby": "なか"
+        }
+      ],
+      "mean": "사이"
+    },
+    {
+      "characters": [
+        {
+          "base": "部",
+          "mean": "떼 부",
+          "ruby": "へ"
+        },
+        {
+          "base": "屋",
+          "mean": "집 옥",
+          "ruby": "や"
+        }
+      ],
+      "mean": "방"
+    },
+    {
+      "characters": [
+        {
+          "base": "蒸",
+          "mean": "찔 증",
+          "ruby": "む"
+        },
+        {
+          "base": "し"
+        },
+        {
+          "base": "暑",
+          "mean": "더울 서",
+          "ruby": "あつ"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "무덥다"
+    },
+    {
+      "base": "サウナ",
+      "mean": "사우나"
+    },
+    {
+      "characters": [
+        {
+          "base": "辛",
+          "mean": "매울 신",
+          "ruby": "から"
+        },
+        {
+          "base": "い"
+        },
+        {
+          "base": "物",
+          "mean": "물건 물",
+          "ruby": "もの"
+        }
+      ],
+      "mean": "매운 것"
+    },
+    {
+      "characters": [
+        {
+          "base": "母",
+          "mean": "어미 모",
+          "ruby": "はは"
+        }
+      ],
+      "mean": "엄마"
+    },
+    {
+      "characters": [
+        {
+          "base": "結",
+          "mean": "맺을 결",
+          "ruby": "けっ"
+        },
+        {
+          "base": "婚",
+          "mean": "혼일할 혼",
+          "ruby": "こん"
+        },
+        {
+          "base": "する"
+        }
+      ],
+      "mean": "결혼하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "付",
+          "mean": "부칠 부",
+          "ruby": "つ"
+        },
+        {
+          "base": "き"
+        },
+        {
+          "base": "合",
+          "mean": "합할 합",
+          "ruby": "あ"
+        },
+        {
+          "base": "う"
+        }
+      ],
+      "mean": "사귀다"
+    },
+    {
+      "base": "また",
+      "mean": "또"
+    },
+    {
+      "characters": [
+        {
+          "base": "片",
+          "mean": "조각 편",
+          "ruby": "かた"
+        },
+        {
+          "base": "付",
+          "mean": "부칠 부",
+          "ruby": "づ"
+        },
+        {
+          "base": "ける"
+        }
+      ],
+      "mean": "정리하다/정돈하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "消",
+          "mean": "사라질 소",
+          "ruby": "き"
+        },
+        {
+          "base": "える"
+        }
+      ],
+      "mean": "꺼지다"
+    },
+    {
+      "characters": [
+        {
+          "base": "ダイエット"
+        },
+        {
+          "base": "中",
+          "mean": "가운데 중",
+          "ruby": "ちゅう"
+        }
+      ],
+      "mean": "다이어트 중"
+    },
+    {
+      "characters": [
+        {
+          "base": "約",
+          "mean": "맺을 약",
+          "ruby": "やく"
+        },
+        {
+          "base": "束",
+          "mean": "묶을 속",
+          "ruby": "そく"
+        }
+      ],
+      "mean": "약속"
+    },
+    {
+      "characters": [
+        {
+          "base": "上",
+          "mean": "윗 상",
+          "ruby": "じょう"
+        },
+        {
+          "base": "手",
+          "mean": "손 수",
+          "ruby": "ず"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "잘하다/능숙하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "人",
+          "mean": "사람 인",
+          "ruby": "にん"
+        },
+        {
+          "base": "形",
+          "mean": "모양 형",
+          "ruby": "ぎょう"
+        }
+      ],
+      "mean": "인형"
+    },
+    {
+      "base": "かっこいい",
+      "mean": "멋있다"
+    },
+    {
+      "base": "ぺらぺらだ",
+      "mean": "능숙하게 술술 말하다"
+    },
+    {
+      "base": "チョコレート",
+      "mean": "초콜릿"
+    },
+    {
+      "characters": [
+        {
+          "base": "生",
+          "mean": "날 생",
+          "ruby": "なま"
+        },
+        {
+          "base": "ビール"
+        }
+      ],
+      "mean": "생맥주"
+    },
+    {
+      "characters": [
+        {
+          "base": "冷",
+          "mean": "찰 랭",
+          "ruby": "つめ"
+        },
+        {
+          "base": "たいもの"
+        }
+      ],
+      "mean": "찬 것"
+    },
+    {
+      "characters": [
+        {
+          "base": "古",
+          "mean": "예 고",
+          "ruby": "ふる"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "낡다"
+    },
+    {
+      "characters": [
+        {
+          "base": "町",
+          "mean": "밭두둑 정",
+          "ruby": "まち"
+        }
+      ],
+      "mean": "마을"
+    },
+    {
+      "characters": [
+        {
+          "base": "所",
+          "mean": "바 소",
+          "ruby": "ところ"
+        }
+      ],
+      "mean": "곳/장소"
+    },
+    {
+      "base": "マルチーズ",
+      "mean": "마르티스"
+    },
+    {
+      "characters": [
+        {
+          "base": "犬",
+          "mean": "개 견",
+          "ruby": "いぬ"
+        }
+      ],
+      "mean": "개"
+    },
+    {
+      "base": "ペット",
+      "mean": "애완동물"
+    },
+    {
+      "characters": [
+        {
+          "base": "飼",
+          "mean": "기를 사",
+          "ruby": "か"
+        },
+        {
+          "base": "う"
+        }
+      ],
+      "mean": "기르다"
+    }
+  ]
+}

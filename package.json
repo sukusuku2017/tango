@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "python -m SimpleHTTPServer 8000",
-    "convert": "node ./csv/csvto.js"
+    "json": "node ./csv/csvto.js"
   },
   "repository": {
     "type": "git",
