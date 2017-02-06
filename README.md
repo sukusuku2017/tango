@@ -29,7 +29,7 @@ data 디렉토리에 챕터 별로 .json 확장자 파일로 저장한다.
 json 파일의 구조는 다음과 같다.
 ```json
 {
-  "chapter" : "wd13",
+  "chapter" : "13",
   "update" : "2017-01-19",
   "author" : [
     "Phil"
@@ -41,7 +41,7 @@ json 파일의 구조는 다음과 같다.
 ```
 
 ### 4.1 chapter `: String`
-`chapter :` 챕터명. 'ch00' 4자리 문자열로 표시한다.
+`chapter :` 챕터명. '00' 2자리 문자열로 표시한다.
 
 ### 4.2 update `: String`
 `update :` 마지막 업데이트 날짜. 'YYYY-MM-DD' 형태의 문자열로 표시한다.

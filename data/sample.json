@@ -1,12 +1,11 @@
 {
-  "chapter" : "ch13",
+  "chapter" : "13",
   "update" : "2017-01-19",
   "author" : [
     "Phil"
   ],
   "content" : [
     {
-      "mean": "다음 주",
       "characters": [
         {
           "base": "来",
@@ -18,10 +17,10 @@
           "ruby": "しゅう",
           "mean": "주일 주"
         }
-      ]
+      ],
+      "mean": "다음 주"
     },
     {
-      "mean": "술",
       "characters": [
         {
           "base": "お"
@@ -31,12 +30,10 @@
           "ruby": "さけ",
           "mean": "술 주"
         }
-      ]
+      ],
+      "mean": "술"
     },
     {
-      "mean": "내일",
-      "base": "明日",
-      "ruby": "あした",
       "characters": [
         {
           "base": "明",
@@ -46,15 +43,28 @@
           "base": "日",
           "mean": "날 일"
         }
-      ]
+      ],
+      "mean": "내일",
+      "base": "明日",
+      "ruby": "あした"
     },
     {
-      "mean": "반드시/꼭",
+      "base": "きっと",
+      "mean": "반드시/꼭"
+    },
+    {
       "characters": [
         {
-          "base": "きっと"
+          "base": "今日",
+          "ruby": "きょう"
+        },
+        {
+          "base": "中",
+          "ruby": "じゅう",
+          "mean": "가운데 중"
         }
-      ]
+      ],
+      "mean": "오늘 중"
     }
   ]
 }
