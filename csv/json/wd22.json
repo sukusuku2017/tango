@@ -1,0 +1,467 @@
+{
+  "chapter": "22",
+  "update": "2017-02-07",
+  "author": [
+    "Phil"
+  ],
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "聞",
+          "mean": "들을 문",
+          "ruby": "き"
+        },
+        {
+          "base": "く"
+        }
+      ],
+      "mean": "듣다"
+    },
+    {
+      "characters": [
+        {
+          "base": "本",
+          "mean": "근본 본",
+          "ruby": "ほん"
+        },
+        {
+          "base": "当",
+          "mean": "마땅할 당",
+          "ruby": "とう"
+        }
+      ],
+      "mean": "정말"
+    },
+    {
+      "characters": [
+        {
+          "base": "全",
+          "mean": "온전 전",
+          "ruby": "ぜん"
+        },
+        {
+          "base": "然",
+          "mean": "그럴 연",
+          "ruby": "ぜん"
+        }
+      ],
+      "mean": "전혀"
+    },
+    {
+      "characters": [
+        {
+          "base": "知",
+          "mean": "알 지",
+          "ruby": "し"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "알다"
+    },
+    {
+      "characters": [
+        {
+          "base": "相",
+          "mean": "서로 상",
+          "ruby": "あい"
+        },
+        {
+          "base": "手",
+          "mean": "손 수",
+          "ruby": "て"
+        }
+      ],
+      "mean": "상대"
+    },
+    {
+      "base": "どんな",
+      "mean": "어떤"
+    },
+    {
+      "base": "きれいだ",
+      "mean": "예쁘다"
+    },
+    {
+      "base": "それに",
+      "mean": "게다가"
+    },
+    {
+      "characters": [
+        {
+          "base": "国",
+          "mean": "나라 국",
+          "ruby": "こく"
+        },
+        {
+          "base": "際",
+          "mean": "즈음 제",
+          "ruby": "さい"
+        },
+        {
+          "base": "結",
+          "mean": "맺을 결",
+          "ruby": "けっ"
+        },
+        {
+          "base": "婚",
+          "mean": "혼일할 혼",
+          "ruby": "こん"
+        }
+      ],
+      "mean": "국제결혼"
+    },
+    {
+      "base": "すごい",
+      "mean": "굉장하다"
+    },
+    {
+      "base": "うわさ",
+      "mean": "소문"
+    },
+    {
+      "base": "〜によると",
+      "mean": "~에 의하면"
+    },
+    {
+      "characters": [
+        {
+          "base": "同",
+          "mean": "한가지 동",
+          "ruby": "おな"
+        },
+        {
+          "base": "じ"
+        }
+      ],
+      "mean": "같은"
+    },
+    {
+      "characters": [
+        {
+          "base": "大",
+          "mean": "큰 대",
+          "ruby": "だい"
+        },
+        {
+          "base": "学",
+          "mean": "배울 학",
+          "ruby": "がく"
+        }
+      ],
+      "mean": "대학"
+    },
+    {
+      "characters": [
+        {
+          "base": "〜に"
+        },
+        {
+          "base": "住",
+          "mean": "살 주",
+          "ruby": "す"
+        },
+        {
+          "base": "む"
+        }
+      ],
+      "mean": "~에 살다"
+    },
+    {
+      "base": "それで",
+      "mean": "그래서"
+    },
+    {
+      "characters": [
+        {
+          "base": "入",
+          "mean": "들 입",
+          "ruby": "はい"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "들어가다"
+    },
+    {
+      "base": "うらやましい",
+      "mean": "부럽다"
+    },
+    {
+      "characters": [
+        {
+          "base": "話",
+          "mean": "말씀 화",
+          "ruby": "はなし"
+        }
+      ],
+      "mean": "이야기"
+    },
+    {
+      "characters": [
+        {
+          "base": "趣",
+          "mean": "뜻 취",
+          "ruby": "しゅ"
+        },
+        {
+          "base": "味",
+          "mean": "맛 미",
+          "ruby": "み"
+        }
+      ],
+      "mean": "취미"
+    },
+    {
+      "characters": [
+        {
+          "base": "最",
+          "mean": "가장 최",
+          "ruby": "さい"
+        },
+        {
+          "base": "近",
+          "mean": "가까울 근",
+          "ruby": "きん"
+        }
+      ],
+      "mean": "최근"
+    },
+    {
+      "characters": [
+        {
+          "base": "幸",
+          "mean": "다행 행",
+          "ruby": "しあわ"
+        },
+        {
+          "base": "せだ"
+        }
+      ],
+      "mean": "행복하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "新",
+          "mean": "새 신",
+          "ruby": "しん"
+        },
+        {
+          "base": "聞",
+          "mean": "들을 문",
+          "ruby": "ぶん"
+        }
+      ],
+      "mean": "신문"
+    },
+    {
+      "characters": [
+        {
+          "base": "地",
+          "mean": "땅 지",
+          "ruby": "じ"
+        },
+        {
+          "base": "震",
+          "mean": "우레 진",
+          "ruby": "しん"
+        }
+      ],
+      "mean": "지진"
+    },
+    {
+      "base": "二ユース",
+      "mean": "뉴스"
+    },
+    {
+      "characters": [
+        {
+          "base": "台",
+          "mean": "별 태",
+          "ruby": "たい"
+        },
+        {
+          "base": "風",
+          "mean": "바람 풍",
+          "ruby": "ふう"
+        }
+      ],
+      "mean": "태풍"
+    },
+    {
+      "characters": [
+        {
+          "base": "映",
+          "mean": "비칠 영",
+          "ruby": "えい"
+        },
+        {
+          "base": "画",
+          "mean": "그림 화",
+          "ruby": "が"
+        }
+      ],
+      "mean": "영화"
+    },
+    {
+      "characters": [
+        {
+          "base": "彼",
+          "mean": "저 피",
+          "ruby": "かれ"
+        },
+        {
+          "base": "氏",
+          "mean": "각시 씨",
+          "ruby": "し"
+        }
+      ],
+      "mean": "남자 친구"
+    },
+    {
+      "characters": [
+        {
+          "base": "恋",
+          "mean": "사모할 련",
+          "ruby": "こい"
+        },
+        {
+          "base": "人",
+          "mean": "사람 인",
+          "ruby": "びと"
+        }
+      ],
+      "mean": "애인"
+    },
+    {
+      "characters": [
+        {
+          "base": "二",
+          "mean": "두 이"
+        },
+        {
+          "base": "人",
+          "mean": "사람 인"
+        }
+      ],
+      "base": "二人",
+      "ruby": "ふたり",
+      "mean": "두 사람"
+    },
+    {
+      "characters": [
+        {
+          "base": "体",
+          "mean": "몸 체",
+          "ruby": "からだ"
+        }
+      ],
+      "mean": "몸"
+    },
+    {
+      "characters": [
+        {
+          "base": "歌",
+          "mean": "노래 가",
+          "ruby": "か"
+        },
+        {
+          "base": "手",
+          "mean": "손 수",
+          "ruby": "しゅ"
+        }
+      ],
+      "mean": "가수"
+    },
+    {
+      "characters": [
+        {
+          "base": "天",
+          "mean": "하늘 천",
+          "ruby": "てん"
+        },
+        {
+          "base": "気",
+          "mean": "기운 기",
+          "ruby": "き"
+        },
+        {
+          "base": "予",
+          "mean": "미리 예",
+          "ruby": "よ"
+        },
+        {
+          "base": "報",
+          "mean": "알릴 보",
+          "ruby": "ほう"
+        }
+      ],
+      "mean": "일기예보"
+    },
+    {
+      "characters": [
+        {
+          "base": "先",
+          "mean": "먼저 선",
+          "ruby": "せん"
+        },
+        {
+          "base": "輩",
+          "mean": "무리 배",
+          "ruby": "ぱい"
+        }
+      ],
+      "mean": "선배"
+    },
+    {
+      "characters": [
+        {
+          "base": "楽",
+          "mean": "즐길 락",
+          "ruby": "らく"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "편하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "飲",
+          "mean": "마실 음",
+          "ruby": "の"
+        },
+        {
+          "base": "み"
+        },
+        {
+          "base": "会",
+          "mean": "모을 회",
+          "ruby": "かい"
+        }
+      ],
+      "mean": "회식"
+    },
+    {
+      "characters": [
+        {
+          "base": "社",
+          "mean": "모임 사",
+          "ruby": "しゃ"
+        },
+        {
+          "base": "長",
+          "mean": "긴 장",
+          "ruby": "ちょう"
+        }
+      ],
+      "mean": "사장"
+    }
+  ]
+}

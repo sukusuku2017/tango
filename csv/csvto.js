@@ -2,14 +2,14 @@ const Converter = require('csvtojson').Converter;
 const _ = require('underscore');
 const jsonfile = require('jsonfile');
 
+const CHAPTER = '24';
 let resultArray = [];
-
 let tempFuriArray;
 let tempWordArray;
 
 const csv = require('csvtojson')
 csv()
-.fromFile('./csv/14.csv')
+.fromFile('./csv/' + CHAPTER + '.csv')
 .on('csv',(csvRow)=>{
 
   if (!csvRow[0]) {
@@ -124,7 +124,7 @@ csv()
 .on('done',()=>{
 
   let result = {
-    "chapter" : "14",
+    "chapter" : CHAPTER,
     "update" : "2017-02-07",
     "author" : [
       "Phil"
@@ -132,7 +132,7 @@ csv()
     "content" : resultArray
   }
 
-  jsonfile.writeFile('./csv/wd14.json', result, {spaces: 2}, function(err) {
+  jsonfile.writeFile('./csv/wd' + CHAPTER + '.json', result, {spaces: 2}, function(err) {
     console.error(err)
   });
   console.log('end')

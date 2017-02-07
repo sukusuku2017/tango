@@ -304,15 +304,15 @@
       "characters": [
         {
           "base": "明",
-          "mean": "밝을 명",
-          "ruby": "あした"
+          "mean": "밝을 명"
         },
         {
           "base": "日",
-          "mean": "날 일",
-          "ruby": ""
+          "mean": "날 일"
         }
       ],
+      "base": "明日",
+      "ruby": "あした",
       "mean": "내일"
     },
     {
@@ -332,15 +332,15 @@
       "characters": [
         {
           "base": "昨",
-          "mean": "어제 작",
-          "ruby": "きのう"
+          "mean": "어제 작"
         },
         {
           "base": "日",
-          "mean": "날 일",
-          "ruby": ""
+          "mean": "날 일"
         }
       ],
+      "base": "昨日",
+      "ruby": "きのう",
       "mean": "어제"
     },
     {
