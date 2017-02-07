@@ -1,0 +1,402 @@
+{
+  "chapter": "14",
+  "update": "2017-02-07",
+  "author": [
+    "Phil"
+  ],
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "晩",
+          "mean": "늦을 만",
+          "ruby": "ばん"
+        },
+        {
+          "base": "ごはん"
+        }
+      ],
+      "mean": "저녁밥"
+    },
+    {
+      "base": "おしゃべりをする",
+      "mean": "수다를 떨다"
+    },
+    {
+      "base": "おいしいもの",
+      "mean": "맛있는 것"
+    },
+    {
+      "base": "じゃあ",
+      "mean": "그러면"
+    },
+    {
+      "characters": [
+        {
+          "base": "店",
+          "mean": "가게 점",
+          "ruby": "みせ"
+        }
+      ],
+      "mean": "가게"
+    },
+    {
+      "characters": [
+        {
+          "base": "本",
+          "mean": "근본 본",
+          "ruby": "ほん"
+        },
+        {
+          "base": "当",
+          "mean": "마땅할 당",
+          "ruby": "とう"
+        },
+        {
+          "base": "に"
+        }
+      ],
+      "mean": "정말로"
+    },
+    {
+      "characters": [
+        {
+          "base": "最",
+          "mean": "가장 최",
+          "ruby": "さい"
+        },
+        {
+          "base": "近",
+          "mean": "가까울 근",
+          "ruby": "きん"
+        }
+      ],
+      "mean": "최근/요즘"
+    },
+    {
+      "characters": [
+        {
+          "base": "休",
+          "mean": "쉴 휴",
+          "ruby": "やす"
+        },
+        {
+          "base": "み"
+        }
+      ],
+      "mean": "휴일/휴가"
+    },
+    {
+      "base": "〜がほしい",
+      "mean": "~을/를 갖고 싶다(원한다)"
+    },
+    {
+      "base": "そうじ",
+      "mean": "청소"
+    },
+    {
+      "base": "レポート",
+      "mean": "리포트"
+    },
+    {
+      "characters": [
+        {
+          "base": "家",
+          "mean": "집 가",
+          "ruby": "か"
+        },
+        {
+          "base": "族",
+          "mean": "겨레 족",
+          "ruby": "ぞく"
+        }
+      ],
+      "mean": "가족"
+    },
+    {
+      "characters": [
+        {
+          "base": "嫌",
+          "mean": "싫어할 혐",
+          "ruby": "きら"
+        },
+        {
+          "base": "いだ"
+        }
+      ],
+      "mean": "싫어하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "音",
+          "mean": "소리 음",
+          "ruby": "おん"
+        },
+        {
+          "base": "楽",
+          "mean": "풍류 락",
+          "ruby": "がく"
+        }
+      ],
+      "mean": "음악"
+    },
+    {
+      "characters": [
+        {
+          "base": "聞",
+          "mean": "들을 문",
+          "ruby": "き"
+        },
+        {
+          "base": "く"
+        }
+      ],
+      "mean": "듣다"
+    },
+    {
+      "characters": [
+        {
+          "base": "お"
+        },
+        {
+          "base": "菓",
+          "mean": "과자 과",
+          "ruby": "か"
+        },
+        {
+          "base": "子",
+          "mean": "아들 자",
+          "ruby": "し"
+        }
+      ],
+      "mean": "과자"
+    },
+    {
+      "characters": [
+        {
+          "base": "歩",
+          "mean": "걸음 보",
+          "ruby": "ある"
+        },
+        {
+          "base": "く"
+        }
+      ],
+      "mean": "걷다"
+    },
+    {
+      "base": "かける",
+      "mean": "걸다"
+    },
+    {
+      "characters": [
+        {
+          "base": "待",
+          "mean": "기다릴 대",
+          "ruby": "ま"
+        },
+        {
+          "base": "つ"
+        }
+      ],
+      "mean": "기다리다"
+    },
+    {
+      "characters": [
+        {
+          "base": "単",
+          "mean": "홑 단",
+          "ruby": "たん"
+        },
+        {
+          "base": "語",
+          "mean": "말씀 어",
+          "ruby": "ご"
+        }
+      ],
+      "mean": "단어"
+    },
+    {
+      "characters": [
+        {
+          "base": "覚",
+          "mean": "깨달을 각",
+          "ruby": "おぼ"
+        },
+        {
+          "base": "える"
+        }
+      ],
+      "mean": "외우다"
+    },
+    {
+      "characters": [
+        {
+          "base": "散",
+          "mean": "홑을 산",
+          "ruby": "さん"
+        },
+        {
+          "base": "歩",
+          "mean": "걸을 보",
+          "ruby": "ぽ"
+        }
+      ],
+      "mean": "산책"
+    },
+    {
+      "characters": [
+        {
+          "base": "写",
+          "mean": "베낄 사",
+          "ruby": "しゃ"
+        },
+        {
+          "base": "真",
+          "mean": "참 진",
+          "ruby": "しん"
+        }
+      ],
+      "mean": "사진"
+    },
+    {
+      "characters": [
+        {
+          "base": "撮",
+          "mean": "사진 찍을 촬",
+          "ruby": "と"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "찍다"
+    },
+    {
+      "characters": [
+        {
+          "base": "冷",
+          "mean": "찰 랭",
+          "ruby": "つめ"
+        },
+        {
+          "base": "たい"
+        }
+      ],
+      "mean": "차갑다"
+    },
+    {
+      "base": "ビール",
+      "mean": "맥주"
+    },
+    {
+      "characters": [
+        {
+          "base": "習",
+          "mean": "익힐 습",
+          "ruby": "なら"
+        },
+        {
+          "base": "う"
+        }
+      ],
+      "mean": "배우다"
+    },
+    {
+      "characters": [
+        {
+          "base": "誰",
+          "mean": "누구 수",
+          "ruby": "だれ"
+        }
+      ],
+      "mean": "누구"
+    },
+    {
+      "characters": [
+        {
+          "base": "来",
+          "mean": "올 래",
+          "ruby": "らい"
+        },
+        {
+          "base": "月",
+          "mean": "달 월",
+          "ruby": "げつ"
+        }
+      ],
+      "mean": "다음 달"
+    },
+    {
+      "characters": [
+        {
+          "base": "古",
+          "mean": "예 고",
+          "ruby": "ふる"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "낡다"
+    },
+    {
+      "base": "どうして",
+      "mean": "어째서/왜"
+    },
+    {
+      "base": "かわいい",
+      "mean": "귀엽다"
+    },
+    {
+      "characters": [
+        {
+          "base": "不",
+          "mean": "아닐 부",
+          "ruby": "ふ"
+        },
+        {
+          "base": "便",
+          "mean": "편할 편",
+          "ruby": "べん"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "불편하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "お"
+        },
+        {
+          "base": "金",
+          "mean": "쇠 금",
+          "ruby": "かね"
+        }
+      ],
+      "mean": "돈"
+    },
+    {
+      "characters": [
+        {
+          "base": "留",
+          "mean": "머무를 류",
+          "ruby": "りゅう"
+        },
+        {
+          "base": "学",
+          "mean": "배울 학",
+          "ruby": "がく"
+        },
+        {
+          "base": "する"
+        }
+      ],
+      "mean": "유학가다"
+    }
+  ]
+}

@@ -9,7 +9,7 @@ let tempWordArray;
 
 const csv = require('csvtojson')
 csv()
-.fromFile('./csv/31.csv')
+.fromFile('./csv/14.csv')
 .on('csv',(csvRow)=>{
 
   if (!csvRow[0]) {
@@ -124,7 +124,7 @@ csv()
 .on('done',()=>{
 
   let result = {
-    "chapter" : "31",
+    "chapter" : "14",
     "update" : "2017-02-07",
     "author" : [
       "Phil"
@@ -132,7 +132,7 @@ csv()
     "content" : resultArray
   }
 
-  jsonfile.writeFile('./csv/wd31.json', result, {spaces: 2}, function(err) {
+  jsonfile.writeFile('./csv/wd14.json', result, {spaces: 2}, function(err) {
     console.error(err)
   });
   console.log('end')
