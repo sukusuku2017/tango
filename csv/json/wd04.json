@@ -1,0 +1,233 @@
+{
+  "chapter": "04",
+  "update": "2017-02-07",
+  "author": [
+    "Phil"
+  ],
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "暑",
+          "mean": "더울 서",
+          "ruby": "あつ"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "덥다"
+    },
+    {
+      "characters": [
+        {
+          "base": "寒",
+          "mean": "찰 한",
+          "ruby": "さむ"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "춥다"
+    },
+    {
+      "characters": [
+        {
+          "base": "高",
+          "mean": "높을 고",
+          "ruby": "たか"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "비싸다"
+    },
+    {
+      "characters": [
+        {
+          "base": "安",
+          "mean": "편안 안",
+          "ruby": "やす"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "싸다"
+    },
+    {
+      "characters": [
+        {
+          "base": "大",
+          "mean": "큰 대",
+          "ruby": "おお"
+        },
+        {
+          "base": "きい"
+        }
+      ],
+      "mean": "크다"
+    },
+    {
+      "characters": [
+        {
+          "base": "小",
+          "mean": "작을 소",
+          "ruby": "ちい"
+        },
+        {
+          "base": "さい"
+        }
+      ],
+      "mean": "작다"
+    },
+    {
+      "characters": [
+        {
+          "base": "近",
+          "mean": "가까울 근",
+          "ruby": "ちか"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "가깝다"
+    },
+    {
+      "characters": [
+        {
+          "base": "遠",
+          "mean": "멀 원",
+          "ruby": "とお"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "멀다"
+    },
+    {
+      "characters": [
+        {
+          "base": "新",
+          "mean": "새 신",
+          "ruby": "あたら"
+        },
+        {
+          "base": "しい"
+        }
+      ],
+      "mean": "새롭다"
+    },
+    {
+      "characters": [
+        {
+          "base": "古",
+          "mean": "예 고",
+          "ruby": "ふる"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "낡다"
+    },
+    {
+      "characters": [
+        {
+          "base": "難",
+          "mean": "어려울 난",
+          "ruby": "むずか"
+        },
+        {
+          "base": "しい"
+        }
+      ],
+      "mean": "어렵다"
+    },
+    {
+      "characters": [
+        {
+          "base": "易",
+          "mean": "쉬울 이",
+          "ruby": "やさ"
+        },
+        {
+          "base": "しい"
+        }
+      ],
+      "mean": "쉽다"
+    },
+    {
+      "characters": [
+        {
+          "base": "悪",
+          "mean": "악할 악",
+          "ruby": "わる"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "나쁘다"
+    },
+    {
+      "base": "いい/よい",
+      "mean": "좋다"
+    },
+    {
+      "characters": [
+        {
+          "base": "多",
+          "mean": "많을 다",
+          "ruby": "おお"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "많다"
+    },
+    {
+      "characters": [
+        {
+          "base": "少",
+          "mean": "적을 소",
+          "ruby": "すく"
+        },
+        {
+          "base": "ない"
+        }
+      ],
+      "mean": "적다"
+    },
+    {
+      "base": "おいしい",
+      "mean": "맛있다"
+    },
+    {
+      "base": "おもしろい",
+      "mean": "재미있다"
+    },
+    {
+      "characters": [
+        {
+          "base": "忙",
+          "mean": "바쁠 망",
+          "ruby": "いそが"
+        },
+        {
+          "base": "しい"
+        }
+      ],
+      "mean": "바쁘다"
+    },
+    {
+      "base": "かわいい",
+      "mean": "귀엽다"
+    }
+  ]
+}

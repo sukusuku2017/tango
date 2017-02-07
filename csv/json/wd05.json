@@ -1,0 +1,269 @@
+{
+  "chapter": "05",
+  "update": "2017-02-07",
+  "author": [
+    "Phil"
+  ],
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "広",
+          "mean": "넓을 광",
+          "ruby": "ひろ"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "넓다"
+    },
+    {
+      "characters": [
+        {
+          "base": "狭",
+          "mean": "좁을 협",
+          "ruby": "せま"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "좁다"
+    },
+    {
+      "characters": [
+        {
+          "base": "重",
+          "mean": "무거울 중",
+          "ruby": "おも"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "무겁다"
+    },
+    {
+      "characters": [
+        {
+          "base": "軽",
+          "mean": "가벼울 경",
+          "ruby": "かる"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "가볍다"
+    },
+    {
+      "characters": [
+        {
+          "base": "高",
+          "mean": "높을 고",
+          "ruby": "たか"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "높다"
+    },
+    {
+      "characters": [
+        {
+          "base": "低",
+          "mean": "낮을 저",
+          "ruby": "ひく"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "낮다"
+    },
+    {
+      "characters": [
+        {
+          "base": "明",
+          "mean": "밝을 명",
+          "ruby": "あか"
+        },
+        {
+          "base": "るい"
+        }
+      ],
+      "mean": "밝다"
+    },
+    {
+      "characters": [
+        {
+          "base": "暗",
+          "mean": "어두울 암",
+          "ruby": "くら"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "어둡다"
+    },
+    {
+      "characters": [
+        {
+          "base": "長",
+          "mean": "긴 장",
+          "ruby": "なが"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "길다"
+    },
+    {
+      "characters": [
+        {
+          "base": "短",
+          "mean": "짧을 단",
+          "ruby": "みじか"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "짧다"
+    },
+    {
+      "characters": [
+        {
+          "base": "怖",
+          "mean": "두려워할 포",
+          "ruby": "こわ"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "무섭다"
+    },
+    {
+      "characters": [
+        {
+          "base": "煩",
+          "mean": "번거로울 번",
+          "ruby": "うるさ"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "시끄럽다"
+    },
+    {
+      "characters": [
+        {
+          "base": "速",
+          "mean": "빠를 속",
+          "ruby": "はや"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "빠르다"
+    },
+    {
+      "characters": [
+        {
+          "base": "強",
+          "mean": "굳셀 강",
+          "ruby": "つよ"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "강하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "甘",
+          "mean": "달 감",
+          "ruby": "あま"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "달다"
+    },
+    {
+      "characters": [
+        {
+          "base": "辛",
+          "mean": "매울 신",
+          "ruby": "から"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "맵다"
+    },
+    {
+      "characters": [
+        {
+          "base": "黒",
+          "mean": "검을 흑",
+          "ruby": "くろ"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "까맣다"
+    },
+    {
+      "characters": [
+        {
+          "base": "白",
+          "mean": "흰 백",
+          "ruby": "しろ"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "하얗다"
+    },
+    {
+      "characters": [
+        {
+          "base": "赤",
+          "mean": "붉을 적",
+          "ruby": "あか"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "빨갛다"
+    },
+    {
+      "characters": [
+        {
+          "base": "青",
+          "mean": "푸를 청",
+          "ruby": "あお"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "파랗다"
+    }
+  ]
+}

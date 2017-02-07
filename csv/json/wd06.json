@@ -1,0 +1,335 @@
+{
+  "chapter": "06",
+  "update": "2017-02-07",
+  "author": [
+    "Phil"
+  ],
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "好",
+          "mean": "좋을 호",
+          "ruby": "す"
+        },
+        {
+          "base": "きだ"
+        }
+      ],
+      "mean": "좋아하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "嫌",
+          "mean": "싫어할 혐",
+          "ruby": "きら"
+        },
+        {
+          "base": "いだ"
+        }
+      ],
+      "mean": "싫어하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "上",
+          "mean": "윗 상",
+          "ruby": "じょう"
+        },
+        {
+          "base": "手",
+          "mean": "손 수",
+          "ruby": "ず"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "잘하다/능숙하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "下",
+          "mean": "아래 하",
+          "ruby": "へ"
+        },
+        {
+          "base": "手",
+          "mean": "손 수",
+          "ruby": "た"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "잘 못하다/서투르다"
+    },
+    {
+      "characters": [
+        {
+          "base": "便",
+          "mean": "편할 편",
+          "ruby": "べん"
+        },
+        {
+          "base": "利",
+          "mean": "이할 리",
+          "ruby": "り"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "편리하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "不",
+          "mean": "아닐 불",
+          "ruby": "ふ"
+        },
+        {
+          "base": "便",
+          "mean": "편할 편",
+          "ruby": "べん"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "불편하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "静",
+          "mean": "고요할 정",
+          "ruby": "しず"
+        },
+        {
+          "base": "かだ"
+        }
+      ],
+      "mean": "조용하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "賑",
+          "mean": "구휼할 진",
+          "ruby": "にぎ"
+        },
+        {
+          "base": "やかだ"
+        }
+      ],
+      "mean": "번화하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "親",
+          "mean": "친할 친",
+          "ruby": "しん"
+        },
+        {
+          "base": "切",
+          "mean": "끊을 절",
+          "ruby": "せつ"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "친절하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "真",
+          "mean": "참 진",
+          "ruby": "ま"
+        },
+        {
+          "base": "面",
+          "mean": "낯 면",
+          "ruby": "じ"
+        },
+        {
+          "base": "目",
+          "mean": "눈 목",
+          "ruby": "め"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "성실하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "元",
+          "mean": "의뜸 원",
+          "ruby": "げん"
+        },
+        {
+          "base": "気",
+          "mean": "기운 기",
+          "ruby": "き"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "건강하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "丈",
+          "mean": "어른 장",
+          "ruby": "じょう"
+        },
+        {
+          "base": "夫",
+          "mean": "지아비 부",
+          "ruby": "ぶ"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "튼튼하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "綺",
+          "mean": "비단 기",
+          "ruby": "き"
+        },
+        {
+          "base": "麗",
+          "mean": "고울 려",
+          "ruby": "れい"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "깨끗하다/예쁘다"
+    },
+    {
+      "base": "ハンサムだ",
+      "mean": "핸섬하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "有",
+          "mean": "있을 유",
+          "ruby": "ゆう"
+        },
+        {
+          "base": "名",
+          "mean": "이름 명",
+          "ruby": "めい"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "유명하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "簡",
+          "mean": "간락할 간",
+          "ruby": "かん"
+        },
+        {
+          "base": "単",
+          "mean": "홑 단",
+          "ruby": "たん"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "간단하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "暇",
+          "mean": "틈 가",
+          "ruby": "ひま"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "한가하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "立",
+          "mean": "설 립",
+          "ruby": "りっ"
+        },
+        {
+          "base": "派",
+          "mean": "갈래 파",
+          "ruby": "ぱ"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "훌륭하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "新",
+          "mean": "새 신",
+          "ruby": "しん"
+        },
+        {
+          "base": "鮮",
+          "mean": "고울 선",
+          "ruby": "せん"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "신선하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "大",
+          "mean": "큰 대",
+          "ruby": "たい"
+        },
+        {
+          "base": "変",
+          "mean": "변할 변",
+          "ruby": "へん"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "힘들다"
+    }
+  ]
+}
