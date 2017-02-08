@@ -1,0 +1,603 @@
+{
+  "chapter": "25",
+  "update": "2017-02-08",
+  "author": [
+    "Phil"
+  ],
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "今",
+          "mean": "이제 금",
+          "ruby": "こん"
+        },
+        {
+          "base": "度",
+          "mean": "법 도",
+          "ruby": "ど"
+        }
+      ],
+      "mean": "이번"
+    },
+    {
+      "characters": [
+        {
+          "base": "連",
+          "mean": "이을 련",
+          "ruby": "れん"
+        },
+        {
+          "base": "休",
+          "mean": "쉴 휴",
+          "ruby": "きゅう"
+        }
+      ],
+      "mean": "연휴"
+    },
+    {
+      "base": "どこか",
+      "mean": "어딘가"
+    },
+    {
+      "base": "まず",
+      "mean": "우선/먼저"
+    },
+    {
+      "characters": [
+        {
+          "base": "有",
+          "mean": "있을 유",
+          "ruby": "ゆう"
+        },
+        {
+          "base": "名",
+          "mean": "이름 명",
+          "ruby": "めい"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "유명하다"
+    },
+    {
+      "base": "たくさん",
+      "mean": "많이"
+    },
+    {
+      "base": "ある",
+      "mean": "(사물, 물건이) 있다"
+    },
+    {
+      "base": "それなら",
+      "mean": "그렇다면"
+    },
+    {
+      "base": "〜にする",
+      "mean": "~로 하다"
+    },
+    {
+      "base": "どうやって",
+      "mean": "어떻게"
+    },
+    {
+      "characters": [
+        {
+          "base": "車",
+          "mean": "수레 차",
+          "ruby": "くるま"
+        }
+      ],
+      "mean": "차"
+    },
+    {
+      "characters": [
+        {
+          "base": "習",
+          "mean": "익힐 습",
+          "ruby": "なら"
+        },
+        {
+          "base": "う"
+        }
+      ],
+      "mean": "배우다"
+    },
+    {
+      "characters": [
+        {
+          "base": "急",
+          "mean": "급할 급",
+          "ruby": "いそ"
+        },
+        {
+          "base": "ぐ"
+        }
+      ],
+      "mean": "서두르다"
+    },
+    {
+      "base": "やせる",
+      "mean": "마르다/살빼다"
+    },
+    {
+      "base": "〜がほしい",
+      "mean": "~을/를 갖고 싶다(원하다)"
+    },
+    {
+      "characters": [
+        {
+          "base": "風",
+          "mean": "바람 풍",
+          "ruby": "か"
+        },
+        {
+          "base": "邪",
+          "mean": "간가할 사",
+          "ruby": "ぜ"
+        }
+      ],
+      "mean": "감기"
+    },
+    {
+      "characters": [
+        {
+          "base": "手",
+          "mean": "손 수",
+          "ruby": "て"
+        },
+        {
+          "base": "伝",
+          "mean": "전할 전",
+          "ruby": "つだ"
+        },
+        {
+          "base": "う"
+        }
+      ],
+      "mean": "돕다/거들다"
+    },
+    {
+      "characters": [
+        {
+          "base": "平",
+          "mean": "평평할 평",
+          "ruby": "へい"
+        },
+        {
+          "base": "日",
+          "mean": "날 일",
+          "ruby": "じつ"
+        }
+      ],
+      "mean": "평일"
+    },
+    {
+      "characters": [
+        {
+          "base": "少",
+          "mean": "적을 소",
+          "ruby": "すく"
+        },
+        {
+          "base": "ない"
+        }
+      ],
+      "mean": "적다"
+    },
+    {
+      "characters": [
+        {
+          "base": "社",
+          "mean": "모일 사",
+          "ruby": "しゃ"
+        },
+        {
+          "base": "員",
+          "mean": "인원 원",
+          "ruby": "いん"
+        },
+        {
+          "base": "旅",
+          "mean": "나그네 려",
+          "ruby": "りょ"
+        },
+        {
+          "base": "行",
+          "mean": "다닐 행",
+          "ruby": "こう"
+        }
+      ],
+      "mean": "사원여행/회사 단체여행"
+    },
+    {
+      "characters": [
+        {
+          "base": "甘",
+          "mean": "달 감",
+          "ruby": "あま"
+        },
+        {
+          "base": "い"
+        },
+        {
+          "base": "物",
+          "mean": "물건 물",
+          "ruby": "もの"
+        }
+      ],
+      "mean": "단 것"
+    },
+    {
+      "base": "デザート",
+      "mean": "디저트"
+    },
+    {
+      "characters": [
+        {
+          "base": "海",
+          "mean": "바다 해",
+          "ruby": "うみ"
+        }
+      ],
+      "mean": "바다"
+    },
+    {
+      "characters": [
+        {
+          "base": "治",
+          "mean": "다스릴 치",
+          "ruby": "なお"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "낫다/치료하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "お"
+        },
+        {
+          "base": "見",
+          "mean": "볼 견",
+          "ruby": "み"
+        },
+        {
+          "base": "合",
+          "mean": "합할 합",
+          "ruby": "あ"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "맞선"
+    },
+    {
+      "characters": [
+        {
+          "base": "時",
+          "mean": "때 시",
+          "ruby": "じ"
+        },
+        {
+          "base": "間",
+          "mean": "사이 간",
+          "ruby": "かん"
+        }
+      ],
+      "mean": "시간"
+    },
+    {
+      "characters": [
+        {
+          "base": "夏",
+          "mean": "여름 하",
+          "ruby": "なつ"
+        },
+        {
+          "base": "休",
+          "mean": "쉴 휴",
+          "ruby": "やす"
+        },
+        {
+          "base": "み"
+        }
+      ],
+      "mean": "여름휴가"
+    },
+    {
+      "characters": [
+        {
+          "base": "来",
+          "mean": "올 래",
+          "ruby": "らい"
+        },
+        {
+          "base": "月",
+          "mean": "달 월",
+          "ruby": "げつ"
+        }
+      ],
+      "mean": "다음 달"
+    },
+    {
+      "characters": [
+        {
+          "base": "試",
+          "mean": "시험 시",
+          "ruby": "し"
+        },
+        {
+          "base": "験",
+          "mean": "시험할 험",
+          "ruby": "けん"
+        }
+      ],
+      "mean": "시험"
+    },
+    {
+      "characters": [
+        {
+          "base": "合",
+          "mean": "합할 합",
+          "ruby": "ごう"
+        },
+        {
+          "base": "格",
+          "mean": "격식 격",
+          "ruby": "かく"
+        },
+        {
+          "base": "する"
+        }
+      ],
+      "mean": "합격하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "山",
+          "mean": "메 산",
+          "ruby": "やま"
+        }
+      ],
+      "mean": "산"
+    },
+    {
+      "characters": [
+        {
+          "base": "〜に"
+        },
+        {
+          "base": "登",
+          "mean": "오를 등",
+          "ruby": "のぼ"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "~에 오르다"
+    },
+    {
+      "characters": [
+        {
+          "base": "ホラー"
+        },
+        {
+          "base": "映",
+          "mean": "비칠 영",
+          "ruby": "えい"
+        },
+        {
+          "base": "画",
+          "mean": "그림 화",
+          "ruby": "が"
+        }
+      ],
+      "mean": "공포영화"
+    },
+    {
+      "characters": [
+        {
+          "base": "買",
+          "mean": "살 매",
+          "ruby": "か"
+        },
+        {
+          "base": "い"
+        },
+        {
+          "base": "物",
+          "mean": "물건 물",
+          "ruby": "もの"
+        }
+      ],
+      "mean": "쇼핑"
+    },
+    {
+      "base": "セール",
+      "mean": "세일"
+    },
+    {
+      "characters": [
+        {
+          "base": "合",
+          "mean": "합할 합",
+          "ruby": "ごう"
+        },
+        {
+          "base": "コン"
+        }
+      ],
+      "mean": "미팅"
+    },
+    {
+      "characters": [
+        {
+          "base": "相",
+          "mean": "서로 상",
+          "ruby": "あい"
+        },
+        {
+          "base": "手",
+          "mean": "손 수",
+          "ruby": "て"
+        }
+      ],
+      "mean": "상대"
+    },
+    {
+      "characters": [
+        {
+          "base": "お"
+        },
+        {
+          "base": "金",
+          "mean": "쇠 금",
+          "ruby": "かね"
+        },
+        {
+          "base": "持",
+          "mean": "가질 지",
+          "ruby": "も"
+        },
+        {
+          "base": "ち"
+        }
+      ],
+      "mean": "부자"
+    },
+    {
+      "base": "ダンス",
+      "mean": "댄스"
+    },
+    {
+      "characters": [
+        {
+          "base": "スキー"
+        },
+        {
+          "base": "場",
+          "mean": "마당 장",
+          "ruby": "じょう"
+        }
+      ],
+      "mean": "스키장"
+    },
+    {
+      "characters": [
+        {
+          "base": "安",
+          "mean": "편안 안",
+          "ruby": "あん"
+        },
+        {
+          "base": "全",
+          "mean": "온전 전",
+          "ruby": "ぜん"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "안전하다"
+    },
+    {
+      "base": "パーティー",
+      "mean": "파티"
+    },
+    {
+      "characters": [
+        {
+          "base": "駅",
+          "mean": "정거장 역",
+          "ruby": "えき"
+        },
+        {
+          "base": "前",
+          "mean": "앞 전",
+          "ruby": "まえ"
+        }
+      ],
+      "mean": "역 앞"
+    },
+    {
+      "characters": [
+        {
+          "base": "会",
+          "mean": "모을 회",
+          "ruby": "かい"
+        },
+        {
+          "base": "議",
+          "mean": "의논할 의",
+          "ruby": "ぎ"
+        }
+      ],
+      "mean": "회의"
+    },
+    {
+      "characters": [
+        {
+          "base": "勉",
+          "mean": "힘쓸 면",
+          "ruby": "べん"
+        },
+        {
+          "base": "強",
+          "mean": "굳셀 강",
+          "ruby": "きょう"
+        },
+        {
+          "base": "会",
+          "mean": "모을 회",
+          "ruby": "かい"
+        }
+      ],
+      "mean": "스터디"
+    },
+    {
+      "base": "リーダー",
+      "mean": "리더"
+    },
+    {
+      "characters": [
+        {
+          "base": "お"
+        },
+        {
+          "base": "土",
+          "mean": "흙 토",
+          "ruby": "みやげ"
+        },
+        {
+          "base": "産",
+          "mean": "낳을 산",
+          "ruby": ""
+        }
+      ],
+      "mean": "선물"
+    },
+    {
+      "characters": [
+        {
+          "base": "紅",
+          "mean": "붉을 홍",
+          "ruby": "こう"
+        },
+        {
+          "base": "茶",
+          "mean": "차 차",
+          "ruby": "ちゃ"
+        }
+      ],
+      "mean": "홍차"
+    }
+  ]
+}

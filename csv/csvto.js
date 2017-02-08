@@ -2,7 +2,7 @@ const Converter = require('csvtojson').Converter;
 const _ = require('underscore');
 const jsonfile = require('jsonfile');
 
-const CHAPTER = '18';
+const CHAPTER = '30';
 let resultArray = [];
 let tempFuriArray;
 let tempWordArray;

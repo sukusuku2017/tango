@@ -1,0 +1,606 @@
+{
+  "chapter": "30",
+  "update": "2017-02-08",
+  "author": [
+    "Phil"
+  ],
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "顔",
+          "mean": "낯 안",
+          "ruby": "かお"
+        },
+        {
+          "base": "色",
+          "mean": "빛 색",
+          "ruby": "いろ"
+        }
+      ],
+      "mean": "안색/얼굴색"
+    },
+    {
+      "characters": [
+        {
+          "base": "無",
+          "mean": "없을 무",
+          "ruby": "む"
+        },
+        {
+          "base": "理",
+          "mean": "다스릴 리",
+          "ruby": "り"
+        }
+      ],
+      "mean": "무리"
+    },
+    {
+      "characters": [
+        {
+          "base": "壊",
+          "mean": "무너질 괴",
+          "ruby": "こわ"
+        },
+        {
+          "base": "す"
+        }
+      ],
+      "mean": "망가뜨리다"
+    },
+    {
+      "characters": [
+        {
+          "base": "特",
+          "mean": "특별할 특",
+          "ruby": "とく"
+        },
+        {
+          "base": "に"
+        }
+      ],
+      "mean": "특히"
+    },
+    {
+      "characters": [
+        {
+          "base": "何",
+          "mean": "어찌 하",
+          "ruby": "なに"
+        },
+        {
+          "base": "も"
+        }
+      ],
+      "mean": "아무것도"
+    },
+    {
+      "characters": [
+        {
+          "base": "変",
+          "mean": "변할 변",
+          "ruby": "か"
+        },
+        {
+          "base": "わる"
+        }
+      ],
+      "mean": "변하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "赤",
+          "mean": "붉을 적",
+          "ruby": "あか"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "빨갛다"
+    },
+    {
+      "characters": [
+        {
+          "base": "気",
+          "mean": "기운 기",
+          "ruby": "き"
+        },
+        {
+          "base": "分",
+          "mean": "나눌 분",
+          "ruby": "ぶん"
+        }
+      ],
+      "mean": "기분"
+    },
+    {
+      "base": "すぐに",
+      "mean": "금방/곧"
+    },
+    {
+      "characters": [
+        {
+          "base": "恥",
+          "mean": "부끄러울 치",
+          "ruby": "は"
+        },
+        {
+          "base": "ずかしい"
+        }
+      ],
+      "mean": "부끄럽다/창피하다"
+    },
+    {
+      "base": "つまらない",
+      "mean": "재미없다/시시하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "〜に"
+        },
+        {
+          "base": "慣",
+          "mean": "익숙할 관",
+          "ruby": "な"
+        },
+        {
+          "base": "れる"
+        }
+      ],
+      "mean": "~에 익숙하다/~에 길들여지다"
+    },
+    {
+      "characters": [
+        {
+          "base": "娘",
+          "mean": "계집 낭",
+          "ruby": "むすめ"
+        }
+      ],
+      "mean": "딸"
+    },
+    {
+      "base": "もうすぐ",
+      "mean": "이제 곧"
+    },
+    {
+      "characters": [
+        {
+          "base": "20"
+        },
+        {
+          "base": "歳",
+          "mean": "해 세",
+          "ruby": ""
+        }
+      ],
+      "mean": "스무살"
+    },
+    {
+      "characters": [
+        {
+          "base": "咲",
+          "mean": "필 소",
+          "ruby": "さ"
+        },
+        {
+          "base": "く"
+        }
+      ],
+      "mean": "(꽃이) 피다"
+    },
+    {
+      "characters": [
+        {
+          "base": "道",
+          "mean": "길 도",
+          "ruby": "みち"
+        }
+      ],
+      "mean": "길"
+    },
+    {
+      "base": "まっすぐ",
+      "mean": "똑바로/곧장"
+    },
+    {
+      "base": "ボタン",
+      "mean": "버튼/단추"
+    },
+    {
+      "characters": [
+        {
+          "base": "押",
+          "mean": "누를 압",
+          "ruby": "お"
+        },
+        {
+          "base": "す"
+        }
+      ],
+      "mean": "누르다/밀다"
+    },
+    {
+      "characters": [
+        {
+          "base": "水",
+          "mean": "물 수",
+          "ruby": "みず"
+        }
+      ],
+      "mean": "물"
+    },
+    {
+      "characters": [
+        {
+          "base": "出",
+          "mean": "날 출",
+          "ruby": "で"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "나가다/나오다"
+    },
+    {
+      "base": "まずい",
+      "mean": "맛없다"
+    },
+    {
+      "characters": [
+        {
+          "base": "年",
+          "mean": "해 년",
+          "ruby": "とし"
+        },
+        {
+          "base": "を"
+        },
+        {
+          "base": "とる"
+        }
+      ],
+      "mean": "나이가 들다/나이를 먹다"
+    },
+    {
+      "characters": [
+        {
+          "base": "電",
+          "mean": "번개 전",
+          "ruby": "でん"
+        },
+        {
+          "base": "気",
+          "mean": "기운 기",
+          "ruby": "き"
+        }
+      ],
+      "mean": "전기"
+    },
+    {
+      "characters": [
+        {
+          "base": "明",
+          "mean": "밝을 명",
+          "ruby": "あか"
+        },
+        {
+          "base": "るい"
+        }
+      ],
+      "mean": "밝다"
+    },
+    {
+      "characters": [
+        {
+          "base": "一",
+          "mean": "한 일",
+          "ruby": "いち"
+        },
+        {
+          "base": "日",
+          "mean": "날 일",
+          "ruby": "にち"
+        },
+        {
+          "base": "中",
+          "mean": "가운데 중",
+          "ruby": "じゅう"
+        }
+      ],
+      "mean": "하루 종일"
+    },
+    {
+      "characters": [
+        {
+          "base": "使",
+          "mean": "부릴 사",
+          "ruby": "つか"
+        },
+        {
+          "base": "う"
+        }
+      ],
+      "mean": "사용하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "目",
+          "mean": "눈 목",
+          "ruby": "め"
+        }
+      ],
+      "mean": "눈"
+    },
+    {
+      "characters": [
+        {
+          "base": "痛",
+          "mean": "아플 통",
+          "ruby": "いた"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "아프다"
+    },
+    {
+      "characters": [
+        {
+          "base": "仲",
+          "mean": "버금 중",
+          "ruby": "なか"
+        },
+        {
+          "base": "が"
+        },
+        {
+          "base": "いい"
+        }
+      ],
+      "mean": "사이가 좋다"
+    },
+    {
+      "base": "エレベーター",
+      "mean": "엘리베이터"
+    },
+    {
+      "base": "できる",
+      "mean": "생기다"
+    },
+    {
+      "base": "うそをつく",
+      "mean": "거짓말 하다"
+    },
+    {
+      "base": "けんか",
+      "mean": "싸움"
+    },
+    {
+      "base": "ストレス",
+      "mean": "스트레스"
+    },
+    {
+      "base": "たまる",
+      "mean": "쌓이다"
+    },
+    {
+      "characters": [
+        {
+          "base": "お"
+        },
+        {
+          "base": "腹",
+          "mean": "배 복",
+          "ruby": "なか"
+        },
+        {
+          "base": "がいっぱいだ"
+        }
+      ],
+      "mean": "배가 부르다"
+    },
+    {
+      "characters": [
+        {
+          "base": "番",
+          "mean": "차례 번",
+          "ruby": "ばん"
+        },
+        {
+          "base": "組",
+          "mean": "짤 조",
+          "ruby": "ぐみ"
+        }
+      ],
+      "mean": "방송"
+    },
+    {
+      "characters": [
+        {
+          "base": "買",
+          "mean": "살 매",
+          "ruby": "か"
+        },
+        {
+          "base": "う"
+        }
+      ],
+      "mean": "사다"
+    },
+    {
+      "characters": [
+        {
+          "base": "付",
+          "mean": "부칠 부",
+          "ruby": "つ"
+        },
+        {
+          "base": "き"
+        },
+        {
+          "base": "合",
+          "mean": "합할 합",
+          "ruby": "あ"
+        },
+        {
+          "base": "う"
+        }
+      ],
+      "mean": "사귀다"
+    },
+    {
+      "characters": [
+        {
+          "base": "学",
+          "mean": "배울 학",
+          "ruby": "がっ"
+        },
+        {
+          "base": "校",
+          "mean": "학교 교",
+          "ruby": "こう"
+        }
+      ],
+      "mean": "학교"
+    },
+    {
+      "base": "なくなる",
+      "mean": "없어지다"
+    },
+    {
+      "characters": [
+        {
+          "base": "文",
+          "mean": "글월 문",
+          "ruby": "ぶん"
+        },
+        {
+          "base": "法",
+          "mean": "법 법",
+          "ruby": "ぽう"
+        }
+      ],
+      "mean": "문법"
+    },
+    {
+      "base": "なかなか",
+      "mean": "좀처럼"
+    },
+    {
+      "characters": [
+        {
+          "base": "悩",
+          "mean": "번뇌할 뇌",
+          "ruby": "なや"
+        },
+        {
+          "base": "む"
+        }
+      ],
+      "mean": "고민하다"
+    },
+    {
+      "base": "そんな",
+      "mean": "그런"
+    },
+    {
+      "base": "おすすめ",
+      "mean": "추천"
+    },
+    {
+      "characters": [
+        {
+          "base": "教",
+          "mean": "가르칠 교",
+          "ruby": "きょう"
+        },
+        {
+          "base": "材",
+          "mean": "재목 재",
+          "ruby": "ざい"
+        }
+      ],
+      "mean": "교재"
+    },
+    {
+      "base": "〜だけで",
+      "mean": "~만으로"
+    },
+    {
+      "characters": [
+        {
+          "base": "発",
+          "mean": "필 발",
+          "ruby": "はつ"
+        },
+        {
+          "base": "音",
+          "mean": "소리 음",
+          "ruby": "おん"
+        }
+      ],
+      "mean": "발음"
+    },
+    {
+      "base": "だんだん",
+      "mean": "점점"
+    },
+    {
+      "characters": [
+        {
+          "base": "会",
+          "mean": "모을 회",
+          "ruby": "かい"
+        },
+        {
+          "base": "話",
+          "mean": "말씀 화",
+          "ruby": "わ"
+        }
+      ],
+      "mean": "회화"
+    },
+    {
+      "characters": [
+        {
+          "base": "転",
+          "mean": "구를 전",
+          "ruby": "てん"
+        },
+        {
+          "base": "勤",
+          "mean": "부지런할 근",
+          "ruby": "きん"
+        },
+        {
+          "base": "する"
+        }
+      ],
+      "mean": "전근 가다"
+    },
+    {
+      "characters": [
+        {
+          "base": "始",
+          "mean": "비로소 시",
+          "ruby": "はじ"
+        },
+        {
+          "base": "める"
+        }
+      ],
+      "mean": "시작하다"
+    },
+    {
+      "base": "ぺらぺら",
+      "mean": "유창하게/줄줄"
+    }
+  ]
+}

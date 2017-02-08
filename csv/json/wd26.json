@@ -1,0 +1,476 @@
+{
+  "chapter": "26",
+  "update": "2017-02-08",
+  "author": [
+    "Phil"
+  ],
+  "content": [
+    {
+      "base": "セーター",
+      "mean": "스웨터"
+    },
+    {
+      "characters": [
+        {
+          "base": "暖",
+          "mean": "따뜻할 난",
+          "ruby": "あたた"
+        },
+        {
+          "base": "かい"
+        }
+      ],
+      "mean": "따뜻하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "少",
+          "mean": "적을 소",
+          "ruby": "すこ"
+        },
+        {
+          "base": "し"
+        }
+      ],
+      "mean": "조금"
+    },
+    {
+      "characters": [
+        {
+          "base": "見",
+          "mean": "볼 견",
+          "ruby": "み"
+        },
+        {
+          "base": "える"
+        }
+      ],
+      "mean": "보이다"
+    },
+    {
+      "base": "それに",
+      "mean": "게다가"
+    },
+    {
+      "characters": [
+        {
+          "base": "軽",
+          "mean": "가벼울 경",
+          "ruby": "かる"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "가볍다"
+    },
+    {
+      "base": "プレゼント",
+      "mean": "선물"
+    },
+    {
+      "characters": [
+        {
+          "base": "地",
+          "mean": "땅 지",
+          "ruby": "ち"
+        },
+        {
+          "base": "下",
+          "mean": "아래 하",
+          "ruby": "か"
+        }
+      ],
+      "mean": "지하"
+    },
+    {
+      "characters": [
+        {
+          "base": "パン"
+        },
+        {
+          "base": "屋",
+          "mean": "집 옥",
+          "ruby": "や"
+        }
+      ],
+      "mean": "빵집"
+    },
+    {
+      "base": "それなら",
+      "mean": "그렇다면"
+    },
+    {
+      "characters": [
+        {
+          "base": "〜に"
+        },
+        {
+          "base": "遅",
+          "mean": "늦을 지",
+          "ruby": "おく"
+        },
+        {
+          "base": "れる"
+        }
+      ],
+      "mean": "~에 늦다"
+    },
+    {
+      "characters": [
+        {
+          "base": "今",
+          "mean": "이제 금",
+          "ruby": "いま"
+        },
+        {
+          "base": "にも"
+        }
+      ],
+      "mean": "금방이라도"
+    },
+    {
+      "characters": [
+        {
+          "base": "降",
+          "mean": "내릴 강",
+          "ruby": "ふ"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "(비가) 내리다"
+    },
+    {
+      "characters": [
+        {
+          "base": "頭",
+          "mean": "머리 두",
+          "ruby": "あたま"
+        }
+      ],
+      "mean": "머리"
+    },
+    {
+      "characters": [
+        {
+          "base": "時",
+          "mean": "때 시",
+          "ruby": "じ"
+        },
+        {
+          "base": "間",
+          "mean": "사이 간",
+          "ruby": "かん"
+        }
+      ],
+      "mean": "시간"
+    },
+    {
+      "base": "さっき",
+      "mean": "조금 전/아까"
+    },
+    {
+      "characters": [
+        {
+          "base": "風",
+          "mean": "바람 풍",
+          "ruby": "かぜ"
+        }
+      ],
+      "mean": "바람"
+    },
+    {
+      "characters": [
+        {
+          "base": "強",
+          "mean": "굳셀 강",
+          "ruby": "つよ"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "강하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "雪",
+          "mean": "눈 설",
+          "ruby": "ゆき"
+        }
+      ],
+      "mean": "눈"
+    },
+    {
+      "characters": [
+        {
+          "base": "彼",
+          "mean": "저 피",
+          "ruby": "かれ"
+        }
+      ],
+      "mean": "그"
+    },
+    {
+      "characters": [
+        {
+          "base": "残",
+          "mean": "해칠 잔",
+          "ruby": "ざん"
+        },
+        {
+          "base": "業",
+          "mean": "업 업",
+          "ruby": "ぎょう"
+        }
+      ],
+      "mean": "잔업/야근"
+    },
+    {
+      "characters": [
+        {
+          "base": "椅",
+          "mean": "의자 의",
+          "ruby": "い"
+        },
+        {
+          "base": "子",
+          "mean": "아들 자",
+          "ruby": "す"
+        }
+      ],
+      "mean": "의자"
+    },
+    {
+      "characters": [
+        {
+          "base": "具",
+          "mean": "갖출 구",
+          "ruby": "ぐ"
+        },
+        {
+          "base": "合",
+          "mean": "합할 합",
+          "ruby": "あい"
+        },
+        {
+          "base": "が"
+        },
+        {
+          "base": "悪",
+          "mean": "악할 악",
+          "ruby": "わる"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "몸 상태가 나쁘다"
+    },
+    {
+      "characters": [
+        {
+          "base": "倒",
+          "mean": "넘어질 도",
+          "ruby": "たお"
+        },
+        {
+          "base": "れる"
+        }
+      ],
+      "mean": "쓰러지다"
+    },
+    {
+      "characters": [
+        {
+          "base": "黒",
+          "mean": "검을 흑",
+          "ruby": "くろ"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "검다"
+    },
+    {
+      "characters": [
+        {
+          "base": "丈",
+          "mean": "어른 장",
+          "ruby": "じょう"
+        },
+        {
+          "base": "夫",
+          "mean": "지아비 부",
+          "ruby": "ぶ"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "튼튼하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "重",
+          "mean": "무거울 중",
+          "ruby": "おも"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "무겁다"
+    },
+    {
+      "characters": [
+        {
+          "base": "使",
+          "mean": "부릴 사",
+          "ruby": "つか"
+        },
+        {
+          "base": "う"
+        }
+      ],
+      "mean": "사용하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "厳",
+          "mean": "일본한자",
+          "ruby": "きび"
+        },
+        {
+          "base": "しい"
+        }
+      ],
+      "mean": "엄하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "夫",
+          "mean": "지아비 부",
+          "ruby": "ふう"
+        },
+        {
+          "base": "婦",
+          "mean": "며느리 부",
+          "ruby": "ふ"
+        }
+      ],
+      "mean": "부부"
+    },
+    {
+      "characters": [
+        {
+          "base": "幸",
+          "mean": "다행 행",
+          "ruby": "しあわ"
+        },
+        {
+          "base": "せだ"
+        }
+      ],
+      "mean": "행복하다"
+    },
+    {
+      "base": "つまらない",
+      "mean": "시시하다/재미없다"
+    },
+    {
+      "characters": [
+        {
+          "base": "音",
+          "mean": "소리 음",
+          "ruby": "おん"
+        },
+        {
+          "base": "楽",
+          "mean": "풍류 락",
+          "ruby": "がく"
+        }
+      ],
+      "mean": "음악"
+    },
+    {
+      "characters": [
+        {
+          "base": "嬉",
+          "mean": "아름다울 희",
+          "ruby": "うれ"
+        },
+        {
+          "base": "しい"
+        }
+      ],
+      "mean": "기쁘다"
+    },
+    {
+      "characters": [
+        {
+          "base": "眠",
+          "mean": "잘 면",
+          "ruby": "ねむ"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "졸리다"
+    },
+    {
+      "characters": [
+        {
+          "base": "寂",
+          "mean": "고요할 적",
+          "ruby": "さび"
+        },
+        {
+          "base": "しい"
+        }
+      ],
+      "mean": "외롭다"
+    },
+    {
+      "base": "ずっと",
+      "mean": "계속/쭉"
+    },
+    {
+      "characters": [
+        {
+          "base": "泣",
+          "mean": "울 읍",
+          "ruby": "なく"
+        },
+        {
+          "base": "く"
+        }
+      ],
+      "mean": "울다"
+    },
+    {
+      "characters": [
+        {
+          "base": "手",
+          "mean": "손 수",
+          "ruby": "て"
+        },
+        {
+          "base": "紙",
+          "mean": "종이 지",
+          "ruby": "がみ"
+        }
+      ],
+      "mean": "편지"
+    }
+  ]
+}

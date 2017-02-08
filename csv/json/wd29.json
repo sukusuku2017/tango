@@ -1,0 +1,465 @@
+{
+  "chapter": "29",
+  "update": "2017-02-08",
+  "author": [
+    "Phil"
+  ],
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "眠",
+          "mean": "잘 면",
+          "ruby": "ねむ"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "졸리다"
+    },
+    {
+      "characters": [
+        {
+          "base": "実",
+          "mean": "열매 실",
+          "ruby": "じつ"
+        },
+        {
+          "base": "は"
+        }
+      ],
+      "mean": "실은"
+    },
+    {
+      "characters": [
+        {
+          "base": "歌",
+          "mean": "노래 가",
+          "ruby": "うた"
+        }
+      ],
+      "mean": "노래"
+    },
+    {
+      "characters": [
+        {
+          "base": "練",
+          "mean": "익힐 련",
+          "ruby": "れん"
+        },
+        {
+          "base": "習",
+          "mean": "익힐 습",
+          "ruby": "しゅう"
+        }
+      ],
+      "mean": "연습"
+    },
+    {
+      "characters": [
+        {
+          "base": "学",
+          "mean": "배울 학",
+          "ruby": "がく"
+        },
+        {
+          "base": "園",
+          "mean": "동산 원",
+          "ruby": "えん"
+        },
+        {
+          "base": "祭",
+          "mean": "제사 제",
+          "ruby": "さい"
+        }
+      ],
+      "mean": "학교 축제"
+    },
+    {
+      "characters": [
+        {
+          "base": "留",
+          "mean": "머무를 류",
+          "ruby": "りゅう"
+        },
+        {
+          "base": "学",
+          "mean": "배울 학",
+          "ruby": "がく"
+        },
+        {
+          "base": "生",
+          "mean": "날 생",
+          "ruby": "せい"
+        }
+      ],
+      "mean": "유학생"
+    },
+    {
+      "characters": [
+        {
+          "base": "踊",
+          "mean": "뛸 용",
+          "ruby": "おど"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "춤추다"
+    },
+    {
+      "characters": [
+        {
+          "base": "流",
+          "mean": "흐를 류",
+          "ruby": "は"
+        },
+        {
+          "base": "行",
+          "mean": "다닐 행",
+          "ruby": "や"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "유행하다"
+    },
+    {
+      "base": "アイドル",
+      "mean": "아이돌"
+    },
+    {
+      "base": "テンポ",
+      "mean": "템포/속도"
+    },
+    {
+      "characters": [
+        {
+          "base": "速",
+          "mean": "빠를 속",
+          "ruby": "はや"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "빠르다"
+    },
+    {
+      "characters": [
+        {
+          "base": "複",
+          "mean": "겹칠 복",
+          "ruby": "ふく"
+        },
+        {
+          "base": "雑",
+          "mean": "섞일 잡",
+          "ruby": "ざつ"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "복잡하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "上",
+          "mean": "윗 상",
+          "ruby": "じょう"
+        },
+        {
+          "base": "手",
+          "mean": "손 수",
+          "ruby": "ず"
+        },
+        {
+          "base": "に"
+        }
+      ],
+      "mean": "능숙하게"
+    },
+    {
+      "characters": [
+        {
+          "base": "全",
+          "mean": "온전 전",
+          "ruby": "ぜん"
+        },
+        {
+          "base": "然",
+          "mean": "그럴 연",
+          "ruby": "ぜん"
+        }
+      ],
+      "mean": "전혀"
+    },
+    {
+      "characters": [
+        {
+          "base": "集",
+          "mean": "모을 집",
+          "ruby": "あつ"
+        },
+        {
+          "base": "まる"
+        }
+      ],
+      "mean": "모이다"
+    },
+    {
+      "base": "もっと",
+      "mean": "좀 더"
+    },
+    {
+      "characters": [
+        {
+          "base": "打",
+          "mean": "칠 타",
+          "ruby": "う"
+        },
+        {
+          "base": "つ"
+        }
+      ],
+      "mean": "치다"
+    },
+    {
+      "characters": [
+        {
+          "base": "選",
+          "mean": "가릴 선",
+          "ruby": "えら"
+        },
+        {
+          "base": "ぶ"
+        }
+      ],
+      "mean": "선택하다/고르다"
+    },
+    {
+      "characters": [
+        {
+          "base": "送",
+          "mean": "보낼 송",
+          "ruby": "おく"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "보내다"
+    },
+    {
+      "characters": [
+        {
+          "base": "答",
+          "mean": "대답 답",
+          "ruby": "こた"
+        },
+        {
+          "base": "える"
+        }
+      ],
+      "mean": "대답하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "野",
+          "mean": "들 야",
+          "ruby": "や"
+        },
+        {
+          "base": "菜",
+          "mean": "나물 채",
+          "ruby": "さい"
+        }
+      ],
+      "mean": "야채"
+    },
+    {
+      "base": "あいさつ",
+      "mean": "인사"
+    },
+    {
+      "characters": [
+        {
+          "base": "残",
+          "mean": "해칠 잔",
+          "ruby": "ざん"
+        },
+        {
+          "base": "業",
+          "mean": "업 업",
+          "ruby": "ぎょう"
+        }
+      ],
+      "mean": "잔업/야근"
+    },
+    {
+      "characters": [
+        {
+          "base": "始",
+          "mean": "비로소 시",
+          "ruby": "はじ"
+        },
+        {
+          "base": "まる"
+        }
+      ],
+      "mean": "시작되다"
+    },
+    {
+      "base": "おしゃべりをする",
+      "mean": "수다를 떨다"
+    },
+    {
+      "characters": [
+        {
+          "base": "返",
+          "mean": "돌이킬 반",
+          "ruby": "かえ"
+        },
+        {
+          "base": "す"
+        }
+      ],
+      "mean": "돌려주다/반납하다"
+    },
+    {
+      "base": "ギター",
+      "mean": "기타"
+    },
+    {
+      "characters": [
+        {
+          "base": "払",
+          "mean": "떨칠 불",
+          "ruby": "はら"
+        },
+        {
+          "base": "う"
+        }
+      ],
+      "mean": "지불하다"
+    },
+    {
+      "base": "~だけで",
+      "mean": "~만으로"
+    },
+    {
+      "characters": [
+        {
+          "base": "運",
+          "mean": "옮길 운",
+          "ruby": "うん"
+        },
+        {
+          "base": "転",
+          "mean": "구를 전",
+          "ruby": "てん"
+        }
+      ],
+      "mean": "운전"
+    },
+    {
+      "characters": [
+        {
+          "base": "聞",
+          "mean": "들을 문",
+          "ruby": "き"
+        },
+        {
+          "base": "き"
+        },
+        {
+          "base": "取",
+          "mean": "가질 취",
+          "ruby": "と"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "알아듣다"
+    },
+    {
+      "characters": [
+        {
+          "base": "書",
+          "mean": "글 서",
+          "ruby": "しょ"
+        },
+        {
+          "base": "類",
+          "mean": "무리 류",
+          "ruby": "るい"
+        }
+      ],
+      "mean": "서류"
+    },
+    {
+      "characters": [
+        {
+          "base": "宿",
+          "mean": "잘 숙",
+          "ruby": "しゅく"
+        },
+        {
+          "base": "題",
+          "mean": "제목 제",
+          "ruby": "だい"
+        }
+      ],
+      "mean": "숙제"
+    },
+    {
+      "base": "コピーする",
+      "mean": "복사하다"
+    },
+    {
+      "base": "クリスマス",
+      "mean": "크리스마스"
+    },
+    {
+      "base": "〜がほしい",
+      "mean": "~을/를 원한다"
+    },
+    {
+      "characters": [
+        {
+          "base": "病",
+          "mean": "병 병",
+          "ruby": "びょう"
+        },
+        {
+          "base": "気",
+          "mean": "기운 기",
+          "ruby": "き"
+        }
+      ],
+      "mean": "병/아픔"
+    },
+    {
+      "characters": [
+        {
+          "base": "教",
+          "mean": "가르칠 교",
+          "ruby": "きょう"
+        },
+        {
+          "base": "室",
+          "mean": "집 실",
+          "ruby": "しつ"
+        }
+      ],
+      "mean": "교실"
+    }
+  ]
+}
