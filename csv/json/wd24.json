@@ -1,6 +1,6 @@
 {
   "chapter": "24",
-  "update": "2017-02-07",
+  "update": "2017-02-08",
   "author": [
     "Phil"
   ],
@@ -372,15 +372,15 @@
       "characters": [
         {
           "base": "明",
-          "mean": "밝을 명",
-          "ruby": "あした"
+          "mean": "밝을 명"
         },
         {
           "base": "日",
           "mean": "날 일",
-          "ruby": ""
         }
       ],
+      "base": "明日",
+      "ruby": "あした",
       "mean": "내일"
     },
     {
