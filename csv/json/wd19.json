@@ -320,6 +320,19 @@
     {
       "characters": [
         {
+          "base": "捨",
+          "mean": "버릴 사",
+          "ruby": "す"
+        },
+        {
+          "base": "てる"
+        }
+      ],
+      "mean": "버리다"
+    },
+    {
+      "characters": [
+        {
           "base": "連",
           "mean": "이을 련",
           "ruby": "つ"
