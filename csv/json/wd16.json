@@ -1,0 +1,687 @@
+{
+  "chapter": "16",
+  "update": "2017-02-08",
+  "author": [
+    "Phil"
+  ],
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "高",
+          "mean": "높을 고",
+          "ruby": "こう"
+        },
+        {
+          "base": "校",
+          "mean": "학교 교",
+          "ruby": "こう"
+        }
+      ],
+      "mean": "고등학교"
+    },
+    {
+      "base": "とき",
+      "mean": "때"
+    },
+    {
+      "characters": [
+        {
+          "base": "笑",
+          "mean": "웃음 소",
+          "ruby": "わら"
+        },
+        {
+          "base": "う"
+        }
+      ],
+      "mean": "웃다"
+    },
+    {
+      "characters": [
+        {
+          "base": "全",
+          "mean": "온전 전",
+          "ruby": "ぜん"
+        },
+        {
+          "base": "然",
+          "mean": "그럴 연",
+          "ruby": "ぜん"
+        }
+      ],
+      "mean": "전혀"
+    },
+    {
+      "characters": [
+        {
+          "base": "違",
+          "mean": "어긋날 위",
+          "ruby": "ちが"
+        },
+        {
+          "base": "う"
+        }
+      ],
+      "mean": "다르다"
+    },
+    {
+      "characters": [
+        {
+          "base": "本",
+          "mean": "근본 본",
+          "ruby": "ほん"
+        },
+        {
+          "base": "当",
+          "mean": "마땅할 당",
+          "ruby": "とう"
+        },
+        {
+          "base": "に"
+        }
+      ],
+      "mean": "정말로"
+    },
+    {
+      "characters": [
+        {
+          "base": "太",
+          "mean": "클 태",
+          "ruby": "ふと"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "살찌다"
+    },
+    {
+      "base": "やせる",
+      "mean": "마르다"
+    },
+    {
+      "characters": [
+        {
+          "base": "毎",
+          "mean": "매양 매",
+          "ruby": "まい"
+        },
+        {
+          "base": "日",
+          "mean": "날 일",
+          "ruby": "にち"
+        }
+      ],
+      "mean": "매일"
+    },
+    {
+      "characters": [
+        {
+          "base": "〜に"
+        },
+        {
+          "base": "通",
+          "mean": "통할 통",
+          "ruby": "かよ"
+        },
+        {
+          "base": "う"
+        }
+      ],
+      "mean": "~에 다니다"
+    },
+    {
+      "characters": [
+        {
+          "base": "頑",
+          "mean": "완고할 완",
+          "ruby": "がん"
+        },
+        {
+          "base": "張",
+          "mean": "베풀 장",
+          "ruby": "ば"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "열심히 하다"
+    },
+    {
+      "base": "なくす",
+      "mean": "잃어버리다"
+    },
+    {
+      "characters": [
+        {
+          "base": "全",
+          "mean": "온전 전",
+          "ruby": "ぜん"
+        },
+        {
+          "base": "部",
+          "mean": "떼 부",
+          "ruby": "ぶ"
+        }
+      ],
+      "mean": "전부"
+    },
+    {
+      "characters": [
+        {
+          "base": "借",
+          "mean": "빌릴 차",
+          "ruby": "か"
+        },
+        {
+          "base": "りる"
+        }
+      ],
+      "mean": "빌리다"
+    },
+    {
+      "base": "つける",
+      "mean": "켜다"
+    },
+    {
+      "base": "おしゃべりをする",
+      "mean": "수다를 떨다"
+    },
+    {
+      "characters": [
+        {
+          "base": "熱",
+          "mean": "더울 열",
+          "ruby": "ねつ"
+        }
+      ],
+      "mean": "열"
+    },
+    {
+      "characters": [
+        {
+          "base": "忘",
+          "mean": "잊을 망",
+          "ruby": "わす"
+        },
+        {
+          "base": "れ"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "잊어버리다"
+    },
+    {
+      "characters": [
+        {
+          "base": "お"
+        },
+        {
+          "base": "風",
+          "mean": "바람 풍",
+          "ruby": "ふ"
+        },
+        {
+          "base": "呂",
+          "mean": "성 려",
+          "ruby": "ろ"
+        },
+        {
+          "base": "に"
+        },
+        {
+          "base": "入",
+          "mean": "들 입",
+          "ruby": "はい"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "목욕을 하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "約",
+          "mean": "맺을 약",
+          "ruby": "やく"
+        },
+        {
+          "base": "束",
+          "mean": "묶을 속",
+          "ruby": "そく"
+        }
+      ],
+      "mean": "약속"
+    },
+    {
+      "base": "どうしたんですか",
+      "mean": "무슨 일입니까?"
+    },
+    {
+      "characters": [
+        {
+          "base": "財",
+          "mean": "재물 재",
+          "ruby": "さい"
+        },
+        {
+          "base": "布",
+          "mean": "베 포",
+          "ruby": "ふ"
+        }
+      ],
+      "mean": "지갑"
+    },
+    {
+      "characters": [
+        {
+          "base": "〜に"
+        },
+        {
+          "base": "遅",
+          "mean": "늦을 지",
+          "ruby": "おく"
+        },
+        {
+          "base": "れ"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "~에 늦다"
+    },
+    {
+      "characters": [
+        {
+          "base": "お"
+        },
+        {
+          "base": "金",
+          "mean": "쇠 금",
+          "ruby": "かね"
+        }
+      ],
+      "mean": "돈"
+    },
+    {
+      "base": "たくさん",
+      "mean": "많이"
+    },
+    {
+      "base": "けんか",
+      "mean": "싸움"
+    },
+    {
+      "characters": [
+        {
+          "base": "座",
+          "mean": "자리 좌",
+          "ruby": "すわ"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "앉다"
+    },
+    {
+      "characters": [
+        {
+          "base": "連",
+          "mean": "이을 련",
+          "ruby": "つ"
+        },
+        {
+          "base": "れてくる"
+        }
+      ],
+      "mean": "데리고 오다"
+    },
+    {
+      "characters": [
+        {
+          "base": "止",
+          "mean": "그칠 지",
+          "ruby": "と"
+        },
+        {
+          "base": "める"
+        }
+      ],
+      "mean": "(차를) 세우다"
+    },
+    {
+      "characters": [
+        {
+          "base": "隣",
+          "mean": "이웃 린",
+          "ruby": "となり"
+        }
+      ],
+      "mean": "옆"
+    },
+    {
+      "characters": [
+        {
+          "base": "荷",
+          "mean": "멜 하",
+          "ruby": "に"
+        },
+        {
+          "base": "物",
+          "mean": "물건 물",
+          "ruby": "もつ"
+        }
+      ],
+      "mean": "짐"
+    },
+    {
+      "characters": [
+        {
+          "base": "置",
+          "mean": "둘 치",
+          "ruby": "お"
+        },
+        {
+          "base": "く"
+        }
+      ],
+      "mean": "놓다/두다"
+    },
+    {
+      "characters": [
+        {
+          "base": "一",
+          "mean": "한 일",
+          "ruby": "いち"
+        },
+        {
+          "base": "日",
+          "mean": "날 일",
+          "ruby": "にち"
+        }
+      ],
+      "mean": "하루"
+    },
+    {
+      "characters": [
+        {
+          "base": "洗",
+          "mean": "씻을 세",
+          "ruby": "あら"
+        },
+        {
+          "base": "う"
+        }
+      ],
+      "mean": "씻다"
+    },
+    {
+      "characters": [
+        {
+          "base": "朝",
+          "mean": "아침 조",
+          "ruby": "あさ"
+        },
+        {
+          "base": "ごはん"
+        }
+      ],
+      "mean": "아침밥"
+    },
+    {
+      "characters": [
+        {
+          "base": "歯",
+          "mean": "이 치",
+          "ruby": "は"
+        }
+      ],
+      "mean": "이/이빨"
+    },
+    {
+      "characters": [
+        {
+          "base": "磨",
+          "mean": "갈 마",
+          "ruby": "みが"
+        },
+        {
+          "base": "く"
+        }
+      ],
+      "mean": "닦다"
+    },
+    {
+      "characters": [
+        {
+          "base": "服",
+          "mean": "옷 복",
+          "ruby": "ふく"
+        }
+      ],
+      "mean": "옷"
+    },
+    {
+      "characters": [
+        {
+          "base": "着",
+          "mean": "붙을 착",
+          "ruby": "き"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "입다"
+    },
+    {
+      "characters": [
+        {
+          "base": "出",
+          "mean": "날 출",
+          "ruby": "で"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "나오다/나가다"
+    },
+    {
+      "characters": [
+        {
+          "base": "歩",
+          "mean": "걸을 보",
+          "ruby": "ある"
+        },
+        {
+          "base": "く"
+        }
+      ],
+      "mean": "걷다"
+    },
+    {
+      "characters": [
+        {
+          "base": "昼",
+          "mean": "낮 주",
+          "ruby": "ひる"
+        },
+        {
+          "base": "ごはん"
+        }
+      ],
+      "mean": "점심밥"
+    },
+    {
+      "characters": [
+        {
+          "base": "晩",
+          "mean": "늦을 만",
+          "ruby": "ばん"
+        },
+        {
+          "base": "ごはん"
+        }
+      ],
+      "mean": "저녁밥"
+    },
+    {
+      "characters": [
+        {
+          "base": "お"
+        },
+        {
+          "base": "茶",
+          "mean": "차 차",
+          "ruby": "ちゃ"
+        }
+      ],
+      "mean": "차"
+    },
+    {
+      "characters": [
+        {
+          "base": "シャワーを"
+        },
+        {
+          "base": "浴",
+          "mean": "목욕할 욕",
+          "ruby": "あ"
+        },
+        {
+          "base": "びる"
+        }
+      ],
+      "mean": "샤워를 하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "最",
+          "mean": "가장 최",
+          "ruby": "さい"
+        },
+        {
+          "base": "近",
+          "mean": "가까울 근",
+          "ruby": "きん"
+        }
+      ],
+      "mean": "최근"
+    },
+    {
+      "base": "ダイエット",
+      "mean": "다이어트"
+    },
+    {
+      "base": "なかなか",
+      "mean": "좀처럼"
+    },
+    {
+      "characters": [
+        {
+          "base": "心",
+          "mean": "마음 심",
+          "ruby": "しん"
+        },
+        {
+          "base": "配",
+          "mean": "나눌 배",
+          "ruby": "ぱい"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "걱정이다"
+    },
+    {
+      "base": "ときどき",
+      "mean": "때때로"
+    },
+    {
+      "base": "それで",
+      "mean": "그래서"
+    },
+    {
+      "characters": [
+        {
+          "base": "前",
+          "mean": "앞 전",
+          "ruby": "まえ"
+        }
+      ],
+      "mean": "전/앞"
+    },
+    {
+      "characters": [
+        {
+          "base": "失",
+          "mean": "잃을 실",
+          "ruby": "しっ"
+        },
+        {
+          "base": "敗",
+          "mean": "패할 패",
+          "ruby": "ぱい"
+        },
+        {
+          "base": "た"
+        }
+      ],
+      "mean": "실패하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "今",
+          "mean": "이제 금",
+          "ruby": "こん"
+        },
+        {
+          "base": "度",
+          "mean": "법 도",
+          "ruby": "ど"
+        }
+      ],
+      "mean": "이번"
+    },
+    {
+      "characters": [
+        {
+          "base": "必",
+          "mean": "반드시 필",
+          "ruby": "かなら"
+        },
+        {
+          "base": "ず"
+        }
+      ],
+      "mean": "반드시"
+    },
+    {
+      "characters": [
+        {
+          "base": "今",
+          "mean": "이제 금"
+        },
+        {
+          "base": "年",
+          "mean": "해 년"
+        }
+      ],
+      "base": "今年",
+      "ruby": "ことし",
+      "mean": "올해"
+    }
+  ]
+}

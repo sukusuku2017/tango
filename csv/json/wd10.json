@@ -1,0 +1,136 @@
+{
+  "chapter": "10",
+  "update": "2017-02-08",
+  "author": [
+    "Phil"
+  ],
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "上",
+          "mean": "윗 상",
+          "ruby": "うえ"
+        }
+      ],
+      "mean": "위"
+    },
+    {
+      "characters": [
+        {
+          "base": "下",
+          "mean": "아래 하",
+          "ruby": "した"
+        }
+      ],
+      "mean": "아래"
+    },
+    {
+      "characters": [
+        {
+          "base": "前",
+          "mean": "앞 전",
+          "ruby": "まえ"
+        }
+      ],
+      "mean": "앞"
+    },
+    {
+      "characters": [
+        {
+          "base": "後",
+          "mean": "뒤 후",
+          "ruby": "うし"
+        },
+        {
+          "base": "ろ"
+        }
+      ],
+      "mean": "뒤"
+    },
+    {
+      "characters": [
+        {
+          "base": "右",
+          "mean": "오른쪽 우",
+          "ruby": "みぎ"
+        }
+      ],
+      "mean": "오른쪽"
+    },
+    {
+      "characters": [
+        {
+          "base": "左",
+          "mean": "왼 좌",
+          "ruby": "ひだり"
+        }
+      ],
+      "mean": "왼쪽"
+    },
+    {
+      "characters": [
+        {
+          "base": "中",
+          "mean": "가운데 중",
+          "ruby": "なか"
+        }
+      ],
+      "mean": "안"
+    },
+    {
+      "characters": [
+        {
+          "base": "外",
+          "mean": "바깥 외",
+          "ruby": "そと"
+        }
+      ],
+      "mean": "밖"
+    },
+    {
+      "characters": [
+        {
+          "base": "そ"
+        },
+        {
+          "base": "ば"
+        }
+      ],
+      "mean": "옆"
+    },
+    {
+      "characters": [
+        {
+          "base": "隣",
+          "mean": "이웃 린",
+          "ruby": "となり"
+        }
+      ],
+      "mean": "옆"
+    },
+    {
+      "characters": [
+        {
+          "base": "近",
+          "mean": "가까울 근",
+          "ruby": "ちか"
+        },
+        {
+          "base": "く"
+        }
+      ],
+      "mean": "근처"
+    },
+    {
+      "characters": [
+        {
+          "base": "間",
+          "mean": "사이 간",
+          "ruby": "あいだ"
+        }
+      ],
+      "mean": "사이"
+    }
+  ]
+}
