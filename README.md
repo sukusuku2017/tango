@@ -124,6 +124,8 @@ json 파일의 구조는 다음과 같다.
 
 
 참고 링크
+- [&lt;ruby&gt; - mozilla](https://developer.mozilla.org/ko/docs/Web/HTML/Element/ruby)
+- [&lt;ruby&gt;](https://www.w3.org/TR/html5/text-level-semantics.html#the-ruby-element)
 - [후리가나 - 나무위키](https://namu.wiki/w/%ED%9B%84%EB%A6%AC%EA%B0%80%EB%82%98)
 
 ## 6 `<ruby>` Element
@@ -254,9 +256,6 @@ json 파일의 구조는 다음과 같다.
   中 <rp>(</rp><rt>じゅう<rt><rp>)</rp>
 </ruby>
 ```
-
-참고 링크
-- [&lt;ruby&gt; - mozilla](https://developer.mozilla.org/ko/docs/Web/HTML/Element/ruby)
 
 ## 7 JSON 파일 생성 방법
 
