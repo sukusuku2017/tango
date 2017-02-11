@@ -1,16 +1,8 @@
-body {
-  font-family: "source-han-sans-japanese", "source-han-sans-korean", sans-serif;
-  font-style: normal;
-  font-weight: 100;
-}
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjapanese.css);
 
-code,
-pre {
-  -moz-osx-font-smoothing: auto;
-  -webkit-font-smoothing: auto;
-  font-family: "Inconsolata", "Consolas", "Monaco", "source-han-sans-japanese", monospace;
+.wf-notosansjapanese {
+  font-family: "Noto Sans Japanese";
 }
-
 
 .message-header {
   font-size: large;

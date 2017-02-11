@@ -68,8 +68,8 @@
 
     <script type="text/x-template" id="highlight-word-template">
       <figure class="highlight">
-        <pre><code class="language-html" data-lang="html">
-<!--    --><span class="nt">&lt;ruby&gt;</span><!--
+        <pre><code class="language-html" data-lang="html"><!--
+        --><span class="nt">&lt;ruby&gt;</span><!--
           --><template v-if="word.base">
 <!--      -->  {{ word.base }} <!--
             --><template v-if="word.ruby"><!--
@@ -92,37 +92,20 @@
     <script type="text/x-template" id="highlight-sentence-template">
       <figure class="highlight">
         <pre><code class="language-html" data-lang="html"><!--
-        --><template v-if="sentence.base && !sentence.ruby"><!--
-          --><span class="nt">&lt;span&gt;</span>
-<!--      -->  {{ sentence.base }}
-<!--      --><span class="nt">&lt;/span&gt;</span><!--
-        --></template><!--
-        --><template v-if="sentence.base && sentence.ruby"><!--
-        --><span class="nt">&lt;ruby&gt;</span>
-<!--      -->  {{ sentence.base }} <!--
-            --><span class="nt">&lt;rt&gt;</span><!--
-            --><span>{{ sentence.ruby }}</span><!--
-            --><span class="nt">&lt;/rt&gt;</span>
-<!--      --><span class="nt">&lt;/ruby&gt;</span><!--
-        --></template><!--
-        --><template v-else-if="sentence.characters"><!--
-          --><template v-for="ch in sentence.characters"><!--
-            --><template v-if="ch.base && !ch.ruby">
-<!--          --><span class="nt">&lt;span&gt;</span>
-<!--          -->  {{ ch.base }}
-<!--          --><span class="nt">&lt;/span&gt;</span><!--
-            --></template><!--
-            --><template v-if="ch.base && ch.ruby">
-<!--          --><span class="nt">&lt;ruby&gt;</span>
-<!--          -->  {{ ch.base }} <!--
-                --><span class="nt">&lt;rt&gt;</span><!--
-                --><span>{{ ch.ruby }}</span><!--
-                --><span class="nt">&lt;/rt&gt;</span>
-<!--          --><span class="nt">&lt;/ruby&gt;</span><!--
-            --></template><!--
+        --><template v-for="ch in sentence.characters"><!--
+          --><template v-if="ch.base && !ch.ruby"><!--
+            --><span class="nt">&lt;span&gt;</span>
+<!--        -->  {{ ch.base }}
+<!--        --><span class="nt">&lt;/span&gt;</span><!--
           --></template><!--
-        --></template><!--
-        --><template v-else><!--
+          --><template v-if="ch.base && ch.ruby"><!--
+            --><span class="nt">&lt;ruby&gt;</span>
+<!--        -->  {{ ch.base }} <!--
+              --><span class="nt">&lt;rt&gt;</span><!--
+              --><span>{{ ch.ruby }}</span><!--
+              --><span class="nt">&lt;/rt&gt;</span>
+<!--        --><span class="nt">&lt;/ruby&gt;</span><!--
+          --></template><!--
         --></template><!--
       --></code></pre>
       </figure>
@@ -140,7 +123,7 @@
     </script>
 
     <script type="text/x-template" id="ruby-word-template">
-      <ruby class="ruby-word">
+      <ruby class="ruby-word wf-notosansjapanese">
         <template v-if="word.base">
           {{ word.base }}
           <template v-if="word.ruby">
@@ -157,25 +140,13 @@
     </script>
 
     <script type="text/x-template" id="ruby-sentence-template">
-      <p>
-        <span v-if="sentence.base && !sentence.ruby">
-          {{ sentence.base }}
-        </span>
-        <ruby v-else-if="sentence.base && sentence.ruby">
-          {{ sentence.base }}
-          <rp>(</rp><rt>{{ sentence.ruby }}</rt><rp>)</rp>
-        </ruby>
-        <template v-else-if="sentence.characters">
-          <template v-for="ch in sentence.characters">
-            <span v-if="ch.base && !ch.ruby">{{ ch.base }}</span>
-            <ruby v-else-if="ch.base && ch.ruby">
-              {{ ch.base }} <rp>(</rp><rt>{{ ch.ruby }}</rt><rp>)</rp>
-            </ruby>
-          </template>
+      <p class="ruby-sentence wf-notosansjapanese">
+        <template v-for="ch in sentence.characters">
+          <span v-if="ch.base && !ch.ruby">{{ ch.base }}</span>
+          <ruby v-else-if="ch.base && ch.ruby">
+            {{ ch.base }} <rp>(</rp><rt>{{ ch.ruby }}</rt><rp>)</rp>
+          </ruby>
         </template>
-        <span v-else>
-          Data Error
-        </span>
       </p>
     </script>
 
