@@ -1,31 +1,41 @@
-Vue.component('columns', {
-  template: '#columns-template',
-
+Vue.component('columns-word', {
+  template: '#columns-word-template',
   props: ['word']
 })
 
-Vue.component('json-highlight', {
-  template: '#json-highlight-template',
+Vue.component('columns-sentence', {
+  template: '#columns-sentence-template',
+  props: ['sentence']
+})
 
+Vue.component('highlight-json', {
+  template: '#highlight-json-template',
+  props: ['json']
+})
+
+Vue.component('highlight-word', {
+  template: '#highlight-word-template',
   props: ['word']
 })
 
-Vue.component('html-highlight', {
-  template: '#html-highlight-template',
-
-  props: ['word']
+Vue.component('highlight-sentence', {
+  template: '#highlight-sentence-template',
+  props: ['sentence']
 })
 
 Vue.component('message', {
   template: '#message-template',
+  props: ['message']
+})
 
+Vue.component('ruby-word', {
+  template: '#ruby-word-template',
   props: ['word']
 })
 
-Vue.component('jp-ruby', {
-  template: '#jp-ruby-template',
-
-  props: ['word']
+Vue.component('ruby-sentence', {
+  template: '#ruby-sentence-template',
+  props: ['sentence']
 })
 
 let app = new Vue({
@@ -93,6 +103,22 @@ let app = new Vue({
         ],
         "mean": "오늘 중"
       },
+      {
+        "characters": [
+          {
+            "base": "2"
+          },
+          {
+            "base": "日",
+            "mean": "날 일",
+          }
+        ],
+        "base": "2日",
+        "ruby": "ふつか",
+        "mean": "2일"
+      }
+    ],
+    sentences: [
       {
         "characters": [
           {
@@ -187,21 +213,7 @@ let app = new Vue({
           }
         ],
         "mean": "친구와 놀다"
-      },
-      {
-        "characters": [
-          {
-            "base": "2"
-          },
-          {
-            "base": "日",
-            "mean": "날 일",
-          }
-        ],
-        "base": "2日",
-        "ruby": "ふつか",
-        "mean": "2일"
-      },
+      }
     ]
   }
 })
