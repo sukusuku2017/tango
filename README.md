@@ -124,6 +124,7 @@ json 파일의 구조는 다음과 같다.
 
 
 참고 링크
+- [루비 문자](https://ko.wikipedia.org/wiki/%EB%A3%A8%EB%B9%84_%EB%AC%B8%EC%9E%90)
 - [&lt;ruby&gt; - mozilla](https://developer.mozilla.org/ko/docs/Web/HTML/Element/ruby)
 - [&lt;ruby&gt;](https://www.w3.org/TR/html5/text-level-semantics.html#the-ruby-element)
 - [후리가나 - 나무위키](https://namu.wiki/w/%ED%9B%84%EB%A6%AC%EA%B0%80%EB%82%98)
@@ -263,5 +264,3 @@ json 파일의 구조는 다음과 같다.
 2. .csv 파일 생성
 3. .json 파일 생성
 4. 수정 (사례3)
-
-[図](-と)[書](-しょ)[館](-かん)

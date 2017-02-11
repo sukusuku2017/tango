@@ -9,328 +9,110 @@
     <link rel="stylesheet" href="./css/style.css">
   </head>
   <body>
-    <section class="section">
+    <section id="app" class="section">
       <div class="container">
         <h1 class="title">단어 &lt;ruby&gt;</h1>
-        <h2>사례1</h2>
-        <div class="columns">
-          <div class="column">
-            <figure class="highlight">
-              <pre><code class="language-json" data-lang="json">{
-  "characters": [
-    {
-      "base": "来",
-      "ruby": "らい",
-      "mean": "올 래"
-    },
-    {
-      "base": "週",
-      "ruby": "しゅう",
-      "mean": "주일 주"
-    }
-  ],
-  "mean": "다음 주"
-}</code></pre>
-            </figure>
-          </div>
-          <div class="column">
-            <figure class="highlight">
-              <pre><code class="language-html" data-lang="html"><span class="nt">&lt;ruby&gt;</span>
-  来 <span class="nt">&lt;rp&gt;</span><span>(</span><span class="nt">&lt;/rp&gt;</span><span class="nt">&lt;rt&gt;</span><span>らい</span><span class="nt">&lt;/rt&gt;</span><span class="nt">&lt;rp&gt;</span><span>)</span><span class="nt">&lt;/rp&gt;</span>
-  週 <span class="nt">&lt;rp&gt;</span><span>(</span><span class="nt">&lt;/rp&gt;</span><span class="nt">&lt;rt&gt;</span><span>しゅう</span><span class="nt">&lt;/rt&gt;</span><span class="nt">&lt;rp&gt;</span><span>)</span><span class="nt">&lt;/rp&gt;</span>
-<span class="nt">&lt;/ruby&gt;</span></code></pre>
-            </figure>
-          </div>
-          <div class="column is-one-quarter">
-            <article class="message">
-              <div class="message-header">
-                <p>약속</p>
-              </div>
-              <div class="message-body">
-                <ruby>
-                  来 <rp>(</rp><rt>らい</rt><rp>)</rp>
-                  週 <rp>(</rp><rt>しゅう</rt><rp>)</rp>
-                </ruby>
-              </div>
-            </article>
-          </div>
+        <div v-for="wd in words">
+          <columns v-bind:word="wd"></columns>
         </div>
-
-        <h2>사례2</h2>
-        <div class="columns">
-          <div class="column">
-            <figure class="highlight">
-              <pre><code class="language-json" data-lang="json">{
-  "characters": [
-    {
-      "base": "お"
-    },
-    {
-      "base": "酒",
-      "ruby": "さけ",
-      "mean": "술 주"
-    }
-  ],
-  "mean": "술"
-}</code></pre>
-            </figure>
-          </div>
-          <div class="column">
-            <figure class="highlight">
-              <pre><code class="language-html" data-lang="html"><span class="nt">&lt;ruby&gt;</span>
-  お <span class="nt">&lt;rt&gt;</span><span class="nt">&lt;/rt&gt;</span>
-  酒 <span class="nt">&lt;rp&gt;</span><span>(</span><span class="nt">&lt;/rp&gt;</span><span class="nt">&lt;rt&gt;</span><span>さけ</span><span class="nt">&lt;/rt&gt;</span><span class="nt">&lt;rp&gt;</span><span>)</span><span class="nt">&lt;/rp&gt;</span>
-<span class="nt">&lt;/ruby&gt;</span></code></pre>
-            </figure>
-          </div>
-          <div class="column is-one-quarter">
-            <article class="message">
-              <div class="message-header">
-                <p>술</p>
-              </div>
-              <div class="message-body">
-                <ruby>
-                  お <rt></rt>
-                  酒 <rp>(</rp><rt>さけ</rt><rp>)</rp>
-                </ruby>
-              </div>
-            </article>
-          </div>
-        </div>
-
-        <h2>사례3</h2>
-        <div class="columns">
-          <div class="column">
-            <figure class="highlight">
-              <pre><code class="language-json" data-lang="json">{
-  "characters": [
-    {
-      "base": "明",
-      "mean": "밝을 명"
-    },
-    {
-      "base": "日",
-      "mean": "날 일"
-    }
-  ],
-  "mean": "내일",
-  "base": "明日",
-  "ruby": "あした"
-}</code></pre>
-            </figure>
-          </div>
-          <div class="column">
-            <figure class="highlight">
-              <pre><code class="language-html" data-lang="html"><span class="nt">&lt;ruby&gt;</span>
-  明日 <span class="nt">&lt;rp&gt;</span><span>(</span><span class="nt">&lt;/rp&gt;</span><span class="nt">&lt;rt&gt;</span><span>あした</span><span class="nt">&lt;/rt&gt;</span><span class="nt">&lt;rp&gt;</span><span>)</span><span class="nt">&lt;/rp&gt;</span>
-<span class="nt">&lt;/ruby&gt;</span></code></pre>
-            </figure>
-          </div>
-          <div class="column is-one-quarter">
-            <article class="message">
-              <div class="message-header">
-                <p>내일</p>
-              </div>
-              <div class="message-body">
-                <ruby>
-                  明日 <rp>(</rp><rt>あした</rt><rp>)</rp>
-                </ruby>
-              </div>
-            </article>
-          </div>
-        </div>
-
-        <h2>사례4</h2>
-        <div class="columns">
-          <div class="column">
-            <figure class="highlight">
-              <pre><code class="language-json" data-lang="json">{
-  "base": "きっと",
-  "mean": "반드시/꼭"
-}</code></pre>
-            </figure>
-          </div>
-          <div class="column">
-            <figure class="highlight">
-              <pre><code class="language-html" data-lang="html"><span class="nt">&lt;ruby&gt;</span>
-  きっと
-<span class="nt">&lt;/ruby&gt;</span></code></pre>
-            </figure>
-          </div>
-          <div class="column is-one-quarter">
-            <article class="message">
-              <div class="message-header">
-                <p>반드시/꼭</p>
-              </div>
-              <div class="message-body">
-                <ruby>
-                  きっと
-                </ruby>
-              </div>
-            </article>
-          </div>
-        </div>
-
-        <h2>사례5</h2>
-        <div class="columns">
-          <div class="column">
-            <figure class="highlight">
-              <pre><code class="language-json" data-lang="json">{
-  "characters": [
-    {
-      "base": "今日",
-      "ruby": "きょう"
-    },
-    {
-      "base": "中",
-      "ruby": "じゅう",
-      "mean": "가운데 중"
-    }
-  ],
-  "mean": "오늘 중"
-}</code></pre>
-            </figure>
-          </div>
-          <div class="column">
-            <figure class="highlight">
-              <pre><code class="language-html" data-lang="html"><span class="nt">&lt;ruby&gt;</span>
-  今日 <span class="nt">&lt;rp&gt;</span><span>(</span><span class="nt">&lt;/rp&gt;</span><span class="nt">&lt;rt&gt;</span><span>きょう</span><span class="nt">&lt;/rt&gt;</span><span class="nt">&lt;rp&gt;</span><span>)</span><span class="nt">&lt;/rp&gt;</span>
-  中 <span class="nt">&lt;rp&gt;</span><span>(</span><span class="nt">&lt;/rp&gt;</span><span class="nt">&lt;rt&gt;</span><span>じゅう</span><span class="nt">&lt;/rt&gt;</span><span class="nt">&lt;rp&gt;</span><span>)</span><span class="nt">&lt;/rp&gt;</span>
-<span class="nt">&lt;/ruby&gt;</span></code></pre>
-            </figure>
-          </div>
-          <div class="column is-one-quarter">
-            <article class="message">
-              <div class="message-header">
-                <p>오늘 중</p>
-              </div>
-              <div class="message-body">
-                <ruby>
-                  今日 <rp>(</rp><rt>きょう</rt><rp>)</rp>
-                  中 <rp>(</rp><rt>じゅう</rt><rp>)</rp>
-                </ruby>
-              </div>
-            </article>
-          </div>
-        </div>
-
-        <div class="columns">
-          <div class="column">
-            <article class="message">
-              <div class="message-header">
-                <p>오늘 중</p>
-              </div>
-              <div class="message-body">
-                <ruby>
-                  お <rt></rt>
-                  風 <rp>(</rp><rt>ふ</rt><rp>)</rp>
-                  呂 <rp>(</rp><rt>ろ</rt><rp>)</rp>
-                  に <rt></rt>
-                  入 <rp>(</rp><rt>はい</rt><rp>)</rp>
-                  る <rt></rt>
-                </ruby>
-              </div>
-            </article>
-          </div>
-        </div>
-        <div class="columns">
-          <div class="column">
-            <article class="message">
-              <div class="message-header">
-                <p>오늘 중</p>
-              </div>
-              <div class="message-body">
-                <ruby>
-                  お
-                </ruby>
-                <ruby>
-                  風 <rp>(</rp><rt>ふ</rt><rp>)</rp>
-                </ruby>
-                <ruby>
-                  呂 <rp>(</rp><rt>ろ</rt><rp>)</rp>
-                </ruby>
-                <ruby>
-                  に
-                </ruby>
-                <ruby>
-                  入 <rp>(</rp><rt>はい</rt><rp>)</rp>
-                </ruby>
-                <ruby>
-                  る
-                </ruby>
-              </div>
-            </article>
-          </div>
-        </div>
-        <div class="columns">
-          <div class="column">
-            <article class="message">
-              <div class="message-header">
-                <p>오늘 중</p>
-                <ruby>東<rb>京<rt>とう<rt>きょう</ruby>
-              </div>
-              <div class="message-body">
-                <ruby>
-                  友 <rp>(</rp><rt>とも</rt><rp>)</rp>
-                  だちと <rt></rt>
-                  遊 <rp>(</rp><rt>あそ</rt><rp>)</rp>
-                  ぶ <rt></rt>
-                </ruby>
-              </div>
-            </article>
-          </div>
-        </div>
-        <div class="columns">
-          <div class="column">
-            <article class="message">
-              <div class="message-header">
-                <p>오늘 중</p>
-              </div>
-              <div class="message-body">
-                <ruby>友 <rp>(</rp><rt>とも</rt><rp>)</rp></ruby>
-                だちと
-                <ruby>遊 <rp>(</rp><rt>あそ</rt><rp>)</rp></ruby>
-                ぶ
-              </div>
-            </article>
-          </div>
-        </div>
-        <div class="columns">
-          <div class="column">
-            <article class="message">
-              <div class="message-header">
-                <p>오늘 중</p>
-              </div>
-              <div class="message-body">
-                <pre>
-                <span><ruby>友<rp>(</rp><rt>とも</rt><rp>)</rp></ruby></span>
-                <span>だちと</span>
-                <span><ruby>遊 <rp>(</rp><rt>あそ</rt><rp>)</rp></ruby><span>
-                <span>ぶ</span>
-                </pre>
-              </div>
-            </article>
-          </div>
-        </div>
-        <div class="columns">
-          <div class="column">
-            <article class="message">
-              <div class="message-header">
-                <p>xxxx</p>
-              </div>
-              <div class="message-body">
-<ruby>日<rt>に</rt>本<rt>ほん</rt>語<rt>ご</rt></ruby>で<ruby>書<rt>か</rt></ruby>いた<ruby>作<rt>さく</rt>文<rt>ぶん</rt></ruby>です。
-              </div>
-            </article>
-          </div>
-        </div>
-
-
-
       </div>
     </section>
 
-    <script src="https://use.typekit.net/rcn1doq.js"></script>
-    <script>try{Typekit.load({ async: true });}catch(e){}</script>
+    <script type="text/x-template" id="columns-template">
+      <div class="columns">
+        <div class="column">
+          <json-highlight v-bind:word="word"></json-highlight>
+        </div>
+        <div class="column">
+          <html-highlight v-bind:word="word"></html-highlight>
+        </div>
+        <div class="column is-one-quarter">
+          <message v-bind:word="word"></message>
+        </div>
+      </div>
+    </script>
+
+    <script type="text/x-template" id="json-highlight-template">
+      <figure class="highlight">
+        <pre><code class="language-json" data-lang="json">{{ word }}</code></pre>
+      </figure>
+    </script>
+
+    <script type="text/x-template" id="html-highlight-template">
+      <figure class="highlight">
+        <pre><code class="language-html" data-lang="html"><!--
+       --><template v-if="word.base && !word.ruby"><!--
+         --><span class="nt">&lt;span&gt;</span>
+<!--     -->  {{ word.base }}
+<!--     --><span class="nt">&lt;/span&gt;</span><!--
+       --></template><!--
+       --><template v-if="word.base && word.ruby"><!--
+         --><span class="nt">&lt;ruby&gt;</span>
+<!--     -->  {{ word.base }} <!--
+           --><span class="nt">&lt;rt&gt;</span><!--
+           --><span>{{ word.ruby }}</span><!--
+           --><span class="nt">&lt;/rt&gt;</span>
+<!--     --><span class="nt">&lt;/ruby&gt;</span><!--
+       --></template><!--
+       --><template v-else-if="word.characters"><!--
+         --><template v-for="ch in word.characters"><!--
+           --><template v-if="ch.base && !ch.ruby">
+<!--         --><span class="nt">&lt;span&gt;</span>
+<!--         -->  {{ ch.base }}
+<!--         --><span class="nt">&lt;/span&gt;</span><!--
+           --></template><!--
+           --><template v-if="ch.base && ch.ruby">
+<!--         --><span class="nt">&lt;ruby&gt;</span>
+<!--         -->  {{ ch.base }} <!--
+               --><span class="nt">&lt;rt&gt;</span><!--
+               --><span>{{ ch.ruby }}</span><!--
+               --><span class="nt">&lt;/rt&gt;</span>
+<!--         --><span class="nt">&lt;/ruby&gt;</span><!--
+           --></template><!--
+         --></template><!--
+       --></template><!--
+       --><template v-else><!--
+
+       --></template><!--
+     --></code></pre>
+      </figure>
+    </script>
+
+    <script type="text/x-template" id="message-template">
+      <article class="message">
+        <div class="message-header">
+          <p>{{ word.mean }}</p>
+        </div>
+        <div class="message-body">
+          <jp-ruby v-bind:word="word"></jp-ruby>
+        </div>
+      </article>
+    </script>
+
+    <script type="text/x-template" id="jp-ruby-template">
+      <p>
+        <span v-if="word.base && !word.ruby">
+          {{ word.base }}
+        </span>
+        <ruby v-else-if="word.base && word.ruby">
+          {{ word.base }}
+          <rp>(</rp><rt>{{ word.ruby }}</rt><rp>)</rp>
+        </ruby>
+        <template v-else-if="word.characters">
+          <template v-for="ch in word.characters">
+            <span v-if="ch.base && !ch.ruby">{{ ch.base }}</span>
+            <ruby v-else-if="ch.base && ch.ruby">
+              {{ ch.base }} <rp>(</rp><rt>{{ ch.ruby }}</rt><rp>)</rp>
+            </ruby>
+          </template>
+        </template>
+        <span v-else>
+          Data Error
+        </span>
+      </p>
+    </script>
+
+    <script src="https://unpkg.com/vue/dist/vue.js"></script>
+    <script src="js/app.js"></script>
   </body>
 </html>
