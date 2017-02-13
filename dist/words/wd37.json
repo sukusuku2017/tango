@@ -1,0 +1,599 @@
+{
+  "chapter": "37",
+  "update": "2017-02-13",
+  "author": [
+    "Phil"
+  ],
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "疲",
+          "mean": "피곤할 피",
+          "ruby": "つか"
+        },
+        {
+          "base": "れる"
+        }
+      ],
+      "mean": "피곤하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "夜",
+          "mean": "밤 야",
+          "ruby": "よ"
+        },
+        {
+          "base": "中",
+          "mean": "가운데 중",
+          "ruby": "なか"
+        }
+      ],
+      "mean": "한밤중"
+    },
+    {
+      "characters": [
+        {
+          "base": "帰",
+          "mean": "돌아갈 귀",
+          "ruby": "かえ"
+        },
+        {
+          "base": "り"
+        }
+      ],
+      "mean": "귀가"
+    },
+    {
+      "characters": [
+        {
+          "base": "遅",
+          "mean": "늦을 지",
+          "ruby": "おそ"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "늦다"
+    },
+    {
+      "characters": [
+        {
+          "base": "海",
+          "mean": "바다 해",
+          "ruby": "かい"
+        },
+        {
+          "base": "外",
+          "mean": "바깥 외",
+          "ruby": "がい"
+        },
+        {
+          "base": "出",
+          "mean": "날 출",
+          "ruby": "しゅっ"
+        },
+        {
+          "base": "張",
+          "mean": "베풀 장",
+          "ruby": "ちょう"
+        }
+      ],
+      "mean": "해외출장"
+    },
+    {
+      "base": "できる",
+      "mean": "되다"
+    },
+    {
+      "characters": [
+        {
+          "base": "一",
+          "mean": "한 일"
+        },
+        {
+          "base": "人",
+          "mean": "사람 인"
+        },
+        {
+          "base": "で"
+        }
+      ],
+      "base": "一人",
+      "ruby": "ひとり",
+      "mean": "혼자서"
+    },
+    {
+      "characters": [
+        {
+          "base": "新",
+          "mean": "새 신",
+          "ruby": "しん"
+        },
+        {
+          "base": "入",
+          "mean": "들 입",
+          "ruby": "にゅう"
+        },
+        {
+          "base": "社",
+          "mean": "모일 사",
+          "ruby": "しゃ"
+        },
+        {
+          "base": "員",
+          "mean": "인원 원",
+          "ruby": "いん"
+        }
+      ],
+      "mean": "신입사원"
+    },
+    {
+      "characters": [
+        {
+          "base": "報",
+          "mean": "알릴 보",
+          "ruby": "ほう"
+        },
+        {
+          "base": "告",
+          "mean": "고할 고",
+          "ruby": "こく"
+        },
+        {
+          "base": "書",
+          "mean": "글 서",
+          "ruby": "しょ"
+        }
+      ],
+      "mean": "보고서"
+    },
+    {
+      "base": "ずいぶん",
+      "mean": "몹시/대단히/많이"
+    },
+    {
+      "base": "かかる",
+      "mean": "걸리다"
+    },
+    {
+      "characters": [
+        {
+          "base": "入",
+          "mean": "들 입",
+          "ruby": "にゅう"
+        },
+        {
+          "base": "社",
+          "mean": "모일 사",
+          "ruby": "しゃ"
+        },
+        {
+          "base": "する"
+        }
+      ],
+      "mean": "입사하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "〜に"
+        },
+        {
+          "base": "慣",
+          "mean": "익숙할 관",
+          "ruby": "な"
+        },
+        {
+          "base": "れる"
+        }
+      ],
+      "mean": "~에 숙달되다/~에 길들여지다"
+    },
+    {
+      "characters": [
+        {
+          "base": "資",
+          "mean": "재물 자",
+          "ruby": "し"
+        },
+        {
+          "base": "料",
+          "mean": "헤아릴 료",
+          "ruby": "りょう"
+        }
+      ],
+      "mean": "자료"
+    },
+    {
+      "characters": [
+        {
+          "base": "社",
+          "mean": "모일 사",
+          "ruby": "しゃ"
+        },
+        {
+          "base": "会",
+          "mean": "모을 회",
+          "ruby": "かい"
+        },
+        {
+          "base": "生",
+          "mean": "날 생",
+          "ruby": "せい"
+        },
+        {
+          "base": "活",
+          "mean": "살 활",
+          "ruby": "かつ"
+        }
+      ],
+      "mean": "사회생활"
+    },
+    {
+      "characters": [
+        {
+          "base": "払",
+          "mean": "떨칠 불",
+          "ruby": "はら"
+        },
+        {
+          "base": "う"
+        }
+      ],
+      "mean": "지불하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "持",
+          "mean": "가질 지",
+          "ruby": "も"
+        },
+        {
+          "base": "つ"
+        }
+      ],
+      "mean": "들다"
+    },
+    {
+      "characters": [
+        {
+          "base": "運",
+          "mean": "옮길 운",
+          "ruby": "はこ"
+        },
+        {
+          "base": "ぶ"
+        }
+      ],
+      "mean": "옮기다/운반하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "発",
+          "mean": "필 발",
+          "ruby": "はっ"
+        },
+        {
+          "base": "表",
+          "mean": "겉 표",
+          "ruby": "ぴょう"
+        },
+        {
+          "base": "する"
+        }
+      ],
+      "mean": "발표하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "無",
+          "mean": "없을 무",
+          "ruby": "む"
+        },
+        {
+          "base": "理",
+          "mean": "다스릴 리",
+          "ruby": "り"
+        },
+        {
+          "base": "やり"
+        }
+      ],
+      "mean": "무리하게"
+    },
+    {
+      "characters": [
+        {
+          "base": "苦",
+          "mean": "쓸 고",
+          "ruby": "にが"
+        },
+        {
+          "base": "手",
+          "mean": "손 수",
+          "ruby": "て"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "질색이다/싫다"
+    },
+    {
+      "characters": [
+        {
+          "base": "上",
+          "mean": "윗 상",
+          "ruby": "じょう"
+        },
+        {
+          "base": "司",
+          "mean": "맡을 사",
+          "ruby": "し"
+        }
+      ],
+      "mean": "상사"
+    },
+    {
+      "base": "バイオリン",
+      "mean": "바이올린"
+    },
+    {
+      "characters": [
+        {
+          "base": "練",
+          "mean": "익힐 련",
+          "ruby": "れん"
+        },
+        {
+          "base": "習",
+          "mean": "익힐 습",
+          "ruby": "しゅう"
+        }
+      ],
+      "mean": "연습"
+    },
+    {
+      "base": "サークル",
+      "mean": "서클"
+    },
+    {
+      "characters": [
+        {
+          "base": "試",
+          "mean": "시험 시",
+          "ruby": "し"
+        },
+        {
+          "base": "験",
+          "mean": "시험할 험",
+          "ruby": "けん"
+        },
+        {
+          "base": "を"
+        },
+        {
+          "base": "受",
+          "mean": "받을 수",
+          "ruby": "う"
+        },
+        {
+          "base": "ける"
+        }
+      ],
+      "mean": "시험을 치다"
+    },
+    {
+      "characters": [
+        {
+          "base": "席",
+          "mean": "자리 석",
+          "ruby": "せき"
+        }
+      ],
+      "mean": "자리"
+    },
+    {
+      "characters": [
+        {
+          "base": "課",
+          "mean": "과정 과",
+          "ruby": "か"
+        }
+      ],
+      "mean": "과"
+    },
+    {
+      "characters": [
+        {
+          "base": "旅",
+          "mean": "나그네 려",
+          "ruby": "りょ"
+        },
+        {
+          "base": "行",
+          "mean": "다닐 행",
+          "ruby": "こう"
+        },
+        {
+          "base": "先"
+        }
+      ],
+      "mean": "여행지"
+    },
+    {
+      "characters": [
+        {
+          "base": "決",
+          "mean": "결단할 결",
+          "ruby": "き"
+        },
+        {
+          "base": "める"
+        }
+      ],
+      "mean": "결정하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "居",
+          "mean": "살 거",
+          "ruby": "い"
+        },
+        {
+          "base": "酒",
+          "mean": "술 주",
+          "ruby": "ざか"
+        },
+        {
+          "base": "屋",
+          "mean": "집 옥",
+          "ruby": "や"
+        }
+      ],
+      "mean": "일본식 선술집"
+    },
+    {
+      "characters": [
+        {
+          "base": "飲",
+          "mean": "마실 음",
+          "ruby": "の"
+        },
+        {
+          "base": "み"
+        },
+        {
+          "base": "放",
+          "mean": "놓을 방",
+          "ruby": "ほう"
+        },
+        {
+          "base": "題",
+          "mean": "제목 제",
+          "ruby": "だい"
+        }
+      ],
+      "mean": "술 무한 리필"
+    },
+    {
+      "characters": [
+        {
+          "base": "制",
+          "mean": "절제할 제",
+          "ruby": "せい"
+        },
+        {
+          "base": "限",
+          "mean": "한할 한",
+          "ruby": "げん"
+        }
+      ],
+      "mean": "제한"
+    },
+    {
+      "characters": [
+        {
+          "base": "以",
+          "mean": "써 이",
+          "ruby": "い"
+        },
+        {
+          "base": "内",
+          "mean": "안 내",
+          "ruby": "ない"
+        }
+      ],
+      "mean": "이내"
+    },
+    {
+      "characters": [
+        {
+          "base": "何",
+          "mean": "어찌 하",
+          "ruby": "なん"
+        },
+        {
+          "base": "杯",
+          "mean": "잔 배",
+          "ruby": "ばい"
+        },
+        {
+          "base": "でも"
+        }
+      ],
+      "mean": "몇 잔이라도"
+    },
+    {
+      "characters": [
+        {
+          "base": "種",
+          "mean": "씨 종",
+          "ruby": "しゅ"
+        },
+        {
+          "base": "類",
+          "mean": "무리 류",
+          "ruby": "るい"
+        }
+      ],
+      "mean": "종류"
+    },
+    {
+      "base": "いろいろな",
+      "mean": "여러 가지"
+    },
+    {
+      "characters": [
+        {
+          "base": "材",
+          "mean": "재목 재",
+          "ruby": "ざい"
+        },
+        {
+          "base": "料",
+          "mean": "헤아릴 료",
+          "ruby": "りょう"
+        }
+      ],
+      "mean": "재료"
+    },
+    {
+      "base": "かくてる",
+      "mean": "칵테일"
+    },
+    {
+      "base": "すぐに",
+      "mean": "곧"
+    },
+    {
+      "characters": [
+        {
+          "base": "酔",
+          "mean": "술 취할 취",
+          "ruby": "よ"
+        },
+        {
+          "base": "っ"
+        },
+        {
+          "base": "払",
+          "mean": "떨칠 불",
+          "ruby": "ぱら"
+        },
+        {
+          "base": "う"
+        }
+      ],
+      "mean": "만취하다"
+    }
+  ]
+}

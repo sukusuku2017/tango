@@ -2,7 +2,7 @@ const Converter = require('csvtojson').Converter;
 const _ = require('underscore');
 const jsonfile = require('jsonfile');
 
-const CHAPTER = '35';
+const CHAPTER = '37';
 let resultArray = [];
 let tempFuriArray;
 let tempWordArray;
@@ -91,17 +91,17 @@ csv()
 
     _.each(csvRow, function(element, index) {
 
-      if (word && word.characters &&
-          word.characters.length == 1 &&
-          !word.characters[0].ruby &&
-          !word.characters[0].mean
-         ) {
-        // let newWord = {
-        //   base: word.characters[0].base
-        // };
-        word.base = word.characters[0].base;
-        delete word['characters'];
-      }
+      // if (word && word.characters &&
+      //     word.characters.length == 1 &&
+      //     !word.characters[0].ruby &&
+      //     !word.characters[0].mean
+      //    ) {
+      //   // let newWord = {
+      //   //   base: word.characters[0].base
+      //   // };
+      //   word.base = word.characters[0].base;
+      //   delete word['characters'];
+      // }
 
       if (element == '의미') {
         word = tempWordArray[indexWord];
@@ -125,7 +125,7 @@ csv()
 
   let result = {
     "chapter" : CHAPTER,
-    "update" : "2017-02-11",
+    "update" : "2017-02-13",
     "author" : [
       "Phil"
     ],

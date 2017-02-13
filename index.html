@@ -70,15 +70,7 @@
       <figure class="highlight">
         <pre><code class="language-html" data-lang="html"><!--
         --><span class="nt">&lt;ruby&gt;</span><!--
-          --><template v-if="word.base">
-<!--      -->  {{ word.base }} <!--
-            --><template v-if="word.ruby"><!--
-              --><span class="nt">&lt;rt&gt;</span><!--
-              --><span>{{ word.ruby }}</span><!--
-              --><span class="nt">&lt;/rt&gt;</span><!--
-            --></template><!--
-          --></template><!--
-          --><template v-else v-for="ch in word.characters">
+          --><template v-for="ch in word.characters">
 <!--      -->  {{ ch.base }} <!--
             --><span class="nt">&lt;rt&gt;</span><!--
             --><span>{{ ch.ruby }}</span><!--
@@ -93,13 +85,13 @@
       <figure class="highlight">
         <pre><code class="language-html" data-lang="html"><!--
         --><template v-for="ch in sentence.characters"><!--
-          --><template v-if="ch.base && !ch.ruby"><!--
-            --><span class="nt">&lt;span&gt;</span>
+          --><template v-if="ch.base && !ch.ruby">
+<!--        --><span class="nt">&lt;span&gt;</span>
 <!--        -->  {{ ch.base }}
 <!--        --><span class="nt">&lt;/span&gt;</span><!--
           --></template><!--
-          --><template v-if="ch.base && ch.ruby"><!--
-            --><span class="nt">&lt;ruby&gt;</span>
+          --><template v-if="ch.base && ch.ruby">
+<!--        --><span class="nt">&lt;ruby&gt;</span>
 <!--        -->  {{ ch.base }} <!--
               --><span class="nt">&lt;rt&gt;</span><!--
               --><span>{{ ch.ruby }}</span><!--
@@ -124,13 +116,7 @@
 
     <script type="text/x-template" id="ruby-word-template">
       <ruby class="ruby-word wf-notosansjapanese">
-        <template v-if="word.base">
-          {{ word.base }}
-          <template v-if="word.ruby">
-            <rp>(</rp><rt>{{ word.ruby }}</rt><rp>)</rp>
-          </template>
-        </template>
-        <template v-else v-for="ch in word.characters">
+        <template v-for="ch in word.characters">
           {{ ch.base }}
           <rp v-if="ch.ruby">(</rp>
           <rt>{{ ch.ruby }}</rt>

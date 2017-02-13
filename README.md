@@ -59,23 +59,26 @@ json 파일의 구조는 다음과 같다.
 ### 5.1 mean `: String`
 `mean :` 단어 의미. 문자열로 표시한다. 필수 항목.
 
-### 5.2 base `: String`
-`base :` (아테지 단어인 경우) 단어. 선택적. (사례3, 4 참고)
-
-### 5.3 ruby `: String`
-`ruby :` (아테지 단어인 경우) 주석문자. 선택적. (사례3 참고)
-
-### 5.4 characters `: [ Object ]`
+### 5.2 characters `: [ Object ]`
 `characters :` 문자 단위의 배열.
 
-#### 5.4.1 characters.base `: String`
+#### 5.2.1 characters[index].base `: String`
 `base :` 단어의 최소 단위 문자. 한자, or 히라카나, or 카타가나.
 
-#### 5.4.2 characters.ruby `: String`
+#### 5.2.2 characters[index].ruby `: String`
 `ruby :` (한자인 경우) 주석 문자. 히라카나. 선택적.
 
-#### 5.4.3 characters.mean `: String`
+#### 5.2.3 characters[index].mean `: String`
 `mean :` (한자인 경우) 한자의 훈음. 한글. 선택적.
+
+### 5.3 items `: [ Object ]`
+`items :` 한자를 따로 표현할 때.
+
+### 5.3.1 items[index].base `: String`
+`base :` 한자
+
+### 5.3.2 items[index].mean `: String`
+`mean :` 한자의 뜻
 
 - 챕터마다 중복되는 단어도 포함한다. 단, 동일 챕터에서 중복은 허용 안한다.
 19과
@@ -191,10 +194,35 @@ json 파일의 구조는 다음과 같다.
 ```
 
 ### 6.3 사례3
+단어(히라카나)로 이루어진 경우.
+```json
+{
+  "characters": [
+    {
+      "base": "きっと",
+    }
+  ],
+  "mean": "반드시/꼭"
+}
+```
+
+```html
+<ruby>
+  きっと <rt></rt>
+</ruby>
+```
+
+### 6.4 사례4
 단어(한자)로 이루어진 경우
 ```json
 {
   "characters": [
+    {
+      "base": "明日",
+      "ruby": "あした"
+    }
+  ],
+  "items": [
     {
       "base": "明",
       "mean": "밝을 명"
@@ -205,30 +233,12 @@ json 파일의 구조는 다음과 같다.
     }
   ],
   "mean": "내일",
-  "base": "明日",
-  "ruby": "あした"
 }
 ```
 
 ```html
 <ruby>
   明日 <rp>(</rp><rt>あした<rt><rp>)</rp>
-</ruby>
-```
-
-### 6.4 사례4
-단어(히라카나)로 이루어진 경우.
-`<rt></rt>`엘리먼트는 없어도 됨.
-```json
-{
-  "base": "きっと",
-  "mean": "반드시/꼭"
-}
-```
-
-```html
-<ruby>
-  きっと
 </ruby>
 ```
 

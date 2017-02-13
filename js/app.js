@@ -73,6 +73,20 @@ let app = new Vue({
       {
         "characters": [
           {
+            "base": "きっと",
+          }
+        ],
+        "mean": "반드시/꼭"
+      },
+      {
+        "characters": [
+          {
+            "base": "明日",
+            "ruby": "あした"
+          }
+        ],
+        "items": [
+          {
             "base": "明",
             "mean": "밝을 명"
           },
@@ -82,12 +96,43 @@ let app = new Vue({
           }
         ],
         "mean": "내일",
-        "base": "明日",
-        "ruby": "あした"
       },
       {
-        "base": "きっと",
-        "mean": "반드시/꼭"
+        "characters": [
+          {
+            "base": "2日",
+            "ruby": "ふつか",
+          }
+        ],
+        "items": [
+          {
+            "base": "日",
+            "mean": "날 일",
+          }
+        ],
+        "mean": "2일"
+      },
+      {
+        "characters": [
+          {
+            "base": "一人",
+            "ruby": "ひとり"
+          },
+          {
+            "base": "で"
+          }
+        ],
+        "items": [
+          {
+            "base": "一",
+            "mean": "날 일",
+          },
+          {
+            "base": "人",
+            "mean": "사람 인",
+          }
+        ],
+        "mean": "혼자서"
       },
       {
         "characters": [
@@ -101,21 +146,21 @@ let app = new Vue({
             "mean": "가운데 중"
           }
         ],
-        "mean": "오늘 중"
-      },
-      {
-        "characters": [
+        "items": [
           {
-            "base": "2"
+            "base": "今",
+            "mean": "이제 금"
           },
           {
             "base": "日",
-            "mean": "날 일",
+            "mean": "날 일"
+          },
+          {
+            "base": "中",
+            "mean": "가운데 중"
           }
         ],
-        "base": "2日",
-        "ruby": "ふつか",
-        "mean": "2일"
+        "mean": "오늘 중"
       }
     ],
     sentences: [
