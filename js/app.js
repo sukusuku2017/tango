@@ -101,13 +101,13 @@ let app = new Vue({
         "characters": [
           {
             "base": "2日",
-            "ruby": "ふつか",
+            "ruby": "ふつか"
           }
         ],
         "items": [
           {
             "base": "日",
-            "mean": "날 일",
+            "mean": "날 일"
           }
         ],
         "mean": "2일"
