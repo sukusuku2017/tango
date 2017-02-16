@@ -78,10 +78,10 @@ csv()
 })
 .on('done', () => {
 
-  result.subject = tempArray.slice(0, 1);
+  result.subject = tempArray[0];
   result.content = tempArray.slice(1);
 
-  jsonfile.writeFile('./dist/sentence/st' + CHAPTER + '.json', result, {spaces: 2}, function(err) {
+  jsonfile.writeFile('./dist/sentences/st' + CHAPTER + '.json', result, {spaces: 2}, function(err) {
     console.error(err)
   });
   console.log('end')

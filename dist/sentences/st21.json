@@ -1,0 +1,144 @@
+{
+  "chapter": "21",
+  "update": "2017-02-16",
+  "author": [
+    "Phil"
+  ],
+  "subject": {
+    "characters": [
+      {
+        "base": "人",
+        "ruby": "ひと"
+      },
+      {
+        "base": "が"
+      },
+      {
+        "base": "多",
+        "ruby": "おお"
+      },
+      {
+        "base": "かったけど、"
+      },
+      {
+        "base": "とても"
+      },
+      {
+        "base": "楽",
+        "ruby": "たの"
+      },
+      {
+        "base": "しかった"
+      },
+      {
+        "base": "。"
+      }
+    ],
+    "mean": "사람이 많았지만, 매우 즐거웠다."
+  },
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "昨日",
+          "ruby": "きのう"
+        },
+        {
+          "base": "は"
+        },
+        {
+          "base": "雨",
+          "ruby": "あめ",
+          "color": true
+        },
+        {
+          "base": "でした",
+          "color": true
+        },
+        {
+          "base": "けど",
+          "bold": true
+        },
+        {
+          "base": "、"
+        },
+        {
+          "base": "出",
+          "ruby": "で",
+          "color": true
+        },
+        {
+          "base": "かけました。",
+          "color": true
+        }
+      ],
+      "mean": "어제는 비였습니다만, 외출했습니다."
+    },
+    {
+      "characters": [
+        {
+          "base": "富",
+          "ruby": "ふ"
+        },
+        {
+          "base": "士",
+          "ruby": "じ"
+        },
+        {
+          "base": "山",
+          "ruby": "さん"
+        },
+        {
+          "base": "は"
+        },
+        {
+          "base": "高",
+          "ruby": "たか"
+        },
+        {
+          "base": "くて"
+        },
+        {
+          "base": "大",
+          "ruby": "たい",
+          "color": true
+        },
+        {
+          "base": "変",
+          "ruby": "へん",
+          "color": true
+        },
+        {
+          "base": "でした",
+          "color": true
+        },
+        {
+          "base": "けど",
+          "bold": true
+        },
+        {
+          "base": "、"
+        },
+        {
+          "base": "景",
+          "ruby": "け"
+        },
+        {
+          "base": "色",
+          "ruby": "しき"
+        },
+        {
+          "base": "はとても"
+        },
+        {
+          "base": "よかったです",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "후지 산은 높고 힘들었지만, 경치는 아주 좋았습니다."
+    }
+  ]
+}

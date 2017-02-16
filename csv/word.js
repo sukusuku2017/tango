@@ -120,7 +120,7 @@ csv()
     "content" : resultArray
   }
 
-  jsonfile.writeFile('./csv/word/wd' + CHAPTER + '.json', result, {spaces: 2}, function(err) {
+  jsonfile.writeFile('./dist/words/wd' + CHAPTER + '.json', result, {spaces: 2}, function(err) {
     console.error(err)
   });
   console.log('end')
