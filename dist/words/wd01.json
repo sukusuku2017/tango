@@ -1,0 +1,694 @@
+{
+  "chapter": "01",
+  "update": "2017-02-17",
+  "author": [
+    "Phil"
+  ],
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "〜さん"
+        }
+      ],
+      "mean": "~씨"
+    },
+    {
+      "characters": [
+        {
+          "base": "こんにちは"
+        }
+      ],
+      "mean": "안녕하세요"
+    },
+    {
+      "characters": [
+        {
+          "base": "〜の"
+        }
+      ],
+      "mean": "~의"
+    },
+    {
+      "characters": [
+        {
+          "base": "お"
+        },
+        {
+          "base": "仕",
+          "mean": "섬길 사",
+          "ruby": "し"
+        },
+        {
+          "base": "事",
+          "mean": "일 사",
+          "ruby": "ごと"
+        }
+      ],
+      "mean": "직업"
+    },
+    {
+      "characters": [
+        {
+          "base": "〜は"
+        }
+      ],
+      "mean": "~은/~는"
+    },
+    {
+      "characters": [
+        {
+          "base": "何",
+          "mean": "어찌 하",
+          "ruby": "なん"
+        },
+        {
+          "base": "ですか"
+        }
+      ],
+      "mean": "무엇입니까?"
+    },
+    {
+      "characters": [
+        {
+          "base": "会",
+          "mean": "모을 회",
+          "ruby": "かい"
+        },
+        {
+          "base": "社",
+          "mean": "모일 사",
+          "ruby": "しゃ"
+        },
+        {
+          "base": "員",
+          "mean": "인원 원",
+          "ruby": "いん"
+        }
+      ],
+      "mean": "회사원"
+    },
+    {
+      "characters": [
+        {
+          "base": "〜も"
+        }
+      ],
+      "mean": "~도"
+    },
+    {
+      "characters": [
+        {
+          "base": "大",
+          "mean": "큰 대",
+          "ruby": "だい"
+        },
+        {
+          "base": "学",
+          "mean": "배울 학",
+          "ruby": "がく"
+        },
+        {
+          "base": "生",
+          "mean": "날 생",
+          "ruby": "せい"
+        }
+      ],
+      "mean": "대학생"
+    },
+    {
+      "characters": [
+        {
+          "base": "私",
+          "mean": "사사 사",
+          "ruby": "わたし"
+        }
+      ],
+      "mean": "저/나"
+    },
+    {
+      "characters": [
+        {
+          "base": "あなた"
+        }
+      ],
+      "mean": "당신/너"
+    },
+    {
+      "characters": [
+        {
+          "base": "彼",
+          "mean": "저 피",
+          "ruby": "かれ"
+        }
+      ],
+      "mean": "그"
+    },
+    {
+      "characters": [
+        {
+          "base": "彼",
+          "mean": "저 피",
+          "ruby": "かの"
+        },
+        {
+          "base": "女",
+          "mean": "계집 녀",
+          "ruby": "じょ"
+        }
+      ],
+      "mean": "그녀"
+    },
+    {
+      "characters": [
+        {
+          "base": "誰",
+          "mean": "누구 수",
+          "ruby": "だれ"
+        }
+      ],
+      "mean": "누구"
+    },
+    {
+      "characters": [
+        {
+          "base": "どなた"
+        }
+      ],
+      "mean": "어느 분"
+    },
+    {
+      "characters": [
+        {
+          "base": "先",
+          "mean": "먼저 선",
+          "ruby": "せん"
+        },
+        {
+          "base": "生",
+          "mean": "날 생",
+          "ruby": "せい"
+        }
+      ],
+      "mean": "선생님"
+    },
+    {
+      "characters": [
+        {
+          "base": "銀",
+          "mean": "은 은",
+          "ruby": "ぎん"
+        },
+        {
+          "base": "行",
+          "mean": "다닐 행",
+          "ruby": "こう"
+        },
+        {
+          "base": "員",
+          "mean": "인원 원",
+          "ruby": "いん"
+        }
+      ],
+      "mean": "은행원"
+    },
+    {
+      "characters": [
+        {
+          "base": "学",
+          "mean": "배울 학",
+          "ruby": "がく"
+        },
+        {
+          "base": "生",
+          "mean": "날 생",
+          "ruby": "せい"
+        }
+      ],
+      "mean": "학생"
+    },
+    {
+      "characters": [
+        {
+          "base": "歌",
+          "mean": "노래 가",
+          "ruby": "か"
+        },
+        {
+          "base": "手",
+          "mean": "손 수",
+          "ruby": "しゅ"
+        }
+      ],
+      "mean": "가수"
+    },
+    {
+      "characters": [
+        {
+          "base": "高",
+          "mean": "높을 고",
+          "ruby": "こう"
+        },
+        {
+          "base": "校",
+          "mean": "학교 교",
+          "ruby": "こう"
+        },
+        {
+          "base": "生",
+          "mean": "날 생",
+          "ruby": "せい"
+        }
+      ],
+      "mean": "고등학생"
+    },
+    {
+      "characters": [
+        {
+          "base": "医",
+          "mean": "의원 의",
+          "ruby": "い"
+        },
+        {
+          "base": "者",
+          "mean": "놈 자",
+          "ruby": "しゃ"
+        }
+      ],
+      "mean": "의사"
+    },
+    {
+      "characters": [
+        {
+          "base": "看",
+          "mean": "볼 간",
+          "ruby": "かん"
+        },
+        {
+          "base": "護",
+          "mean": "도울 호",
+          "ruby": "ご"
+        },
+        {
+          "base": "師",
+          "mean": "스승 사",
+          "ruby": "し"
+        }
+      ],
+      "mean": "간호사"
+    },
+    {
+      "characters": [
+        {
+          "base": "公",
+          "mean": "공평할 공",
+          "ruby": "こう"
+        },
+        {
+          "base": "務",
+          "mean": "힘쓸 무",
+          "ruby": "む"
+        },
+        {
+          "base": "員",
+          "mean": "인원 원",
+          "ruby": "いん"
+        }
+      ],
+      "mean": "공무원"
+    },
+    {
+      "characters": [
+        {
+          "base": "教",
+          "mean": "가르칠 교",
+          "ruby": "きょう"
+        },
+        {
+          "base": "授",
+          "mean": "줄 수",
+          "ruby": "じゅ"
+        }
+      ],
+      "mean": "교수"
+    },
+    {
+      "characters": [
+        {
+          "base": "主",
+          "mean": "주인 주",
+          "ruby": "しゅ"
+        },
+        {
+          "base": "婦",
+          "mean": "며느리 부",
+          "ruby": "ふ"
+        }
+      ],
+      "mean": "주부"
+    },
+    {
+      "characters": [
+        {
+          "base": "デザイナー"
+        }
+      ],
+      "mean": "디자이너"
+    },
+    {
+      "characters": [
+        {
+          "base": "エンジニア"
+        }
+      ],
+      "mean": "엔지니어"
+    },
+    {
+      "characters": [
+        {
+          "base": "フリーター"
+        }
+      ],
+      "mean": "아르바이트로 생활을 하는 사람"
+    },
+    {
+      "characters": [
+        {
+          "base": "韓",
+          "mean": "한국 한",
+          "ruby": "かん"
+        },
+        {
+          "base": "国",
+          "mean": "나라 국",
+          "ruby": "こく"
+        },
+        {
+          "base": "（"
+        },
+        {
+          "base": "人",
+          "mean": "사람 인",
+          "ruby": "じん"
+        },
+        {
+          "base": "）"
+        }
+      ],
+      "mean": "한국(인)"
+    },
+    {
+      "characters": [
+        {
+          "base": "中",
+          "mean": "가운데 중",
+          "ruby": "ちゅう"
+        },
+        {
+          "base": "国",
+          "mean": "나라 국",
+          "ruby": "ごく"
+        },
+        {
+          "base": "（"
+        },
+        {
+          "base": "人",
+          "mean": "사람 인",
+          "ruby": "じん"
+        },
+        {
+          "base": "）"
+        }
+      ],
+      "mean": "중국(인)"
+    },
+    {
+      "characters": [
+        {
+          "base": "日",
+          "mean": "날 일",
+          "ruby": "に"
+        },
+        {
+          "base": "本",
+          "mean": "근본 본",
+          "ruby": "ほん"
+        },
+        {
+          "base": "（"
+        },
+        {
+          "base": "人",
+          "mean": "사람 인",
+          "ruby": "じん"
+        },
+        {
+          "base": "）"
+        }
+      ],
+      "mean": "일본(인)"
+    },
+    {
+      "characters": [
+        {
+          "base": "タイ"
+        },
+        {
+          "base": "（"
+        },
+        {
+          "base": "人",
+          "mean": "사람 인",
+          "ruby": "じん"
+        },
+        {
+          "base": "）"
+        }
+      ],
+      "mean": "태국(인)"
+    },
+    {
+      "characters": [
+        {
+          "base": "アメリカ"
+        },
+        {
+          "base": "（"
+        },
+        {
+          "base": "人",
+          "mean": "사람 인",
+          "ruby": "じん"
+        },
+        {
+          "base": "）"
+        }
+      ],
+      "mean": "미국(인)"
+    },
+    {
+      "characters": [
+        {
+          "base": "イギリス"
+        },
+        {
+          "base": "（"
+        },
+        {
+          "base": "人",
+          "mean": "사람 인",
+          "ruby": "じん"
+        },
+        {
+          "base": "）"
+        }
+      ],
+      "mean": "영국(인)"
+    },
+    {
+      "characters": [
+        {
+          "base": "ドイツ"
+        },
+        {
+          "base": "（"
+        },
+        {
+          "base": "人",
+          "mean": "사람 인",
+          "ruby": "じん"
+        },
+        {
+          "base": "）"
+        }
+      ],
+      "mean": "독일(인)"
+    },
+    {
+      "characters": [
+        {
+          "base": "ロシア"
+        },
+        {
+          "base": "（"
+        },
+        {
+          "base": "人",
+          "mean": "사람 인",
+          "ruby": "じん"
+        },
+        {
+          "base": "）"
+        }
+      ],
+      "mean": "러시아(인)"
+    },
+    {
+      "characters": [
+        {
+          "base": "フランス"
+        },
+        {
+          "base": "（"
+        },
+        {
+          "base": "人",
+          "mean": "사람 인",
+          "ruby": "じん"
+        },
+        {
+          "base": "）"
+        }
+      ],
+      "mean": "프랑스(인)"
+    },
+    {
+      "characters": [
+        {
+          "base": "韓",
+          "mean": "한국 한",
+          "ruby": "かん"
+        },
+        {
+          "base": "国",
+          "mean": "나라 국",
+          "ruby": "こく"
+        },
+        {
+          "base": "語",
+          "mean": "말씀 어",
+          "ruby": "ご"
+        }
+      ],
+      "mean": "한국어"
+    },
+    {
+      "characters": [
+        {
+          "base": "中",
+          "mean": "가운데 중",
+          "ruby": "ちゅう"
+        },
+        {
+          "base": "国",
+          "mean": "나라 국",
+          "ruby": "ごく"
+        },
+        {
+          "base": "語",
+          "mean": "말씀 어",
+          "ruby": "ご"
+        }
+      ],
+      "mean": "중국어"
+    },
+    {
+      "characters": [
+        {
+          "base": "日",
+          "mean": "날 일",
+          "ruby": "に"
+        },
+        {
+          "base": "本",
+          "mean": "근본 본",
+          "ruby": "ほん"
+        },
+        {
+          "base": "語",
+          "mean": "말씀 어",
+          "ruby": "ご"
+        }
+      ],
+      "mean": "일본어"
+    },
+    {
+      "characters": [
+        {
+          "base": "タイ"
+        },
+        {
+          "base": "語",
+          "mean": "말씀 어",
+          "ruby": "ご"
+        }
+      ],
+      "mean": "태국어"
+    },
+    {
+      "characters": [
+        {
+          "base": "英",
+          "mean": "꽃부리 영",
+          "ruby": "えい"
+        },
+        {
+          "base": "語",
+          "mean": "말씀 어",
+          "ruby": "ご"
+        }
+      ],
+      "mean": "영어"
+    },
+    {
+      "characters": [
+        {
+          "base": "ドイツ"
+        },
+        {
+          "base": "語",
+          "mean": "말씀 어",
+          "ruby": "ご"
+        }
+      ],
+      "mean": "독일어"
+    },
+    {
+      "characters": [
+        {
+          "base": "ロシア"
+        },
+        {
+          "base": "語",
+          "mean": "말씀 어",
+          "ruby": "ご"
+        }
+      ],
+      "mean": "러시아어"
+    },
+    {
+      "characters": [
+        {
+          "base": "フランス"
+        },
+        {
+          "base": "語",
+          "mean": "말씀 어",
+          "ruby": "ご"
+        }
+      ],
+      "mean": "프랑스어"
+    }
+  ]
+}
