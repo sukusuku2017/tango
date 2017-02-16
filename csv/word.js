@@ -9,7 +9,7 @@ let tempWordArray;
 
 const csv = require('csvtojson')
 csv()
-.fromFile('./csv/' + CHAPTER + '.csv')
+.fromFile('./csv/word/' + CHAPTER + '.csv')
 .on('csv',(csvRow)=>{
 
   if (!csvRow[0]) {
@@ -91,18 +91,6 @@ csv()
 
     _.each(csvRow, function(element, index) {
 
-      // if (word && word.characters &&
-      //     word.characters.length == 1 &&
-      //     !word.characters[0].ruby &&
-      //     !word.characters[0].mean
-      //    ) {
-      //   // let newWord = {
-      //   //   base: word.characters[0].base
-      //   // };
-      //   word.base = word.characters[0].base;
-      //   delete word['characters'];
-      // }
-
       if (element == '의미') {
         word = tempWordArray[indexWord];
       } else {
@@ -121,7 +109,7 @@ csv()
   }
 
 })
-.on('done',()=>{
+.on('done',() => {
 
   let result = {
     "chapter" : CHAPTER,
@@ -132,7 +120,7 @@ csv()
     "content" : resultArray
   }
 
-  jsonfile.writeFile('./csv/wd' + CHAPTER + '.json', result, {spaces: 2}, function(err) {
+  jsonfile.writeFile('./csv/word/wd' + CHAPTER + '.json', result, {spaces: 2}, function(err) {
     console.error(err)
   });
   console.log('end')
