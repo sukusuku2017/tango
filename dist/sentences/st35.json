@@ -1,0 +1,186 @@
+{
+  "chapter": "35",
+  "update": "2017-02-17",
+  "author": [
+    "Phil"
+  ],
+  "subject": {
+    "characters": [
+      {
+        "base": "私",
+        "ruby": "わたし"
+      },
+      {
+        "base": "は"
+      },
+      {
+        "base": "子",
+        "ruby": "こ"
+      },
+      {
+        "base": "どもを"
+      },
+      {
+        "base": "自",
+        "ruby": "じ"
+      },
+      {
+        "base": "由",
+        "ruby": "ゆう"
+      },
+      {
+        "base": "に"
+      },
+      {
+        "base": "遊",
+        "ruby": "あそ"
+      },
+      {
+        "base": "ばせます。"
+      }
+    ],
+    "mean": "저는 아이를 자유롭게 놀게 하겠습니다."
+  },
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "課",
+          "ruby": "か"
+        },
+        {
+          "base": "長",
+          "ruby": "ちょう"
+        },
+        {
+          "base": "は"
+        },
+        {
+          "base": "田",
+          "ruby": "た"
+        },
+        {
+          "base": "中",
+          "ruby": "なか"
+        },
+        {
+          "base": "さん"
+        },
+        {
+          "base": "を",
+          "color": true
+        },
+        {
+          "base": "出",
+          "ruby": "しゅっ"
+        },
+        {
+          "base": "張",
+          "ruby": "ちょう"
+        },
+        {
+          "base": "に"
+        },
+        {
+          "base": "行",
+          "ruby": "い",
+          "color": true
+        },
+        {
+          "base": "かせました",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "과장님은 다나까 씨를 출장 가게 했습니다."
+    },
+    {
+      "characters": [
+        {
+          "base": "私",
+          "ruby": "わたし"
+        },
+        {
+          "base": "は"
+        },
+        {
+          "base": "娘",
+          "ruby": "むすめ"
+        },
+        {
+          "base": "に",
+          "color": true
+        },
+        {
+          "base": "ピアノ"
+        },
+        {
+          "base": "を",
+          "color": true
+        },
+        {
+          "base": "習",
+          "ruby": "なら",
+          "color": true
+        },
+        {
+          "base": "わせたいです",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "저는 딸에게 피아노를 배우게 하고 싶습니다."
+    },
+    {
+      "characters": [
+        {
+          "base": "今日",
+          "ruby": "きょう"
+        },
+        {
+          "base": "は"
+        },
+        {
+          "base": "雨",
+          "ruby": "あめ"
+        },
+        {
+          "base": "だ"
+        },
+        {
+          "base": "し",
+          "color": true
+        },
+        {
+          "base": "、"
+        },
+        {
+          "base": "寒",
+          "ruby": "さむ"
+        },
+        {
+          "base": "い"
+        },
+        {
+          "base": "し",
+          "color": true
+        },
+        {
+          "base": "、"
+        },
+        {
+          "base": "出",
+          "ruby": "で"
+        },
+        {
+          "base": "かけたくありません。"
+        }
+      ],
+      "mean": "오늘은 비인데다가, 추운데다가, 외출하고 싶지 않습니다."
+    }
+  ]
+}

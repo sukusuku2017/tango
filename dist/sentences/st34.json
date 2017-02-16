@@ -1,0 +1,240 @@
+{
+  "chapter": "34",
+  "update": "2017-02-17",
+  "author": [
+    "Phil"
+  ],
+  "subject": {
+    "characters": [
+      {
+        "base": "それは"
+      },
+      {
+        "base": "韓",
+        "ruby": "かん"
+      },
+      {
+        "base": "国",
+        "ruby": "こく"
+      },
+      {
+        "base": "でたくさんの"
+      },
+      {
+        "base": "人",
+        "ruby": "ひと"
+      },
+      {
+        "base": "に"
+      },
+      {
+        "base": "読",
+        "ruby": "よ"
+      },
+      {
+        "base": "まれている"
+      },
+      {
+        "base": "小",
+        "ruby": "しょう"
+      },
+      {
+        "base": "説",
+        "ruby": "せつ"
+      },
+      {
+        "base": "です。"
+      }
+    ],
+    "mean": "이것은 한국에서 많은 사람들에게 읽혀지고 있는 소설입니다."
+  },
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "私",
+          "ruby": "わたし"
+        },
+        {
+          "base": "は"
+        },
+        {
+          "base": "先",
+          "ruby": "せん"
+        },
+        {
+          "base": "輩",
+          "ruby": "ぱい"
+        },
+        {
+          "base": "にいじめられました",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "나는 선배에게 괴롭힘을 당했습니다."
+    },
+    {
+      "characters": [
+        {
+          "base": "私",
+          "ruby": "わたし"
+        },
+        {
+          "base": "は"
+        },
+        {
+          "base": "部",
+          "ruby": "ぶ"
+        },
+        {
+          "base": "長",
+          "ruby": "じょう"
+        },
+        {
+          "base": "に",
+          "color": true
+        },
+        {
+          "base": "仕",
+          "ruby": "し"
+        },
+        {
+          "base": "事",
+          "ruby": "ごと"
+        },
+        {
+          "base": "を",
+          "color": true
+        },
+        {
+          "base": "頼",
+          "ruby": "たの",
+          "color": true
+        },
+        {
+          "base": "まれました",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "나는 부장님에게 일을 부탁 받았습니다."
+    },
+    {
+      "characters": [
+        {
+          "base": "昨日",
+          "ruby": "きのう"
+        },
+        {
+          "base": "帰",
+          "ruby": "かえ"
+        },
+        {
+          "base": "りに"
+        },
+        {
+          "base": "雨",
+          "ruby": "あめ"
+        },
+        {
+          "base": "に",
+          "color": true
+        },
+        {
+          "base": "降",
+          "ruby": "ふ",
+          "color": true
+        },
+        {
+          "base": "られて",
+          "color": true
+        },
+        {
+          "base": "しまいました。"
+        }
+      ],
+      "mean": "어제 돌아가는 길에 비를 맞고 말았습니다."
+    },
+    {
+      "characters": [
+        {
+          "base": "桜",
+          "ruby": "さくら"
+        },
+        {
+          "base": "は",
+          "color": true
+        },
+        {
+          "base": "日",
+          "ruby": "に"
+        },
+        {
+          "base": "本",
+          "ruby": "ほん"
+        },
+        {
+          "base": "人",
+          "ruby": "じん"
+        },
+        {
+          "base": "に",
+          "color": true
+        },
+        {
+          "base": "愛",
+          "ruby": "あい",
+          "color": true
+        },
+        {
+          "base": "されて",
+          "color": true
+        },
+        {
+          "base": "います。"
+        }
+      ],
+      "mean": "벚꽃은 일본인에게 사랑 받고 있습니다."
+    },
+    {
+      "characters": [
+        {
+          "base": "富",
+          "ruby": "ふ"
+        },
+        {
+          "base": "士",
+          "ruby": "じ"
+        },
+        {
+          "base": "山",
+          "ruby": "さん"
+        },
+        {
+          "base": "という",
+          "color": true
+        },
+        {
+          "base": "山",
+          "ruby": "やま"
+        },
+        {
+          "base": "を"
+        },
+        {
+          "base": "知",
+          "ruby": "し"
+        },
+        {
+          "base": "っていますか。"
+        }
+      ],
+      "mean": "후지 산이라고 하는 산을 알고 있습니까?"
+    }
+  ]
+}
