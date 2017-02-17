@@ -1,0 +1,54 @@
+{
+  "chapter": "09",
+  "update": "2017-02-17",
+  "author": [
+    "Phil"
+  ],
+  "subject": {
+    "characters": [
+      {
+        "base": "このかばんはいくらですか。"
+      }
+    ],
+    "mean": "이 가방은 얼마입니까?"
+  },
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "その"
+        },
+        {
+          "base": "赤",
+          "ruby": "あか"
+        },
+        {
+          "base": "いかばん"
+        },
+        {
+          "base": "はいくらですか",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "그 빨간 가방은 얼마입니까?"
+    },
+    {
+      "characters": [
+        {
+          "base": "このケーキ"
+        },
+        {
+          "base": "ください",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "이 케이크 주세요."
+    }
+  ]
+}

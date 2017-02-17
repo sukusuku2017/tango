@@ -1,0 +1,106 @@
+{
+  "chapter": "10",
+  "update": "2017-02-17",
+  "author": [
+    "Phil"
+  ],
+  "subject": {
+    "characters": [
+      {
+        "base": "この"
+      },
+      {
+        "base": "近",
+        "ruby": "ちか"
+      },
+      {
+        "base": "くに"
+      },
+      {
+        "base": "銀",
+        "ruby": "ぎん"
+      },
+      {
+        "base": "行",
+        "ruby": "こう"
+      },
+      {
+        "base": "がありますか。"
+      }
+    ],
+    "mean": "이 근처에 은행이 있나요?"
+  },
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "駅",
+          "ruby": "えき"
+        },
+        {
+          "base": "の"
+        },
+        {
+          "base": "中",
+          "ruby": "なか"
+        },
+        {
+          "base": "に",
+          "color": true
+        },
+        {
+          "base": "トイレ"
+        },
+        {
+          "base": "があります",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "역 안에 화장실이 있습니다."
+    },
+    {
+      "characters": [
+        {
+          "base": "私",
+          "ruby": "わたし"
+        },
+        {
+          "base": "の"
+        },
+        {
+          "base": "後",
+          "ruby": "うし"
+        },
+        {
+          "base": "ろ"
+        },
+        {
+          "base": "に",
+          "color": true
+        },
+        {
+          "base": "木",
+          "ruby": "き"
+        },
+        {
+          "base": "村",
+          "ruby": "むら"
+        },
+        {
+          "base": "さん"
+        },
+        {
+          "base": "がいます",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "내 뒤에 기무라 씨가 있습니다."
+    }
+  ]
+}

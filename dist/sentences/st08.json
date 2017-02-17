@@ -1,0 +1,203 @@
+{
+  "chapter": "08",
+  "update": "2017-02-17",
+  "author": [
+    "Phil"
+  ],
+  "subject": {
+    "characters": [
+      {
+        "base": "東",
+        "ruby": "とう"
+      },
+      {
+        "base": "京",
+        "ruby": "きょう"
+      },
+      {
+        "base": "とソウルとどちらが"
+      },
+      {
+        "base": "寒",
+        "ruby": "さむ"
+      },
+      {
+        "base": "いですか。"
+      }
+    ],
+    "mean": "동경과 서울과 어느 쪽이 춥나요?"
+  },
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "猫",
+          "ruby": "ねこ"
+        },
+        {
+          "base": "と",
+          "color": true
+        },
+        {
+          "base": "犬",
+          "ruby": "いぬ"
+        },
+        {
+          "base": "とどちらが",
+          "color": true
+        },
+        {
+          "base": "かわいい"
+        },
+        {
+          "base": "ですか",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "고양이와 개와 어느 쪽이 귀엽습니까?"
+    },
+    {
+      "characters": [
+        {
+          "base": "(バス"
+        },
+        {
+          "base": "より",
+          "color": true
+        },
+        {
+          "base": ")"
+        },
+        {
+          "base": "地",
+          "ruby": "ち"
+        },
+        {
+          "base": "下",
+          "ruby": "か"
+        },
+        {
+          "base": "鉄",
+          "ruby": "てつ"
+        },
+        {
+          "base": "の",
+          "color": true
+        },
+        {
+          "base": "方",
+          "ruby": "ほう",
+          "color": true
+        },
+        {
+          "base": "が",
+          "color": true
+        },
+        {
+          "base": "便",
+          "ruby": "べん"
+        },
+        {
+          "base": "利",
+          "ruby": "り"
+        },
+        {
+          "base": "です",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "(버스보다) 지하철 쪽이 편리합니다."
+    },
+    {
+      "characters": [
+        {
+          "base": "果",
+          "ruby": "くだ"
+        },
+        {
+          "base": "物",
+          "ruby": "もの"
+        },
+        {
+          "base": "の",
+          "color": true
+        },
+        {
+          "base": "中",
+          "ruby": "なか",
+          "color": true
+        },
+        {
+          "base": "で",
+          "color": true
+        },
+        {
+          "base": "何",
+          "ruby": "なに",
+          "color": true
+        },
+        {
+          "base": "が",
+          "color": true
+        },
+        {
+          "base": "一",
+          "ruby": "いち",
+          "color": true
+        },
+        {
+          "base": "番",
+          "ruby": "ばん",
+          "color": true
+        },
+        {
+          "base": "おいしい"
+        },
+        {
+          "base": "ですか",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "과일 중에서 무엇이 가장 맛있습니까?"
+    },
+    {
+      "characters": [
+        {
+          "base": "春",
+          "ruby": "はる"
+        },
+        {
+          "base": "が",
+          "color": true
+        },
+        {
+          "base": "一",
+          "ruby": "いち",
+          "color": true
+        },
+        {
+          "base": "番",
+          "ruby": "ばん",
+          "color": true
+        },
+        {
+          "base": "好",
+          "ruby": "す"
+        },
+        {
+          "base": "きです。"
+        }
+      ],
+      "mean": "봄을 가장 좋아합니다."
+    }
+  ]
+}

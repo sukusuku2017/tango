@@ -1,0 +1,134 @@
+{
+  "chapter": "06",
+  "update": "2017-02-17",
+  "author": [
+    "Phil"
+  ],
+  "subject": {
+    "characters": [
+      {
+        "base": "カラオケが"
+      },
+      {
+        "base": "好",
+        "ruby": "す"
+      },
+      {
+        "base": "きですか。"
+      }
+    ],
+    "mean": "노래방을 좋아하나요?"
+  },
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "今日",
+          "ruby": "きょう"
+        },
+        {
+          "base": "は"
+        },
+        {
+          "base": "暇",
+          "ruby": "ひま",
+          "color": true
+        },
+        {
+          "base": "だ",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "오늘은 한가하다."
+    },
+    {
+      "characters": [
+        {
+          "base": "東",
+          "ruby": "とう"
+        },
+        {
+          "base": "京",
+          "ruby": "きょう"
+        },
+        {
+          "base": "は"
+        },
+        {
+          "base": "賑",
+          "ruby": "にぎ",
+          "color": true
+        },
+        {
+          "base": "やかです",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "동경은 번화합니다."
+    },
+    {
+      "characters": [
+        {
+          "base": "このパソコンは"
+        },
+        {
+          "base": "便",
+          "ruby": "べん",
+          "color": true
+        },
+        {
+          "base": "利",
+          "ruby": "り",
+          "color": true
+        },
+        {
+          "base": "じゃありません",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "이 컴퓨터는 편리하지 않습니다."
+    },
+    {
+      "characters": [
+        {
+          "base": "私",
+          "ruby": "わたし"
+        },
+        {
+          "base": "はピアノ"
+        },
+        {
+          "base": "が",
+          "color": true
+        },
+        {
+          "base": "上",
+          "ruby": "じょう",
+          "color": true
+        },
+        {
+          "base": "手",
+          "ruby": "ず",
+          "color": true
+        },
+        {
+          "base": "です",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "저는 피아노를 잘 칩니다."
+    }
+  ]
+}
