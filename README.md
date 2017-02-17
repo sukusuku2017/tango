@@ -125,8 +125,12 @@ json 파일의 구조는 다음과 같다.
 
 34과 掏, 噛
 
+- 숫자의 경우 fullwidth를 사용한다.
+  - `９` `\uFF19`
+  - `9` `\u0039`
 
 참고 링크
+- [숫자](https://en.wikipedia.org/wiki/Halfwidth_and_fullwidth_forms)
 - [루비 문자](https://ko.wikipedia.org/wiki/%EB%A3%A8%EB%B9%84_%EB%AC%B8%EC%9E%90)
 - [&lt;ruby&gt; - mozilla](https://developer.mozilla.org/ko/docs/Web/HTML/Element/ruby)
 - [&lt;ruby&gt;](https://www.w3.org/TR/html5/text-level-semantics.html#the-ruby-element)

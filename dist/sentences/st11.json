@@ -1,0 +1,103 @@
+{
+  "chapter": "12",
+  "update": "2017-02-17",
+  "author": [
+    "Phil"
+  ],
+  "subject": {
+    "characters": [
+      {
+        "base": "旅",
+        "ruby": "りょ"
+      },
+      {
+        "base": "行",
+        "ruby": "こう"
+      },
+      {
+        "base": "は"
+      },
+      {
+        "base": "８",
+        "ruby": "はち"
+      },
+      {
+        "base": "月",
+        "ruby": "がつ"
+      },
+      {
+        "base": "４日",
+        "ruby": "よっか"
+      },
+      {
+        "base": "まででした。"
+      }
+    ],
+    "mean": "여행은 8월 4일까지였습니다."
+  },
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "今日",
+          "ruby": "きょう"
+        },
+        {
+          "base": "は"
+        },
+        {
+          "base": "何",
+          "ruby": "なん",
+          "color": true
+        },
+        {
+          "base": "月",
+          "ruby": "がつ",
+          "color": true
+        },
+        {
+          "base": "何",
+          "ruby": "なん",
+          "color": true
+        },
+        {
+          "base": "日",
+          "ruby": "にち",
+          "color": true
+        },
+        {
+          "base": "ですか",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "오늘은 몇 월 며칠입니까?"
+    },
+    {
+      "characters": [
+        {
+          "base": "お"
+        },
+        {
+          "base": "誕"
+        },
+        {
+          "base": "生"
+        },
+        {
+          "base": "日"
+        },
+        {
+          "base": "はいつですか",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "생일은 언제입니까?"
+    }
+  ]
+}

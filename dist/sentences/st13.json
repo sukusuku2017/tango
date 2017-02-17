@@ -1,0 +1,250 @@
+{
+  "chapter": "13",
+  "update": "2017-02-17",
+  "author": [
+    "Phil"
+  ],
+  "subject": {
+    "characters": [
+      {
+        "base": "一",
+        "ruby": "いっ"
+      },
+      {
+        "base": "緒",
+        "ruby": "しょ"
+      },
+      {
+        "base": "に"
+      },
+      {
+        "base": "買",
+        "ruby": "か"
+      },
+      {
+        "base": "い"
+      },
+      {
+        "base": "物",
+        "ruby": "もの"
+      },
+      {
+        "base": "に"
+      },
+      {
+        "base": "行",
+        "ruby": "い"
+      },
+      {
+        "base": "きませんか。"
+      }
+    ],
+    "mean": "함께 쇼핑하려 가지 않을래요?"
+  },
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "友",
+          "ruby": "とも"
+        },
+        {
+          "base": "だちと"
+        },
+        {
+          "base": "遊",
+          "ruby": "あそ"
+        },
+        {
+          "base": "び"
+        },
+        {
+          "base": "ました",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "친구와 놀았습니다."
+    },
+    {
+      "characters": [
+        {
+          "base": "昨日",
+          "ruby": "きのう"
+        },
+        {
+          "base": "は"
+        },
+        {
+          "base": "学",
+          "ruby": "かっ"
+        },
+        {
+          "base": "校",
+          "ruby": "こう"
+        },
+        {
+          "base": "へ"
+        },
+        {
+          "base": "行",
+          "ruby": "い"
+        },
+        {
+          "base": "き"
+        },
+        {
+          "base": "ませんでした",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "어제는 학교에 가지 않았습니다."
+    },
+    {
+      "characters": [
+        {
+          "base": "少",
+          "ruby": "すこ"
+        },
+        {
+          "base": "し"
+        },
+        {
+          "base": "休",
+          "ruby": "やす"
+        },
+        {
+          "base": "み"
+        },
+        {
+          "base": "ませんか",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "조금 쉬지 않겠습니까?"
+    },
+    {
+      "characters": [
+        {
+          "base": "早",
+          "ruby": "はや"
+        },
+        {
+          "base": "く"
+        },
+        {
+          "base": "帰",
+          "ruby": "かえ"
+        },
+        {
+          "base": "り"
+        },
+        {
+          "base": "ましょう",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "일찍 집에 돌아갑시다."
+    },
+    {
+      "characters": [
+        {
+          "base": "何",
+          "ruby": "なん"
+        },
+        {
+          "base": "時",
+          "ruby": "じ"
+        },
+        {
+          "base": "に"
+        },
+        {
+          "base": "会",
+          "ruby": "あ"
+        },
+        {
+          "base": "い"
+        },
+        {
+          "base": "ましょうか",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "몇 시에 만날까요?"
+    },
+    {
+      "characters": [
+        {
+          "base": "映",
+          "ruby": "えい"
+        },
+        {
+          "base": "画",
+          "ruby": "が"
+        },
+        {
+          "base": "を"
+        },
+        {
+          "base": "見",
+          "ruby": "み",
+          "bold": true
+        },
+        {
+          "base": "に",
+          "color": true
+        },
+        {
+          "base": "行",
+          "ruby": "い"
+        },
+        {
+          "base": "きます。"
+        }
+      ],
+      "mean": "영화를 보러 갑니다."
+    },
+    {
+      "characters": [
+        {
+          "base": "昨日",
+          "ruby": "きのう"
+        },
+        {
+          "base": "は"
+        },
+        {
+          "base": "アルバイト",
+          "bold": true
+        },
+        {
+          "base": "に",
+          "color": true
+        },
+        {
+          "base": "行",
+          "ruby": "い"
+        },
+        {
+          "base": "きました。"
+        }
+      ],
+      "mean": "어제는 아르바이트를 하러 갔습니다."
+    }
+  ]
+}

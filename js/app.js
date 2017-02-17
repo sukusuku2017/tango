@@ -100,7 +100,7 @@ let app = new Vue({
       {
         "characters": [
           {
-            "base": "2日",
+            "base": "２日",
             "ruby": "ふつか"
           }
         ],
