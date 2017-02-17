@@ -1,0 +1,141 @@
+{
+  "chapter": "01",
+  "update": "2017-02-17",
+  "author": [
+    "Phil"
+  ],
+  "subject": {
+    "characters": [
+      {
+        "base": "私",
+        "ruby": "わたし"
+      },
+      {
+        "base": "は"
+      },
+      {
+        "base": "大",
+        "ruby": "だい"
+      },
+      {
+        "base": "学",
+        "ruby": "がく"
+      },
+      {
+        "base": "生",
+        "ruby": "せい"
+      },
+      {
+        "base": "です"
+      },
+      {
+        "base": "。"
+      }
+    ],
+    "mean": "나는 대학생입니다."
+  },
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "私",
+          "ruby": "わたし"
+        },
+        {
+          "base": "は",
+          "color": true
+        },
+        {
+          "base": "会",
+          "ruby": "かい"
+        },
+        {
+          "base": "社",
+          "ruby": "しゃ"
+        },
+        {
+          "base": "員",
+          "ruby": "いん"
+        },
+        {
+          "base": "です",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "나는 회사원입니다."
+    },
+    {
+      "characters": [
+        {
+          "base": "木",
+          "ruby": "き"
+        },
+        {
+          "base": "村",
+          "ruby": "むら"
+        },
+        {
+          "base": "さん"
+        },
+        {
+          "base": "は",
+          "color": true
+        },
+        {
+          "base": "銀",
+          "ruby": "ぎん"
+        },
+        {
+          "base": "行",
+          "ruby": "こう"
+        },
+        {
+          "base": "員",
+          "ruby": "いん"
+        },
+        {
+          "base": "ですか",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "기무라 씨는 은행원입니까?"
+    },
+    {
+      "characters": [
+        {
+          "base": "いいえ",
+          "color": true
+        },
+        {
+          "base": "、"
+        },
+        {
+          "base": "銀",
+          "ruby": "ぎん"
+        },
+        {
+          "base": "行",
+          "ruby": "こう"
+        },
+        {
+          "base": "員",
+          "ruby": "いん"
+        },
+        {
+          "base": "じゃ(では)ありません",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "아니오, 은행원이 아닙니다."
+    }
+  ]
+}

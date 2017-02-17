@@ -1,0 +1,94 @@
+{
+  "chapter": "05",
+  "update": "2017-02-17",
+  "author": [
+    "Phil"
+  ],
+  "subject": {
+    "characters": [
+      {
+        "base": "この"
+      },
+      {
+        "base": "白",
+        "ruby": "しろ"
+      },
+      {
+        "base": "いケータイは"
+      },
+      {
+        "base": "軽",
+        "ruby": "かる"
+      },
+      {
+        "base": "くていいですね。"
+      }
+    ],
+    "mean": "이 하얀 휴대폰은 가볍고 좋네요."
+  },
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "辛",
+          "ruby": "から",
+          "color": true
+        },
+        {
+          "base": "い",
+          "color": true
+        },
+        {
+          "base": "料",
+          "ruby": "りょう"
+        },
+        {
+          "base": "理",
+          "ruby": "り"
+        },
+        {
+          "base": "です。"
+        }
+      ],
+      "mean": "매운 요리입니다."
+    },
+    {
+      "characters": [
+        {
+          "base": "このケーキは"
+        },
+        {
+          "base": "甘",
+          "ruby": "あま"
+        },
+        {
+          "base": "くて",
+          "color": true
+        },
+        {
+          "base": "おいしいです。"
+        }
+      ],
+      "mean": "이 케이크는 달고 맛있습니다."
+    },
+    {
+      "characters": [
+        {
+          "base": "あの"
+        },
+        {
+          "base": "店",
+          "ruby": "みせ"
+        },
+        {
+          "base": "はどうですか",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "저 가게는 어떻습니까?"
+    }
+  ]
+}

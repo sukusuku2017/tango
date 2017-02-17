@@ -1,0 +1,142 @@
+{
+  "chapter": "04",
+  "update": "2017-02-17",
+  "author": [
+    "Phil"
+  ],
+  "subject": {
+    "characters": [
+      {
+        "base": "学",
+        "ruby": "がっ"
+      },
+      {
+        "base": "校",
+        "ruby": "こう"
+      },
+      {
+        "base": "はうちから"
+      },
+      {
+        "base": "遠",
+        "ruby": "とお"
+      },
+      {
+        "base": "いですか。"
+      }
+    ],
+    "mean": "학교는 집에서 멉니까?"
+  },
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "会",
+          "ruby": "かい"
+        },
+        {
+          "base": "社",
+          "ruby": "しゃ"
+        },
+        {
+          "base": "は"
+        },
+        {
+          "base": "忙",
+          "ruby": "いそが",
+          "color": true
+        },
+        {
+          "base": "しいです",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "회사는 바쁩니다."
+    },
+    {
+      "characters": [
+        {
+          "base": "日",
+          "ruby": "に"
+        },
+        {
+          "base": "本",
+          "ruby": "ほん"
+        },
+        {
+          "base": "語",
+          "ruby": "ご"
+        },
+        {
+          "base": "は"
+        },
+        {
+          "base": "難",
+          "ruby": "むずか",
+          "color": true
+        },
+        {
+          "base": "しくありません",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "일본어는 어렵지 않습니다."
+    },
+    {
+      "characters": [
+        {
+          "base": "仕",
+          "ruby": "し"
+        },
+        {
+          "base": "事",
+          "ruby": "ごと"
+        },
+        {
+          "base": "が",
+          "color": true
+        },
+        {
+          "base": "多",
+          "ruby": "おお"
+        },
+        {
+          "base": "いです。"
+        }
+      ],
+      "mean": "일이 많습니다."
+    },
+    {
+      "characters": [
+        {
+          "base": "私",
+          "ruby": "わたし"
+        },
+        {
+          "base": "のケータイは"
+        },
+        {
+          "base": "古",
+          "ruby": "ふる"
+        },
+        {
+          "base": "いです"
+        },
+        {
+          "base": "が",
+          "color": true
+        },
+        {
+          "base": "、いいです。"
+        }
+      ],
+      "mean": "나의 휴대폰은 낡았지만, 좋습니다."
+    }
+  ]
+}

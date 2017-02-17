@@ -1,0 +1,88 @@
+{
+  "chapter": "02",
+  "update": "2017-02-17",
+  "author": [
+    "Phil"
+  ],
+  "subject": {
+    "characters": [
+      {
+        "base": "これは"
+      },
+      {
+        "base": "日",
+        "ruby": "に"
+      },
+      {
+        "base": "本",
+        "ruby": "ほん"
+      },
+      {
+        "base": "のパソコンです。"
+      }
+    ],
+    "mean": "이것은 일본 컴퓨터입니다."
+  },
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "これ",
+          "color": true
+        },
+        {
+          "base": "は"
+        },
+        {
+          "base": "何",
+          "ruby": "なん",
+          "color": true
+        },
+        {
+          "base": "ですか",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "이것은 무엇입니까?"
+    },
+    {
+      "characters": [
+        {
+          "base": "日",
+          "ruby": "に"
+        },
+        {
+          "base": "本",
+          "ruby": "ほん"
+        },
+        {
+          "base": "の",
+          "color": true
+        },
+        {
+          "base": "パソコンです。"
+        }
+      ],
+      "mean": "일본 컴퓨터입니다."
+    },
+    {
+      "characters": [
+        {
+          "base": "私",
+          "ruby": "わたし"
+        },
+        {
+          "base": "のです",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "나의 것입니다."
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "chapter": "03",
+  "update": "2017-02-17",
+  "author": [
+    "Phil"
+  ],
+  "subject": {
+    "characters": [
+      {
+        "base": "図",
+        "ruby": "と"
+      },
+      {
+        "base": "書",
+        "ruby": "しょ"
+      },
+      {
+        "base": "館",
+        "ruby": "かん"
+      },
+      {
+        "base": "は"
+      },
+      {
+        "base": "何",
+        "ruby": "なん"
+      },
+      {
+        "base": "時",
+        "ruby": "じ"
+      },
+      {
+        "base": "から"
+      },
+      {
+        "base": "何",
+        "ruby": "なん"
+      },
+      {
+        "base": "時",
+        "ruby": "じ"
+      },
+      {
+        "base": "までですか。"
+      }
+    ],
+    "mean": "도서관은 몇 시부터 몇 시까지입니까?"
+  },
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "会",
+          "ruby": "かい"
+        },
+        {
+          "base": "社",
+          "ruby": "しゃ"
+        },
+        {
+          "base": "は"
+        },
+        {
+          "base": "何",
+          "ruby": "なん"
+        },
+        {
+          "base": "時",
+          "ruby": "じ"
+        },
+        {
+          "base": "から",
+          "color": true
+        },
+        {
+          "base": "何",
+          "ruby": "なん"
+        },
+        {
+          "base": "時",
+          "ruby": "じ"
+        },
+        {
+          "base": "まで",
+          "color": true
+        },
+        {
+          "base": "ですか。"
+        }
+      ],
+      "mean": "회사는 몇 시부터 몇 시까지입니까?"
+    },
+    {
+      "characters": [
+        {
+          "base": "東",
+          "ruby": "とう"
+        },
+        {
+          "base": "京",
+          "ruby": "きょう"
+        },
+        {
+          "base": "から",
+          "color": true
+        },
+        {
+          "base": "ソウル"
+        },
+        {
+          "base": "まで",
+          "color": true
+        },
+        {
+          "base": "です。"
+        }
+      ],
+      "mean": "동경에서 서울까지입니다."
+    }
+  ]
+}
