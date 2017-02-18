@@ -1,5 +1,5 @@
 {
-  "chapter": "12",
+  "chapter": "11",
   "update": "2017-02-17",
   "author": [
     "Phil"
@@ -81,13 +81,16 @@
           "base": "お"
         },
         {
-          "base": "誕"
+          "base": "誕",
+          "ruby": "たん"
         },
         {
-          "base": "生"
+          "base": "生",
+          "ruby": "じょう"
         },
         {
-          "base": "日"
+          "base": "日",
+          "ruby": "び"
         },
         {
           "base": "はいつですか",
