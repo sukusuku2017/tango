@@ -1,0 +1,154 @@
+{
+  "chapter": "17",
+  "update": "2017-02-18",
+  "author": [
+    "Phil"
+  ],
+  "subject": {
+    "characters": [
+      {
+        "base": "北",
+        "ruby": "ほっ"
+      },
+      {
+        "base": "海",
+        "ruby": "かい"
+      },
+      {
+        "base": "道",
+        "ruby": "どう"
+      },
+      {
+        "base": "に"
+      },
+      {
+        "base": "行",
+        "ruby": "い"
+      },
+      {
+        "base": "ったことがありますか。"
+      }
+    ],
+    "mean": "홋카이도에 가 본 적이 있습니까?"
+  },
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "日",
+          "ruby": "に"
+        },
+        {
+          "base": "本",
+          "ruby": "ほん"
+        },
+        {
+          "base": "に"
+        },
+        {
+          "base": "行",
+          "ruby": "い"
+        },
+        {
+          "base": "っ"
+        },
+        {
+          "base": "たことがあります。",
+          "color": true
+        }
+      ],
+      "mean": "일본에 가 본 적이 있습니다."
+    },
+    {
+      "characters": [
+        {
+          "base": "宿",
+          "ruby": "しゅく"
+        },
+        {
+          "base": "題",
+          "ruby": "だい"
+        },
+        {
+          "base": "をする"
+        },
+        {
+          "base": "前",
+          "ruby": "まえ",
+          "color": true
+        },
+        {
+          "base": "に",
+          "color": true
+        },
+        {
+          "base": "、"
+        },
+        {
+          "base": "単",
+          "ruby": "たん"
+        },
+        {
+          "base": "語",
+          "ruby": "ご"
+        },
+        {
+          "base": "を"
+        },
+        {
+          "base": "覚",
+          "ruby": "おぼ"
+        },
+        {
+          "base": "えます。"
+        }
+      ],
+      "mean": "숙제를 하기 전에 단어를 외웁니다."
+    },
+    {
+      "characters": [
+        {
+          "base": "ごはんを"
+        },
+        {
+          "base": "食",
+          "ruby": "た"
+        },
+        {
+          "base": "べ"
+        },
+        {
+          "base": "た",
+          "color": true
+        },
+        {
+          "base": "後",
+          "ruby": "あと",
+          "color": true
+        },
+        {
+          "base": "で",
+          "color": true
+        },
+        {
+          "base": "、"
+        },
+        {
+          "base": "薬",
+          "ruby": "くすり"
+        },
+        {
+          "base": "を"
+        },
+        {
+          "base": "飲",
+          "ruby": "の"
+        },
+        {
+          "base": "みます。"
+        }
+      ],
+      "mean": "밥을 먹은 후에, 약을 먹습니다."
+    }
+  ]
+}

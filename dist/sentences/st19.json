@@ -1,0 +1,121 @@
+{
+  "chapter": "19",
+  "update": "2017-02-18",
+  "author": [
+    "Phil"
+  ],
+  "subject": {
+    "characters": [
+      {
+        "base": "パソコンは"
+      },
+      {
+        "base": "使",
+        "ruby": "つか"
+      },
+      {
+        "base": "わないでください。"
+      }
+    ],
+    "mean": "컴퓨터는 사용하지 마세요."
+  },
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "店",
+          "ruby": "みせ"
+        },
+        {
+          "base": "の"
+        },
+        {
+          "base": "前",
+          "ruby": "まえ"
+        },
+        {
+          "base": "にごみを"
+        },
+        {
+          "base": "捨",
+          "ruby": "す"
+        },
+        {
+          "base": "て"
+        },
+        {
+          "base": "ないでください",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "가게 앞에 쓰레기를 버리지 마세요."
+    },
+    {
+      "characters": [
+        {
+          "base": "毎",
+          "ruby": "まい"
+        },
+        {
+          "base": "日",
+          "ruby": "にち"
+        },
+        {
+          "base": "、"
+        },
+        {
+          "base": "早",
+          "ruby": "はや",
+          "color": true
+        },
+        {
+          "base": "く",
+          "color": true
+        },
+        {
+          "base": "起",
+          "ruby": "お"
+        },
+        {
+          "base": "きます。"
+        }
+      ],
+      "mean": "매일 일찍 일어납니다."
+    },
+    {
+      "characters": [
+        {
+          "base": "図",
+          "ruby": "と"
+        },
+        {
+          "base": "書",
+          "ruby": "しょ"
+        },
+        {
+          "base": "館",
+          "ruby": "かん"
+        },
+        {
+          "base": "では、"
+        },
+        {
+          "base": "静",
+          "ruby": "しず",
+          "color": true
+        },
+        {
+          "base": "かに",
+          "color": true
+        },
+        {
+          "base": "してください。"
+        }
+      ],
+      "mean": "도서관에서는 조용히 해주세요."
+    }
+  ]
+}
