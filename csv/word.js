@@ -2,7 +2,7 @@ const Converter = require('csvtojson').Converter;
 const _ = require('underscore');
 const jsonfile = require('jsonfile');
 
-const CHAPTER = '01';
+const CHAPTER = '06';
 let resultArray = [];
 let tempFuriArray;
 let tempWordArray;
@@ -40,7 +40,7 @@ csv()
 
       } else {
 
-        console.log(element);
+        // console.log(element);
 
         if (element) {
           newWord.characters.push({
@@ -57,7 +57,7 @@ csv()
       }
     });
 
-    console.log(tempWordArray);
+    // console.log(tempWordArray);
   }
 
   if (csvRow[0] == '한자') {
@@ -113,7 +113,7 @@ csv()
 
   let result = {
     "chapter" : CHAPTER,
-    "update" : "2017-02-17",
+    "update" : "2017-02-18",
     "author" : [
       "Phil"
     ],

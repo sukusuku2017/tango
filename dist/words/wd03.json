@@ -1,0 +1,253 @@
+{
+  "chapter": "03",
+  "update": "2017-02-17",
+  "author": [
+    "Phil"
+  ],
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "今",
+          "mean": "이제 금",
+          "ruby": "いま"
+        }
+      ],
+      "mean": "지금"
+    },
+    {
+      "characters": [
+        {
+          "base": "何",
+          "mean": "어찌 하",
+          "ruby": "なん"
+        },
+        {
+          "base": "時",
+          "mean": "때 시",
+          "ruby": "じ"
+        }
+      ],
+      "mean": "몇 시"
+    },
+    {
+      "characters": [
+        {
+          "base": "半",
+          "mean": "반 반",
+          "ruby": "はん"
+        }
+      ],
+      "mean": "반"
+    },
+    {
+      "characters": [
+        {
+          "base": "図",
+          "mean": "그림 도",
+          "ruby": "と"
+        },
+        {
+          "base": "書",
+          "mean": "글 서",
+          "ruby": "しょ"
+        },
+        {
+          "base": "館",
+          "mean": "집 관",
+          "ruby": "かん"
+        }
+      ],
+      "mean": "도서관"
+    },
+    {
+      "characters": [
+        {
+          "base": "〜から"
+        }
+      ],
+      "mean": "~부터/~에서"
+    },
+    {
+      "characters": [
+        {
+          "base": "〜まで"
+        }
+      ],
+      "mean": "~까지"
+    },
+    {
+      "characters": [
+        {
+          "base": "午",
+          "mean": "낮 오",
+          "ruby": "ご"
+        },
+        {
+          "base": "前",
+          "mean": "앞 전",
+          "ruby": "ぜん"
+        }
+      ],
+      "mean": "오전"
+    },
+    {
+      "characters": [
+        {
+          "base": "午",
+          "mean": "낮 오",
+          "ruby": "ご"
+        },
+        {
+          "base": "後",
+          "mean": "뒤 후",
+          "ruby": "ご"
+        }
+      ],
+      "mean": "오후"
+    },
+    {
+      "characters": [
+        {
+          "base": "ここ"
+        }
+      ],
+      "mean": "여기"
+    },
+    {
+      "characters": [
+        {
+          "base": "何",
+          "mean": "어찌 하",
+          "ruby": "なん"
+        },
+        {
+          "base": "分",
+          "mean": "나눌 분",
+          "ruby": "ぶん"
+        }
+      ],
+      "mean": "몇 분"
+    },
+    {
+      "characters": [
+        {
+          "base": "アルバイト"
+        }
+      ],
+      "mean": "아르바이트"
+    },
+    {
+      "characters": [
+        {
+          "base": "東",
+          "mean": "동녘 동",
+          "ruby": "とう"
+        },
+        {
+          "base": "京",
+          "mean": "서울 경",
+          "ruby": "きょう"
+        }
+      ],
+      "mean": "동경"
+    },
+    {
+      "characters": [
+        {
+          "base": "ソウル"
+        }
+      ],
+      "mean": "서울"
+    },
+    {
+      "characters": [
+        {
+          "base": "会",
+          "mean": "모을 회",
+          "ruby": "かい"
+        },
+        {
+          "base": "社",
+          "mean": "모일 사",
+          "ruby": "しゃ"
+        }
+      ],
+      "mean": "회사"
+    },
+    {
+      "characters": [
+        {
+          "base": "昼",
+          "mean": "낮 주",
+          "ruby": "ひる"
+        },
+        {
+          "base": "休",
+          "mean": "쉴 휴",
+          "ruby": "やす"
+        },
+        {
+          "base": "み"
+        }
+      ],
+      "mean": "점심시간"
+    },
+    {
+      "characters": [
+        {
+          "base": "テスト"
+        }
+      ],
+      "mean": "시험"
+    },
+    {
+      "characters": [
+        {
+          "base": "デパート"
+        }
+      ],
+      "mean": "백화점"
+    },
+    {
+      "characters": [
+        {
+          "base": "授",
+          "mean": "줄 수",
+          "ruby": "じゅ"
+        },
+        {
+          "base": "業",
+          "mean": "업 업",
+          "ruby": "ぎょう"
+        }
+      ],
+      "mean": "수업"
+    },
+    {
+      "characters": [
+        {
+          "base": "駅",
+          "mean": "정거장 역",
+          "ruby": "えき"
+        }
+      ],
+      "mean": "역"
+    },
+    {
+      "characters": [
+        {
+          "base": "時",
+          "mean": "때 시",
+          "ruby": "じ"
+        },
+        {
+          "base": "間",
+          "mean": "간이 간",
+          "ruby": "かん"
+        }
+      ],
+      "mean": "시간"
+    }
+  ]
+}

@@ -1,10 +1,218 @@
 {
   "chapter": "04",
-  "update": "2017-02-07",
+  "update": "2017-02-17",
   "author": [
     "Phil"
   ],
   "content": [
+    {
+      "characters": [
+        {
+          "base": "学",
+          "mean": "배울 학",
+          "ruby": "がっ"
+        },
+        {
+          "base": "校",
+          "mean": "학교 교",
+          "ruby": "こう"
+        }
+      ],
+      "mean": "학교"
+    },
+    {
+      "characters": [
+        {
+          "base": "うち"
+        }
+      ],
+      "mean": "집"
+    },
+    {
+      "characters": [
+        {
+          "base": "〜から"
+        }
+      ],
+      "mean": "~부터/~에서"
+    },
+    {
+      "characters": [
+        {
+          "base": "韓",
+          "mean": "한국 한",
+          "ruby": "かん"
+        },
+        {
+          "base": "国",
+          "mean": "나라 국",
+          "ruby": "こく"
+        },
+        {
+          "base": "人",
+          "mean": "사람 인",
+          "ruby": "じん"
+        }
+      ],
+      "mean": "한국인"
+    },
+    {
+      "characters": [
+        {
+          "base": "友",
+          "mean": "벗 우",
+          "ruby": "とも"
+        },
+        {
+          "base": "だち"
+        }
+      ],
+      "mean": "친구"
+    },
+    {
+      "characters": [
+        {
+          "base": "韓",
+          "mean": "한국 한",
+          "ruby": "かん"
+        },
+        {
+          "base": "国",
+          "mean": "나라 국",
+          "ruby": "こく"
+        },
+        {
+          "base": "語",
+          "mean": "말씀 어",
+          "ruby": "ご"
+        }
+      ],
+      "mean": "한국어"
+    },
+    {
+      "characters": [
+        {
+          "base": "勉",
+          "mean": "힘쓸 면",
+          "ruby": "べん"
+        },
+        {
+          "base": "強",
+          "mean": "강할 강",
+          "ruby": "きょう"
+        }
+      ],
+      "mean": "공부"
+    },
+    {
+      "characters": [
+        {
+          "base": "そうですね"
+        }
+      ],
+      "mean": "그렇네요"
+    },
+    {
+      "characters": [
+        {
+          "base": "少",
+          "mean": "적을 소",
+          "ruby": "すこ"
+        },
+        {
+          "base": "し"
+        }
+      ],
+      "mean": "조금"
+    },
+    {
+      "characters": [
+        {
+          "base": "すし"
+        }
+      ],
+      "mean": "초밥"
+    },
+    {
+      "characters": [
+        {
+          "base": "パソコン"
+        }
+      ],
+      "mean": "컴퓨터"
+    },
+    {
+      "characters": [
+        {
+          "base": "漢",
+          "mean": "한나라 한",
+          "ruby": "かん"
+        },
+        {
+          "base": "字",
+          "mean": "글자 자",
+          "ruby": "じ"
+        }
+      ],
+      "mean": "한자"
+    },
+    {
+      "characters": [
+        {
+          "base": "仕",
+          "mean": "섬길 사",
+          "ruby": "し"
+        },
+        {
+          "base": "事",
+          "mean": "일 사",
+          "ruby": "ごと"
+        }
+      ],
+      "mean": "일"
+    },
+    {
+      "characters": [
+        {
+          "base": "天",
+          "mean": "하늘 천",
+          "ruby": "てん"
+        },
+        {
+          "base": "気",
+          "mean": "기운 기",
+          "ruby": "き"
+        }
+      ],
+      "mean": "날씨"
+    },
+    {
+      "characters": [
+        {
+          "base": "ケータイ"
+        }
+      ],
+      "mean": "휴대폰"
+    },
+    {
+      "characters": [
+        {
+          "base": "今日",
+          "ruby": "きょう"
+        }
+      ],
+      "items": [
+        {
+          "base": "今",
+          "mean": "이제 금"
+        },
+        {
+          "base": "日",
+          "mean": "날 일"
+        }
+      ],
+      "mean": "오늘"
+    },
     {
       "characters": [
         {
@@ -175,7 +383,11 @@
       "mean": "나쁘다"
     },
     {
-      "base": "いい/よい",
+      "characters": [
+        {
+          "base": "いい/よい"
+        }
+      ],
       "mean": "좋다"
     },
     {
@@ -205,11 +417,19 @@
       "mean": "적다"
     },
     {
-      "base": "おいしい",
+      "characters": [
+        {
+          "base": "おいしい"
+        }
+      ],
       "mean": "맛있다"
     },
     {
-      "base": "おもしろい",
+      "characters": [
+        {
+          "base": "おもしろい"
+        }
+      ],
       "mean": "재미있다"
     },
     {
@@ -226,7 +446,11 @@
       "mean": "바쁘다"
     },
     {
-      "base": "かわいい",
+      "characters": [
+        {
+          "base": "かわいい"
+        }
+      ],
       "mean": "귀엽다"
     }
   ]

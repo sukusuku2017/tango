@@ -1,10 +1,116 @@
 {
   "chapter": "06",
-  "update": "2017-02-07",
+  "update": "2017-02-17",
   "author": [
     "Phil"
   ],
   "content": [
+    {
+      "characters": [
+        {
+          "base": "とても"
+        }
+      ],
+      "mean": "매우"
+    },
+    {
+      "characters": [
+        {
+          "base": "そうですね"
+        }
+      ],
+      "mean": "그렇네요"
+    },
+    {
+      "characters": [
+        {
+          "base": "人",
+          "mean": "사람 인",
+          "ruby": "ひと"
+        }
+      ],
+      "mean": "사람"
+    },
+    {
+      "characters": [
+        {
+          "base": "街",
+          "mean": "거리 가",
+          "ruby": "まち"
+        }
+      ],
+      "mean": "거리"
+    },
+    {
+      "characters": [
+        {
+          "base": "カラオケ"
+        }
+      ],
+      "mean": "노래방"
+    },
+    {
+      "characters": [
+        {
+          "base": "歌",
+          "mean": "노래 가",
+          "ruby": "うた"
+        }
+      ],
+      "mean": "노래"
+    },
+    {
+      "characters": [
+        {
+          "base": "あまり"
+        }
+      ],
+      "mean": "그다지/별로"
+    },
+    {
+      "characters": [
+        {
+          "base": "車",
+          "mean": "수레 차",
+          "ruby": "くるま"
+        }
+      ],
+      "mean": "자동차"
+    },
+    {
+      "characters": [
+        {
+          "base": "この"
+        }
+      ],
+      "mean": "이"
+    },
+    {
+      "characters": [
+        {
+          "base": "彼",
+          "mean": "저 피",
+          "ruby": "かれ"
+        }
+      ],
+      "mean": "그"
+    },
+    {
+      "characters": [
+        {
+          "base": "ピアノ"
+        }
+      ],
+      "mean": "피아노"
+    },
+    {
+      "characters": [
+        {
+          "base": "スポーツ"
+        }
+      ],
+      "mean": "스포츠"
+    },
     {
       "characters": [
         {
@@ -225,7 +331,11 @@
       "mean": "깨끗하다/예쁘다"
     },
     {
-      "base": "ハンサムだ",
+      "characters": [
+        {
+          "base": "ハンサムだ"
+        }
+      ],
       "mean": "핸섬하다"
     },
     {

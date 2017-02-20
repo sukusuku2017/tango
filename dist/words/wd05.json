@@ -1,10 +1,244 @@
 {
   "chapter": "05",
-  "update": "2017-02-07",
+  "update": "2017-02-17",
   "author": [
     "Phil"
   ],
   "content": [
+    {
+      "characters": [
+        {
+          "base": "この"
+        }
+      ],
+      "mean": "이"
+    },
+    {
+      "characters": [
+        {
+          "base": "いい"
+        }
+      ],
+      "mean": "좋다"
+    },
+    {
+      "characters": [
+        {
+          "base": "そうですか"
+        }
+      ],
+      "mean": "그렇습니까?"
+    },
+    {
+      "characters": [
+        {
+          "base": "料",
+          "mean": "헤아릴 료",
+          "ruby": "りょう"
+        },
+        {
+          "base": "理",
+          "mean": "다스릴 리",
+          "ruby": "り"
+        }
+      ],
+      "mean": "요리"
+    },
+    {
+      "characters": [
+        {
+          "base": "背",
+          "mean": "등 배",
+          "ruby": "せ"
+        },
+        {
+          "base": "が"
+        },
+        {
+          "base": "高",
+          "mean": "높을 고",
+          "ruby": "たか"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "키가 크다"
+    },
+    {
+      "characters": [
+        {
+          "base": "人",
+          "mean": "사람 인",
+          "ruby": "ひと"
+        }
+      ],
+      "mean": "사람"
+    },
+    {
+      "characters": [
+        {
+          "base": "ジュース"
+        }
+      ],
+      "mean": "주스"
+    },
+    {
+      "characters": [
+        {
+          "base": "おいしい"
+        }
+      ],
+      "mean": "맛있다"
+    },
+    {
+      "characters": [
+        {
+          "base": "部",
+          "mean": "떼 부",
+          "ruby": "へ"
+        },
+        {
+          "base": "屋",
+          "mean": "집 옥",
+          "ruby": "や"
+        }
+      ],
+      "mean": "방"
+    },
+    {
+      "characters": [
+        {
+          "base": "辞",
+          "mean": "말씀 사",
+          "ruby": "じ"
+        },
+        {
+          "base": "書",
+          "mean": "글 서",
+          "ruby": "しょ"
+        }
+      ],
+      "mean": "사전"
+    },
+    {
+      "characters": [
+        {
+          "base": "店",
+          "mean": "가게 점",
+          "ruby": "みせ"
+        }
+      ],
+      "mean": "가게"
+    },
+    {
+      "characters": [
+        {
+          "base": "どんな"
+        }
+      ],
+      "mean": "어떤"
+    },
+    {
+      "characters": [
+        {
+          "base": "傘",
+          "mean": "우산 산",
+          "ruby": "かさ"
+        }
+      ],
+      "mean": "우산"
+    },
+    {
+      "characters": [
+        {
+          "base": "映",
+          "mean": "비칠 영",
+          "ruby": "えい"
+        },
+        {
+          "base": "画",
+          "mean": "그림 화",
+          "ruby": "が"
+        }
+      ],
+      "mean": "영화"
+    },
+    {
+      "characters": [
+        {
+          "base": "漢",
+          "mean": "한나라 한",
+          "ruby": "かん"
+        },
+        {
+          "base": "字",
+          "mean": "글자 자",
+          "ruby": "じ"
+        }
+      ],
+      "mean": "한자"
+    },
+    {
+      "characters": [
+        {
+          "base": "車",
+          "mean": "수레 차",
+          "ruby": "くるま"
+        }
+      ],
+      "mean": "자동차"
+    },
+    {
+      "characters": [
+        {
+          "base": "大",
+          "mean": "큰 대",
+          "ruby": "おお"
+        },
+        {
+          "base": "きい"
+        }
+      ],
+      "mean": "크다"
+    },
+    {
+      "characters": [
+        {
+          "base": "ケーキ"
+        }
+      ],
+      "mean": "케이크"
+    },
+    {
+      "characters": [
+        {
+          "base": "その"
+        }
+      ],
+      "mean": "그"
+    },
+    {
+      "characters": [
+        {
+          "base": "おもしろい"
+        }
+      ],
+      "mean": "재미있다"
+    },
+    {
+      "characters": [
+        {
+          "base": "小",
+          "mean": "작을 소",
+          "ruby": "ちい"
+        },
+        {
+          "base": "さい"
+        }
+      ],
+      "mean": "작다"
+    },
     {
       "characters": [
         {

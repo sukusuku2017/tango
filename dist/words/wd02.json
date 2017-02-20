@@ -1,0 +1,369 @@
+{
+  "chapter": "02",
+  "update": "2017-02-17",
+  "author": [
+    "Phil"
+  ],
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "これ"
+        }
+      ],
+      "mean": "이것"
+    },
+    {
+      "characters": [
+        {
+          "base": "それ"
+        }
+      ],
+      "mean": "그것"
+    },
+    {
+      "characters": [
+        {
+          "base": "あれ"
+        }
+      ],
+      "mean": "저것"
+    },
+    {
+      "characters": [
+        {
+          "base": "どれ"
+        }
+      ],
+      "mean": "어느 것"
+    },
+    {
+      "characters": [
+        {
+          "base": "〜は"
+        }
+      ],
+      "mean": "~은/~는"
+    },
+    {
+      "characters": [
+        {
+          "base": "何",
+          "ruby": "なん",
+          "mean": "어찌 하"
+        },
+        {
+          "base": "ですか"
+        }
+      ],
+      "mean": "무엇입니까?"
+    },
+    {
+      "characters": [
+        {
+          "base": "パソコン"
+        }
+      ],
+      "mean": "컴퓨터"
+    },
+    {
+      "characters": [
+        {
+          "base": "〜の"
+        }
+      ],
+      "mean": "~의/~의 것"
+    },
+    {
+      "characters": [
+        {
+          "base": "私",
+          "mean": "사사 사",
+          "ruby": "わたし"
+        }
+      ],
+      "mean": "저/나"
+    },
+    {
+      "characters": [
+        {
+          "base": "韓",
+          "mean": "한국 한",
+          "ruby": "かん"
+        },
+        {
+          "base": "国",
+          "mean": "나라 국",
+          "ruby": "こく"
+        }
+      ],
+      "mean": "한국"
+    },
+    {
+      "characters": [
+        {
+          "base": "日",
+          "mean": "날 일",
+          "ruby": "に"
+        },
+        {
+          "base": "本",
+          "mean": "근본 본",
+          "ruby": "ほん"
+        }
+      ],
+      "mean": "일본"
+    },
+    {
+      "characters": [
+        {
+          "base": "新",
+          "mean": "새 신",
+          "ruby": "しん"
+        },
+        {
+          "base": "聞",
+          "mean": "들을 문",
+          "ruby": "ぶん"
+        }
+      ],
+      "mean": "신문"
+    },
+    {
+      "characters": [
+        {
+          "base": "えんぴつ"
+        }
+      ],
+      "mean": "연필"
+    },
+    {
+      "characters": [
+        {
+          "base": "時",
+          "mean": "때 시",
+          "ruby": "と"
+        },
+        {
+          "base": "計",
+          "mean": "셀 계",
+          "ruby": "けい"
+        }
+      ],
+      "mean": "시계"
+    },
+    {
+      "characters": [
+        {
+          "base": "傘",
+          "mean": "우산 산",
+          "ruby": "かさ"
+        }
+      ],
+      "mean": "우산"
+    },
+    {
+      "characters": [
+        {
+          "base": "いす"
+        }
+      ],
+      "mean": "의자"
+    },
+    {
+      "characters": [
+        {
+          "base": "財",
+          "mean": "재물 재",
+          "ruby": "さい"
+        },
+        {
+          "base": "布",
+          "mean": "베 포",
+          "ruby": "ふ"
+        }
+      ],
+      "mean": "지갑"
+    },
+    {
+      "characters": [
+        {
+          "base": "電",
+          "mean": "번개 전",
+          "ruby": "でん"
+        },
+        {
+          "base": "話",
+          "mean": "말씀 화",
+          "ruby": "わ"
+        }
+      ],
+      "mean": "전화"
+    },
+    {
+      "characters": [
+        {
+          "base": "英",
+          "mean": "꽃부리 영",
+          "ruby": "えい"
+        },
+        {
+          "base": "語",
+          "mean": "말씀 어",
+          "ruby": "ご"
+        }
+      ],
+      "mean": "영어"
+    },
+    {
+      "characters": [
+        {
+          "base": "本",
+          "mean": "근본 본",
+          "ruby": "ほん"
+        }
+      ],
+      "mean": "책"
+    },
+    {
+      "characters": [
+        {
+          "base": "つくえ"
+        }
+      ],
+      "mean": "책상"
+    },
+    {
+      "characters": [
+        {
+          "base": "ケータイ"
+        }
+      ],
+      "mean": "휴대폰"
+    },
+    {
+      "characters": [
+        {
+          "base": "先",
+          "mean": "먼저 선",
+          "ruby": "せん"
+        },
+        {
+          "base": "生",
+          "mean": "날 생",
+          "ruby": "せい"
+        }
+      ],
+      "mean": "선생님"
+    },
+    {
+      "characters": [
+        {
+          "base": "ソウル"
+        }
+      ],
+      "mean": "서울"
+    },
+    {
+      "characters": [
+        {
+          "base": "大",
+          "mean": "큰 대",
+          "ruby": "だい"
+        },
+        {
+          "base": "学",
+          "mean": "배울 학",
+          "ruby": "がく"
+        }
+      ],
+      "mean": "대학"
+    },
+    {
+      "characters": [
+        {
+          "base": "かばん"
+        }
+      ],
+      "mean": "가방"
+    },
+    {
+      "characters": [
+        {
+          "base": "辞",
+          "mean": "말씀 사",
+          "ruby": "じ"
+        },
+        {
+          "base": "書",
+          "mean": "글 서",
+          "ruby": "しょ"
+        }
+      ],
+      "mean": "사전"
+    },
+    {
+      "characters": [
+        {
+          "base": "カメラ"
+        }
+      ],
+      "mean": "카메라"
+    },
+    {
+      "characters": [
+        {
+          "base": "雑",
+          "mean": "섞일 잡",
+          "ruby": "ざっ"
+        },
+        {
+          "base": "誌",
+          "mean": "기록할 지",
+          "ruby": "し"
+        }
+      ],
+      "mean": "잡지"
+    },
+    {
+      "characters": [
+        {
+          "base": "くつ"
+        }
+      ],
+      "mean": "구두/신발"
+    },
+    {
+      "characters": [
+        {
+          "base": "ぼうし"
+        }
+      ],
+      "mean": "모자"
+    },
+    {
+      "characters": [
+        {
+          "base": "めがね"
+        }
+      ],
+      "mean": "안경"
+    },
+    {
+      "characters": [
+        {
+          "base": "ノート"
+        }
+      ],
+      "mean": "노트"
+    },
+    {
+      "characters": [
+        {
+          "base": "テレビ"
+        }
+      ],
+      "mean": "텔레비전"
+    }
+  ]
+}
