@@ -1,0 +1,327 @@
+{
+  "chapter": "09",
+  "update": "2017-02-20",
+  "author": [
+    "Phil"
+  ],
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "店",
+          "mean": "가게 점",
+          "ruby": "てん"
+        },
+        {
+          "base": "員",
+          "mean": "인원 원",
+          "ruby": "いん"
+        }
+      ],
+      "mean": "점원"
+    },
+    {
+      "characters": [
+        {
+          "base": "いらっしゃいませ"
+        }
+      ],
+      "mean": "어서 오세요"
+    },
+    {
+      "characters": [
+        {
+          "base": "すみません"
+        }
+      ],
+      "mean": "저기요"
+    },
+    {
+      "characters": [
+        {
+          "base": "いくら"
+        }
+      ],
+      "mean": "얼마"
+    },
+    {
+      "characters": [
+        {
+          "base": "円",
+          "mean": "화폐 단위 엔",
+          "ruby": "えん"
+        }
+      ],
+      "mean": "일본 화폐의 단위"
+    },
+    {
+      "characters": [
+        {
+          "base": "じゃあ"
+        }
+      ],
+      "mean": "그러면"
+    },
+    {
+      "characters": [
+        {
+          "base": "１",
+          "ruby": "ひと"
+        },
+        {
+          "base": "つ"
+        }
+      ],
+      "mean": "하나"
+    },
+    {
+      "characters": [
+        {
+          "base": "ください"
+        }
+      ],
+      "mean": "주세요"
+    },
+    {
+      "characters": [
+        {
+          "base": "ありがとうございます"
+        }
+      ],
+      "mean": "감사합니다"
+    },
+    {
+      "characters": [
+        {
+          "base": "カメラ"
+        }
+      ],
+      "mean": "카메라"
+    },
+    {
+      "characters": [
+        {
+          "base": "赤",
+          "mean": "붉을 적",
+          "ruby": "あか"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "빨갛다"
+    },
+    {
+      "characters": [
+        {
+          "base": "すいか"
+        }
+      ],
+      "mean": "수박"
+    },
+    {
+      "characters": [
+        {
+          "base": "〜と"
+        }
+      ],
+      "mean": "~와/~과"
+    },
+    {
+      "characters": [
+        {
+          "base": "コーラ"
+        }
+      ],
+      "mean": "콜라"
+    },
+    {
+      "characters": [
+        {
+          "base": "コーヒー"
+        }
+      ],
+      "mean": "커피"
+    },
+    {
+      "characters": [
+        {
+          "base": "〜ずつ"
+        }
+      ],
+      "mean": "~씩"
+    },
+    {
+      "characters": [
+        {
+          "base": "ケーキ"
+        }
+      ],
+      "mean": "케이크"
+    },
+    {
+      "characters": [
+        {
+          "base": "いくつ"
+        }
+      ],
+      "mean": "몇 개"
+    },
+    {
+      "characters": [
+        {
+          "base": "おにぎり"
+        }
+      ],
+      "mean": "주먹밥"
+    },
+    {
+      "characters": [
+        {
+          "base": "ラーメン"
+        }
+      ],
+      "mean": "라면"
+    },
+    {
+      "characters": [
+        {
+          "base": "ホットコーヒー"
+        }
+      ],
+      "mean": "뜨거운 커피"
+    },
+    {
+      "characters": [
+        {
+          "base": "うどん"
+        }
+      ],
+      "mean": "우동"
+    },
+    {
+      "characters": [
+        {
+          "base": "ハンバーガー"
+        }
+      ],
+      "mean": "햄버거"
+    },
+    {
+      "characters": [
+        {
+          "base": "サラダ"
+        }
+      ],
+      "mean": "샐러드"
+    },
+    {
+      "characters": [
+        {
+          "base": "めがね"
+        }
+      ],
+      "mean": "안경"
+    },
+    {
+      "characters": [
+        {
+          "base": "テレビ"
+        }
+      ],
+      "mean": "텔레비전"
+    },
+    {
+      "characters": [
+        {
+          "base": "客",
+          "mean": "손 객",
+          "ruby": "きゃく"
+        }
+      ],
+      "mean": "손님"
+    },
+    {
+      "characters": [
+        {
+          "base": "ドーナツ"
+        }
+      ],
+      "mean": "도넛"
+    },
+    {
+      "characters": [
+        {
+          "base": "アイスティー"
+        }
+      ],
+      "mean": "아이스 티"
+    },
+    {
+      "characters": [
+        {
+          "base": "全",
+          "mean": "온전 전",
+          "ruby": "ぜん"
+        },
+        {
+          "base": "部",
+          "mean": "떼 부",
+          "ruby": "ぶ"
+        },
+        {
+          "base": "で"
+        }
+      ],
+      "mean": "전부 해서"
+    },
+    {
+      "characters": [
+        {
+          "base": "これで"
+        }
+      ],
+      "mean": "이것으로"
+    },
+    {
+      "characters": [
+        {
+          "base": "お"
+        },
+        {
+          "base": "願",
+          "mean": "원할 원",
+          "ruby": "ねが"
+        },
+        {
+          "base": "いします"
+        }
+      ],
+      "mean": "부탁합니다"
+    },
+    {
+      "characters": [
+        {
+          "base": "ボールペン"
+        }
+      ],
+      "mean": "볼펜"
+    },
+    {
+      "characters": [
+        {
+          "base": "ノート"
+        }
+      ],
+      "mean": "노트"
+    },
+    {
+      "characters": [
+        {
+          "base": "ぼうし"
+        }
+      ],
+      "mean": "모자"
+    }
+  ]
+}
