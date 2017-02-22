@@ -2,7 +2,7 @@ const Converter = require('csvtojson').Converter;
 const _ = require('underscore');
 const jsonfile = require('jsonfile');
 
-const CHAPTER = '09';
+const CHAPTER = '08';
 let resultArray = [];
 let tempFuriArray;
 let tempWordArray;
@@ -114,7 +114,7 @@ csv()
 
   let result = {
     "chapter" : CHAPTER,
-    "update" : "2017-02-20",
+    "update" : "2017-02-22",
     "author" : [
       "Phil"
     ],

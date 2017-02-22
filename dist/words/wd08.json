@@ -1,0 +1,569 @@
+{
+  "chapter": "08",
+  "update": "2017-02-22",
+  "author": [
+    "Phil"
+  ],
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "〜と"
+        }
+      ],
+      "mean": "~와/~과"
+    },
+    {
+      "characters": [
+        {
+          "base": "どちら"
+        }
+      ],
+      "mean": "어느 쪽"
+    },
+    {
+      "characters": [
+        {
+          "base": "〜より"
+        }
+      ],
+      "mean": "~보다"
+    },
+    {
+      "characters": [
+        {
+          "base": "〜"
+        },
+        {
+          "base": "方",
+          "mean": "모 방",
+          "ruby": "ほう"
+        }
+      ],
+      "mean": "~쪽/~편"
+    },
+    {
+      "characters": [
+        {
+          "base": "〜の"
+        },
+        {
+          "base": "中",
+          "mean": "가운대 중",
+          "ruby": "なか"
+        },
+        {
+          "base": "で"
+        }
+      ],
+      "mean": "~의 중에서"
+    },
+    {
+      "characters": [
+        {
+          "base": "いつ"
+        }
+      ],
+      "mean": "언제"
+    },
+    {
+      "characters": [
+        {
+          "base": "一",
+          "mean": "한 일",
+          "ruby": "いち"
+        },
+        {
+          "base": "番",
+          "mean": "차례 번",
+          "ruby": "ばん"
+        }
+      ],
+      "mean": "가장/제일"
+    },
+    {
+      "characters": [
+        {
+          "base": "猫",
+          "mean": "고양이 묘",
+          "ruby": "ねこ"
+        }
+      ],
+      "mean": "고양이"
+    },
+    {
+      "characters": [
+        {
+          "base": "犬",
+          "mean": "개 견",
+          "ruby": "いぬ"
+        }
+      ],
+      "mean": "개"
+    },
+    {
+      "characters": [
+        {
+          "base": "クラス"
+        }
+      ],
+      "mean": "클래스/반"
+    },
+    {
+      "characters": [
+        {
+          "base": "背",
+          "mean": "등 배",
+          "ruby": "せ"
+        },
+        {
+          "base": "が"
+        },
+        {
+          "base": "高",
+          "mean": "높을 고",
+          "ruby": "たか"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "키가 크다"
+    },
+    {
+      "characters": [
+        {
+          "base": "カタカナ"
+        }
+      ],
+      "mean": "카타카나"
+    },
+    {
+      "characters": [
+        {
+          "base": "アメリカ"
+        }
+      ],
+      "mean": "미국"
+    },
+    {
+      "characters": [
+        {
+          "base": "遠",
+          "mean": "멀 원",
+          "ruby": "とお"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "멀다"
+    },
+    {
+      "characters": [
+        {
+          "base": "季",
+          "mean": "계절 계",
+          "ruby": "き"
+        },
+        {
+          "base": "節",
+          "mean": "마디 절",
+          "ruby": "せつ"
+        }
+      ],
+      "mean": "계절"
+    },
+    {
+      "characters": [
+        {
+          "base": "春",
+          "mean": "봄 춘",
+          "ruby": "はる"
+        }
+      ],
+      "mean": "봄"
+    },
+    {
+      "characters": [
+        {
+          "base": "夏",
+          "mean": "여름 하",
+          "ruby": "なつ"
+        }
+      ],
+      "mean": "여름"
+    },
+    {
+      "characters": [
+        {
+          "base": "秋",
+          "mean": "가을 추",
+          "ruby": "あき"
+        }
+      ],
+      "mean": "가을"
+    },
+    {
+      "characters": [
+        {
+          "base": "冬",
+          "mean": "겨울 동",
+          "ruby": "ふゆ"
+        }
+      ],
+      "mean": "겨울"
+    },
+    {
+      "characters": [
+        {
+          "base": "果",
+          "mean": "열매 과",
+          "ruby": "くだ"
+        },
+        {
+          "base": "物",
+          "mean": "물건 물",
+          "ruby": "もの"
+        }
+      ],
+      "mean": "과일"
+    },
+    {
+      "characters": [
+        {
+          "base": "みかん"
+        }
+      ],
+      "mean": "귤"
+    },
+    {
+      "characters": [
+        {
+          "base": "いちご"
+        }
+      ],
+      "mean": "딸기"
+    },
+    {
+      "characters": [
+        {
+          "base": "りんご"
+        }
+      ],
+      "mean": "사과"
+    },
+    {
+      "characters": [
+        {
+          "base": "なし"
+        }
+      ],
+      "mean": "배"
+    },
+    {
+      "characters": [
+        {
+          "base": "もも"
+        }
+      ],
+      "mean": "복숭아"
+    },
+    {
+      "characters": [
+        {
+          "base": "ぶどう"
+        }
+      ],
+      "mean": "포도"
+    },
+    {
+      "characters": [
+        {
+          "base": "すいか"
+        }
+      ],
+      "mean": "수박"
+    },
+    {
+      "characters": [
+        {
+          "base": "メロン"
+        }
+      ],
+      "mean": "메론"
+    },
+    {
+      "characters": [
+        {
+          "base": "バナナ"
+        }
+      ],
+      "mean": "바나나"
+    },
+    {
+      "characters": [
+        {
+          "base": "オレンジ"
+        }
+      ],
+      "mean": "오렌지"
+    },
+    {
+      "characters": [
+        {
+          "base": "乗",
+          "mean": "탈 승",
+          "ruby": "の"
+        },
+        {
+          "base": "り"
+        },
+        {
+          "base": "物",
+          "mean": "물건 물",
+          "ruby": "もの"
+        }
+      ],
+      "mean": "탈것"
+    },
+    {
+      "characters": [
+        {
+          "base": "地",
+          "mean": "땅 지",
+          "ruby": "ち"
+        },
+        {
+          "base": "下",
+          "mean": "아래 하",
+          "ruby": "か"
+        },
+        {
+          "base": "鉄",
+          "mean": "쇠 철",
+          "ruby": "てつ"
+        }
+      ],
+      "mean": "지하철"
+    },
+    {
+      "characters": [
+        {
+          "base": "バス"
+        }
+      ],
+      "mean": "버스"
+    },
+    {
+      "characters": [
+        {
+          "base": "タクシー"
+        }
+      ],
+      "mean": "택시"
+    },
+    {
+      "characters": [
+        {
+          "base": "飛",
+          "mean": "날 비",
+          "ruby": "ひ"
+        },
+        {
+          "base": "行",
+          "mean": "다닐 행",
+          "ruby": "こう"
+        },
+        {
+          "base": "機",
+          "mean": "틀 기",
+          "ruby": "き"
+        }
+      ],
+      "mean": "비행기"
+    },
+    {
+      "characters": [
+        {
+          "base": "船",
+          "mean": "배 선",
+          "ruby": "ふね"
+        }
+      ],
+      "mean": "배"
+    },
+    {
+      "characters": [
+        {
+          "base": "スポーツ"
+        }
+      ],
+      "mean": "스포츠"
+    },
+    {
+      "characters": [
+        {
+          "base": "水",
+          "mean": "물 수",
+          "ruby": "すい"
+        },
+        {
+          "base": "泳",
+          "mean": "헤엄칠 영",
+          "ruby": "えい"
+        }
+      ],
+      "mean": "수영"
+    },
+    {
+      "characters": [
+        {
+          "base": "山",
+          "mean": "메 산",
+          "ruby": "やま"
+        },
+        {
+          "base": "登",
+          "mean": "오를 등",
+          "ruby": "のぼ"
+        },
+        {
+          "base": "り"
+        }
+      ],
+      "mean": "등산"
+    },
+    {
+      "characters": [
+        {
+          "base": "野",
+          "mean": "들 야",
+          "ruby": "や"
+        },
+        {
+          "base": "球",
+          "mean": "공 구",
+          "ruby": "きゅう"
+        }
+      ],
+      "mean": "야구"
+    },
+    {
+      "characters": [
+        {
+          "base": "サッカー"
+        }
+      ],
+      "mean": "축구"
+    },
+    {
+      "characters": [
+        {
+          "base": "テニス"
+        }
+      ],
+      "mean": "테니스"
+    },
+    {
+      "characters": [
+        {
+          "base": "ゴルフ"
+        }
+      ],
+      "mean": "골프"
+    },
+    {
+      "characters": [
+        {
+          "base": "スキー"
+        }
+      ],
+      "mean": "스키"
+    },
+    {
+      "characters": [
+        {
+          "base": "スノーボード"
+        }
+      ],
+      "mean": "스노보드"
+    },
+    {
+      "characters": [
+        {
+          "base": "ボウリング"
+        }
+      ],
+      "mean": "볼링"
+    },
+    {
+      "characters": [
+        {
+          "base": "バスケットボール"
+        }
+      ],
+      "mean": "농구"
+    },
+    {
+      "characters": [
+        {
+          "base": "お"
+        },
+        {
+          "base": "酒",
+          "mean": "술 주",
+          "ruby": "さけ"
+        }
+      ],
+      "mean": "술"
+    },
+    {
+      "characters": [
+        {
+          "base": "焼",
+          "mean": "불사를 소",
+          "ruby": "しょう"
+        },
+        {
+          "base": "酎",
+          "mean": "전국술 주",
+          "ruby": "ちゅう"
+        }
+      ],
+      "mean": "소주"
+    },
+    {
+      "characters": [
+        {
+          "base": "ビール"
+        }
+      ],
+      "mean": "맥주"
+    },
+    {
+      "characters": [
+        {
+          "base": "ワイン"
+        }
+      ],
+      "mean": "와인"
+    },
+    {
+      "characters": [
+        {
+          "base": "カクテル"
+        }
+      ],
+      "mean": "칵테일"
+    },
+    {
+      "characters": [
+        {
+          "base": "ウィスキー"
+        }
+      ],
+      "mean": "위스키"
+    }
+  ]
+}
