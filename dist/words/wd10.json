@@ -1,10 +1,367 @@
 {
   "chapter": "10",
-  "update": "2017-02-08",
+  "update": "2017-02-22",
   "author": [
     "Phil"
   ],
   "content": [
+    {
+      "characters": [
+        {
+          "base": "すみません"
+        }
+      ],
+      "mean": "실례합니다"
+    },
+    {
+      "characters": [
+        {
+          "base": "〜に"
+        }
+      ],
+      "mean": "~에"
+    },
+    {
+      "characters": [
+        {
+          "base": "銀",
+          "mean": "은 은",
+          "ruby": "ぎん"
+        },
+        {
+          "base": "行",
+          "mean": "다닐 행",
+          "ruby": "こう"
+        }
+      ],
+      "mean": "은행"
+    },
+    {
+      "characters": [
+        {
+          "base": "〜が"
+        }
+      ],
+      "mean": "~이/~가"
+    },
+    {
+      "characters": [
+        {
+          "base": "あります"
+        }
+      ],
+      "mean": "있습니다"
+    },
+    {
+      "characters": [
+        {
+          "base": "通",
+          "mean": "통할 통",
+          "ruby": "つう"
+        },
+        {
+          "base": "行",
+          "mean": "다닐 행",
+          "ruby": "こう"
+        },
+        {
+          "base": "人",
+          "mean": "사람 인",
+          "ruby": "にん"
+        }
+      ],
+      "mean": "통행인"
+    },
+    {
+      "characters": [
+        {
+          "base": "本",
+          "mean": "근본 본",
+          "ruby": "ほん"
+        },
+        {
+          "base": "屋",
+          "mean": "집 옥",
+          "ruby": "や"
+        }
+      ],
+      "mean": "서점/책방"
+    },
+    {
+      "characters": [
+        {
+          "base": "２",
+          "ruby": "に"
+        },
+        {
+          "base": "階",
+          "mean": "섬돌 계",
+          "ruby": "かい"
+        }
+      ],
+      "mean": "2층"
+    },
+    {
+      "characters": [
+        {
+          "base": "ここ"
+        }
+      ],
+      "mean": "여기"
+    },
+    {
+      "characters": [
+        {
+          "base": "そこ"
+        }
+      ],
+      "mean": "거기"
+    },
+    {
+      "characters": [
+        {
+          "base": "あそこ"
+        }
+      ],
+      "mean": "저기"
+    },
+    {
+      "characters": [
+        {
+          "base": "どこ"
+        }
+      ],
+      "mean": "어디"
+    },
+    {
+      "characters": [
+        {
+          "base": "こちら"
+        }
+      ],
+      "mean": "이쪽"
+    },
+    {
+      "characters": [
+        {
+          "base": "そちら"
+        }
+      ],
+      "mean": "그쪽"
+    },
+    {
+      "characters": [
+        {
+          "base": "あちら"
+        }
+      ],
+      "mean": "저쪽"
+    },
+    {
+      "characters": [
+        {
+          "base": "どちら"
+        }
+      ],
+      "mean": "어느 쪽"
+    },
+    {
+      "characters": [
+        {
+          "base": "トイレ"
+        }
+      ],
+      "mean": "화장실"
+    },
+    {
+      "characters": [
+        {
+          "base": "机",
+          "mean": "책상 궤",
+          "ruby": "つくえ"
+        }
+      ],
+      "mean": "책상"
+    },
+    {
+      "characters": [
+        {
+          "base": "花",
+          "mean": "꽃 화",
+          "ruby": "はな"
+        }
+      ],
+      "mean": "꽃"
+    },
+    {
+      "characters": [
+        {
+          "base": "いす"
+        }
+      ],
+      "mean": "의자"
+    },
+    {
+      "characters": [
+        {
+          "base": "猫",
+          "mean": "고양이 묘",
+          "ruby": "ねこ"
+        }
+      ],
+      "mean": "고양이"
+    },
+    {
+      "characters": [
+        {
+          "base": "本",
+          "mean": "근본 본",
+          "ruby": "ほん"
+        },
+        {
+          "base": "棚",
+          "mean": "사다리 붕",
+          "ruby": "だな"
+        }
+      ],
+      "mean": "책장"
+    },
+    {
+      "characters": [
+        {
+          "base": "犬",
+          "mean": "개 견",
+          "ruby": "いぬ"
+        }
+      ],
+      "mean": "개"
+    },
+    {
+      "characters": [
+        {
+          "base": "ベッド"
+        }
+      ],
+      "mean": "침대"
+    },
+    {
+      "characters": [
+        {
+          "base": "花",
+          "mean": "꽃 화",
+          "ruby": "はな"
+        },
+        {
+          "base": "屋",
+          "mean": "집 옥",
+          "ruby": "や"
+        }
+      ],
+      "mean": "꽃집/화원"
+    },
+    {
+      "characters": [
+        {
+          "base": "コンビニ"
+        }
+      ],
+      "mean": "편의점"
+    },
+    {
+      "characters": [
+        {
+          "base": "ある"
+        }
+      ],
+      "mean": "(물건/사물이) 있다"
+    },
+    {
+      "characters": [
+        {
+          "base": "今",
+          "mean": "이제 금",
+          "ruby": "いま"
+        }
+      ],
+      "mean": "지금"
+    },
+    {
+      "characters": [
+        {
+          "base": "〜"
+        },
+        {
+          "base": "年",
+          "mean": "해 년",
+          "ruby": "ねん"
+        },
+        {
+          "base": "生",
+          "mean": "날 생",
+          "ruby": "せい"
+        }
+      ],
+      "mean": "~학년"
+    },
+    {
+      "characters": [
+        {
+          "base": "勉",
+          "mean": "힘쓸 면",
+          "ruby": "べん"
+        },
+        {
+          "base": "強",
+          "mean": "강할 강",
+          "ruby": "きょう"
+        },
+        {
+          "base": "中",
+          "mean": "가운데 중",
+          "ruby": "ちゅう"
+        }
+      ],
+      "mean": "공부 중"
+    },
+    {
+      "characters": [
+        {
+          "base": "あまり"
+        }
+      ],
+      "mean": "그다지/별로"
+    },
+    {
+      "characters": [
+        {
+          "base": "一",
+          "mean": "한 일",
+          "ruby": "いち"
+        },
+        {
+          "base": "番",
+          "mean": "차례 번",
+          "ruby": "ばん"
+        }
+      ],
+      "mean": "가장/제일"
+    },
+    {
+      "characters": [
+        {
+          "base": "いる"
+        }
+      ],
+      "mean": "(사람/동물이) 있다"
+    },
+    {
+      "characters": [
+        {
+          "base": "うらやましい"
+        }
+      ],
+      "mean": "부럽다"
+    },
     {
       "characters": [
         {
@@ -89,7 +446,14 @@
       "mean": "밖"
     },
     {
-      "base": "そば",
+      "characters": [
+        {
+          "base": "そ"
+        },
+        {
+          "base": "ば"
+        }
+      ],
       "mean": "옆"
     },
     {
