@@ -1,0 +1,405 @@
+{
+  "chapter": "40",
+  "update": "2017-02-24",
+  "author": [
+    "Phil"
+  ],
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "開",
+          "mean": "열 개",
+          "ruby": "あ"
+        },
+        {
+          "base": "く"
+        }
+      ],
+      "mean": "열리다"
+    },
+    {
+      "characters": [
+        {
+          "base": "開",
+          "mean": "열 개",
+          "ruby": "あ"
+        },
+        {
+          "base": "ける"
+        }
+      ],
+      "mean": "열다"
+    },
+    {
+      "characters": [
+        {
+          "base": "閉",
+          "mean": "닫을 폐",
+          "ruby": "し"
+        },
+        {
+          "base": "まる"
+        }
+      ],
+      "mean": "닫히다"
+    },
+    {
+      "characters": [
+        {
+          "base": "閉",
+          "mean": "닫을 폐",
+          "ruby": "し"
+        },
+        {
+          "base": "める"
+        }
+      ],
+      "mean": "닫다"
+    },
+    {
+      "characters": [
+        {
+          "base": "入",
+          "mean": "들 입",
+          "ruby": "はい"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "들어가다"
+    },
+    {
+      "characters": [
+        {
+          "base": "入",
+          "mean": "들 입",
+          "ruby": "い"
+        },
+        {
+          "base": "れる"
+        }
+      ],
+      "mean": "넣다"
+    },
+    {
+      "characters": [
+        {
+          "base": "出",
+          "mean": "날 출",
+          "ruby": "で"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "나가다"
+    },
+    {
+      "characters": [
+        {
+          "base": "出",
+          "mean": "날 출",
+          "ruby": "だ"
+        },
+        {
+          "base": "す"
+        }
+      ],
+      "mean": "내보내다"
+    },
+    {
+      "characters": [
+        {
+          "base": "つく"
+        }
+      ],
+      "mean": "켜지다"
+    },
+    {
+      "characters": [
+        {
+          "base": "つける"
+        }
+      ],
+      "mean": "켜다"
+    },
+    {
+      "characters": [
+        {
+          "base": "消",
+          "mean": "사라질 소",
+          "ruby": "き"
+        },
+        {
+          "base": "える"
+        }
+      ],
+      "mean": "꺼지다"
+    },
+    {
+      "characters": [
+        {
+          "base": "消",
+          "mean": "사라질 소",
+          "ruby": "け"
+        },
+        {
+          "base": "す"
+        }
+      ],
+      "mean": "끄다"
+    },
+    {
+      "characters": [
+        {
+          "base": "起",
+          "mean": "일어날 기",
+          "ruby": "お"
+        },
+        {
+          "base": "きる"
+        }
+      ],
+      "mean": "일어나다"
+    },
+    {
+      "characters": [
+        {
+          "base": "起",
+          "mean": "일어날 기",
+          "ruby": "お"
+        },
+        {
+          "base": "こす"
+        }
+      ],
+      "mean": "깨우다"
+    },
+    {
+      "characters": [
+        {
+          "base": "並",
+          "mean": "나란할 병",
+          "ruby": "なら"
+        },
+        {
+          "base": "ぶ"
+        }
+      ],
+      "mean": "줄서다"
+    },
+    {
+      "characters": [
+        {
+          "base": "並",
+          "mean": "나란할 병",
+          "ruby": "なら"
+        },
+        {
+          "base": "べる"
+        }
+      ],
+      "mean": "배열하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "かかる"
+        }
+      ],
+      "mean": "걸리다"
+    },
+    {
+      "characters": [
+        {
+          "base": "かける"
+        }
+      ],
+      "mean": "걸다"
+    },
+    {
+      "characters": [
+        {
+          "base": "止",
+          "mean": "그칠 지",
+          "ruby": "と"
+        },
+        {
+          "base": "まる"
+        }
+      ],
+      "mean": "서다"
+    },
+    {
+      "characters": [
+        {
+          "base": "止",
+          "mean": "그칠 지",
+          "ruby": "と"
+        },
+        {
+          "base": "める"
+        }
+      ],
+      "mean": "세우다"
+    },
+    {
+      "characters": [
+        {
+          "base": "落",
+          "mean": "떨어질 락",
+          "ruby": "お"
+        },
+        {
+          "base": "ちる"
+        }
+      ],
+      "mean": "떨어지다"
+    },
+    {
+      "characters": [
+        {
+          "base": "落",
+          "mean": "떨어질 락",
+          "ruby": "お"
+        },
+        {
+          "base": "とす"
+        }
+      ],
+      "mean": "떨어뜨리다"
+    },
+    {
+      "characters": [
+        {
+          "base": "集",
+          "mean": "모을 집",
+          "ruby": "あつ"
+        },
+        {
+          "base": "まる"
+        }
+      ],
+      "mean": "모이다"
+    },
+    {
+      "characters": [
+        {
+          "base": "集",
+          "mean": "모을 집",
+          "ruby": "あつ"
+        },
+        {
+          "base": "める"
+        }
+      ],
+      "mean": "모으다"
+    },
+    {
+      "characters": [
+        {
+          "base": "壊",
+          "mean": "무너질 괴",
+          "ruby": "こわ"
+        },
+        {
+          "base": "れる"
+        }
+      ],
+      "mean": "망가지다"
+    },
+    {
+      "characters": [
+        {
+          "base": "壊",
+          "mean": "무너질 괴",
+          "ruby": "こわ"
+        },
+        {
+          "base": "す"
+        }
+      ],
+      "mean": "망가뜨리다"
+    },
+    {
+      "characters": [
+        {
+          "base": "倒",
+          "mean": "넘어질 도",
+          "ruby": "たお"
+        },
+        {
+          "base": "れる"
+        }
+      ],
+      "mean": "쓰러지다"
+    },
+    {
+      "characters": [
+        {
+          "base": "倒",
+          "mean": "넘어질 도",
+          "ruby": "たお"
+        },
+        {
+          "base": "す"
+        }
+      ],
+      "mean": "쓰러뜨리다"
+    },
+    {
+      "characters": [
+        {
+          "base": "汚",
+          "mean": "더러울 오",
+          "ruby": "よご"
+        },
+        {
+          "base": "れる"
+        }
+      ],
+      "mean": "더러워지다"
+    },
+    {
+      "characters": [
+        {
+          "base": "汚",
+          "mean": "더러울 오",
+          "ruby": "よご"
+        },
+        {
+          "base": "す"
+        }
+      ],
+      "mean": "더럽히다"
+    },
+    {
+      "characters": [
+        {
+          "base": "割",
+          "mean": "벨 할",
+          "ruby": "わ"
+        },
+        {
+          "base": "れる"
+        }
+      ],
+      "mean": "깨지다"
+    },
+    {
+      "characters": [
+        {
+          "base": "割",
+          "mean": "벨 할",
+          "ruby": "わ"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "깨다"
+    }
+  ]
+}
