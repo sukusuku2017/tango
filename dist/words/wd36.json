@@ -1,0 +1,419 @@
+{
+  "chapter": "36",
+  "update": "2017-03-06",
+  "author": [
+    "Phil"
+  ],
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "ときどき"
+        }
+      ],
+      "mean": "때때로/가끔"
+    },
+    {
+      "characters": [
+        {
+          "base": "大",
+          "mean": "큰 대",
+          "ruby": "おお"
+        },
+        {
+          "base": "阪",
+          "mean": "언덕 판",
+          "ruby": "さか"
+        },
+        {
+          "base": "弁",
+          "mean": "고깔 변",
+          "ruby": "べん"
+        }
+      ],
+      "mean": "오사카 사투리"
+    },
+    {
+      "characters": [
+        {
+          "base": "小",
+          "mean": "작을 소",
+          "ruby": "しょう"
+        },
+        {
+          "base": "学",
+          "mean": "배울 학",
+          "ruby": "がっ"
+        },
+        {
+          "base": "校",
+          "mean": "학교 교",
+          "ruby": "こう"
+        }
+      ],
+      "mean": "초등학교"
+    },
+    {
+      "characters": [
+        {
+          "base": "〜に"
+        },
+        {
+          "base": "住",
+          "mean": "살 주",
+          "ruby": "す"
+        },
+        {
+          "base": "む"
+        }
+      ],
+      "mean": "~에 살다"
+    },
+    {
+      "characters": [
+        {
+          "base": "育",
+          "mean": "기를 육",
+          "ruby": "そだ"
+        },
+        {
+          "base": "つ"
+        }
+      ],
+      "mean": "자라다/성장하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "普",
+          "mean": "넓을 보",
+          "ruby": "ふ"
+        },
+        {
+          "base": "段",
+          "mean": "층계 단",
+          "ruby": "だん"
+        }
+      ],
+      "mean": "평소"
+    },
+    {
+      "characters": [
+        {
+          "base": "イントネーション"
+        }
+      ],
+      "mean": "억양"
+    },
+    {
+      "characters": [
+        {
+          "base": "違",
+          "mean": "어긋날 위",
+          "ruby": "ちが"
+        },
+        {
+          "base": "う"
+        }
+      ],
+      "mean": "다르다"
+    },
+    {
+      "characters": [
+        {
+          "base": "聞",
+          "mean": "들을 문",
+          "ruby": "き"
+        },
+        {
+          "base": "き"
+        },
+        {
+          "base": "取",
+          "mean": "가질 취",
+          "ruby": "と"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "알아듣다/청취하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "バラエティー"
+        },
+        {
+          "base": "番",
+          "mean": "차례 번",
+          "ruby": "ばん"
+        },
+        {
+          "base": "組",
+          "mean": "짤 조",
+          "ruby": "ぐみ"
+        }
+      ],
+      "mean": "예능 프로그램"
+    },
+    {
+      "characters": [
+        {
+          "base": "お"
+        },
+        {
+          "base": "笑",
+          "mean": "웃음 소",
+          "ruby": "わら"
+        },
+        {
+          "base": "い"
+        },
+        {
+          "base": "芸",
+          "mean": "재주 예",
+          "ruby": "げい"
+        },
+        {
+          "base": "人"
+        }
+      ],
+      "mean": "코미디언/개그맨"
+    },
+    {
+      "characters": [
+        {
+          "base": "関",
+          "mean": "빗장 관",
+          "ruby": "かん"
+        },
+        {
+          "base": "西",
+          "mean": "서녘 서",
+          "ruby": "さい"
+        },
+        {
+          "base": "出",
+          "mean": "날 출",
+          "ruby": "しゅっ"
+        },
+        {
+          "base": "身",
+          "mean": "몸 신",
+          "ruby": "しん"
+        }
+      ],
+      "mean": "관서지방 출신"
+    },
+    {
+      "characters": [
+        {
+          "base": "字",
+          "mean": "글자 자",
+          "ruby": "じ"
+        },
+        {
+          "base": "幕",
+          "mean": "장막 막",
+          "ruby": "まく"
+        }
+      ],
+      "mean": "자막"
+    },
+    {
+      "characters": [
+        {
+          "base": "禁",
+          "mean": "금할 금",
+          "ruby": "きん"
+        },
+        {
+          "base": "煙",
+          "mean": "연기 연",
+          "ruby": "えん"
+        }
+      ],
+      "mean": "금연"
+    },
+    {
+      "characters": [
+        {
+          "base": "外",
+          "mean": "바깥 외",
+          "ruby": "そと"
+        }
+      ],
+      "mean": "밖"
+    },
+    {
+      "characters": [
+        {
+          "base": "吸",
+          "mean": "마실 흡",
+          "ruby": "す"
+        },
+        {
+          "base": "う"
+        }
+      ],
+      "mean": "(담배를) 피우다"
+    },
+    {
+      "characters": [
+        {
+          "base": "苦",
+          "mean": "쓸 고",
+          "ruby": "にが"
+        },
+        {
+          "base": "手",
+          "mean": "손 수",
+          "ruby": "て"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "질색이다/싫다"
+    },
+    {
+      "characters": [
+        {
+          "base": "道",
+          "mean": "길 도",
+          "ruby": "みち"
+        },
+        {
+          "base": "が"
+        },
+        {
+          "base": "込",
+          "mean": "일본식 한자",
+          "ruby": "こ"
+        },
+        {
+          "base": "む"
+        }
+      ],
+      "mean": "길이 막히다"
+    },
+    {
+      "characters": [
+        {
+          "base": "手",
+          "mean": "손 수",
+          "ruby": "て"
+        },
+        {
+          "base": "紙",
+          "mean": "종이 지",
+          "ruby": "がみ"
+        },
+        {
+          "base": "を"
+        },
+        {
+          "base": "出"
+        },
+        {
+          "base": "す"
+        }
+      ],
+      "mean": "편지를 보내다"
+    },
+    {
+      "characters": [
+        {
+          "base": "返",
+          "mean": "돌이킬 반",
+          "ruby": "へん"
+        },
+        {
+          "base": "事",
+          "mean": "일 사",
+          "ruby": "じ"
+        }
+      ],
+      "mean": "답장"
+    },
+    {
+      "characters": [
+        {
+          "base": "休",
+          "mean": "쉴 휴",
+          "ruby": "やす"
+        },
+        {
+          "base": "みを"
+        },
+        {
+          "base": "取",
+          "mean": "가질 취",
+          "ruby": "と"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "휴가를 받다"
+    },
+    {
+      "characters": [
+        {
+          "base": "昔",
+          "mean": "예 석",
+          "ruby": "むかし"
+        }
+      ],
+      "mean": "옛날"
+    },
+    {
+      "characters": [
+        {
+          "base": "地",
+          "mean": "땅 지",
+          "ruby": "じ"
+        },
+        {
+          "base": "味",
+          "mean": "맛 미",
+          "ruby": "み"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "수수하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "おしゃれだ"
+        }
+      ],
+      "mean": "세련되다"
+    },
+    {
+      "characters": [
+        {
+          "base": "入",
+          "mean": "들 입",
+          "ruby": "い"
+        },
+        {
+          "base": "れる"
+        }
+      ],
+      "mean": "넣다"
+    },
+    {
+      "characters": [
+        {
+          "base": "わがままだ"
+        }
+      ],
+      "mean": "제멋대로다"
+    }
+  ]
+}

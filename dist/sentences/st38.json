@@ -1,0 +1,165 @@
+{
+  "chapter": "38",
+  "update": "2017-02-28",
+  "author": [
+    "Phil"
+  ],
+  "subject": {
+    "characters": [
+      {
+        "base": "薬",
+        "ruby": "くすり"
+      },
+      {
+        "base": "を"
+      },
+      {
+        "base": "飲",
+        "ruby": "の"
+      },
+      {
+        "base": "んでみたらどうですか。"
+      }
+    ],
+    "mean": "약을 먹어 보는 것이 어떻습니까?"
+  },
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "早",
+          "ruby": "はや"
+        },
+        {
+          "base": "く"
+        },
+        {
+          "base": "病",
+          "ruby": "びょう"
+        },
+        {
+          "base": "院",
+          "ruby": "いん"
+        },
+        {
+          "base": "に"
+        },
+        {
+          "base": "行",
+          "ruby": "い"
+        },
+        {
+          "base": "っ"
+        },
+        {
+          "base": "た",
+          "color": true
+        },
+        {
+          "base": "方",
+          "ruby": "ほう",
+          "color": true
+        },
+        {
+          "base": "がいいです",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "빨리 병원에 가는 편이 좋습니다."
+    },
+    {
+      "characters": [
+        {
+          "base": "今日",
+          "ruby": "きょう"
+        },
+        {
+          "base": "は"
+        },
+        {
+          "base": "無",
+          "ruby": "む"
+        },
+        {
+          "base": "理",
+          "ruby": "り"
+        },
+        {
+          "base": "し"
+        },
+        {
+          "base": "ない",
+          "color": true
+        },
+        {
+          "base": "方",
+          "ruby": "ほう",
+          "color": true
+        },
+        {
+          "base": "がいいです",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "오늘은 무리하지 않는 편이 좋습니다."
+    },
+    {
+      "characters": [
+        {
+          "base": "友",
+          "ruby": "とも"
+        },
+        {
+          "base": "だちに"
+        },
+        {
+          "base": "相",
+          "ruby": "そう"
+        },
+        {
+          "base": "談",
+          "ruby": "だん"
+        },
+        {
+          "base": "し"
+        },
+        {
+          "base": "たらどうですか",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "친구에게 상담해 보는 것이 어떻습니까?"
+    },
+    {
+      "characters": [
+        {
+          "base": "このスカートを"
+        },
+        {
+          "base": "履",
+          "ruby": "は"
+        },
+        {
+          "base": "い"
+        },
+        {
+          "base": "てみてもいいですか",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "이 스커트를 입어 봐도 됩니까?"
+    }
+  ]
+}

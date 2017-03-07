@@ -1,0 +1,629 @@
+{
+  "chapter": "17",
+  "update": "2017-03-06",
+  "author": [
+    "Phil"
+  ],
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "仕",
+          "mean": "섬길 사",
+          "ruby": "し"
+        },
+        {
+          "base": "事",
+          "mean": "일 사",
+          "ruby": "ごと"
+        },
+        {
+          "base": "で"
+        }
+      ],
+      "mean": "일로/일 때문에"
+    },
+    {
+      "characters": [
+        {
+          "base": "北",
+          "mean": "북녘 붑",
+          "ruby": "ほっ"
+        },
+        {
+          "base": "海",
+          "mean": "바다 해",
+          "ruby": "かい"
+        },
+        {
+          "base": "道",
+          "mean": "길 도",
+          "ruby": "どう"
+        }
+      ],
+      "mean": "홋카이도(북해도)"
+    },
+    {
+      "characters": [
+        {
+          "base": "まだ"
+        }
+      ],
+      "mean": "아직"
+    },
+    {
+      "characters": [
+        {
+          "base": "カニ"
+        }
+      ],
+      "mean": "게"
+    },
+    {
+      "characters": [
+        {
+          "base": "お"
+        },
+        {
+          "base": "土産",
+          "ruby": "みやげ"
+        }
+      ],
+      "items": [
+        {
+          "base": "土",
+          "mean": "흙 토"
+        },
+        {
+          "base": "産",
+          "mean": "낳을 산"
+        }
+      ],
+      "mean": "선물"
+    },
+    {
+      "characters": [
+        {
+          "base": "〜がほしい"
+        }
+      ],
+      "mean": "~을/를 원한다"
+    },
+    {
+      "characters": [
+        {
+          "base": "頼",
+          "mean": "의지할 뢰",
+          "ruby": "たの"
+        },
+        {
+          "base": "む"
+        }
+      ],
+      "mean": "부탁하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "ところ"
+        }
+      ],
+      "mean": "곳"
+    },
+    {
+      "characters": [
+        {
+          "base": "買",
+          "mean": "살 매",
+          "ruby": "か"
+        },
+        {
+          "base": "って"
+        },
+        {
+          "base": "来",
+          "mean": "올 래",
+          "ruby": "く"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "사 오다"
+    },
+    {
+      "characters": [
+        {
+          "base": "置",
+          "mean": "둘 치",
+          "ruby": "お"
+        },
+        {
+          "base": "く"
+        }
+      ],
+      "mean": "놓다/두다"
+    },
+    {
+      "characters": [
+        {
+          "base": "呼",
+          "mean": "부를 호",
+          "ruby": "よ"
+        },
+        {
+          "base": "ぶ"
+        }
+      ],
+      "mean": "부르다"
+    },
+    {
+      "characters": [
+        {
+          "base": "着",
+          "mean": "붙을 착",
+          "ruby": "き"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "입다"
+    },
+    {
+      "characters": [
+        {
+          "base": "見",
+          "mean": "볼 견",
+          "ruby": "み"
+        },
+        {
+          "base": "せる"
+        }
+      ],
+      "mean": "보여주다"
+    },
+    {
+      "characters": [
+        {
+          "base": "着",
+          "mean": "붙을 착",
+          "ruby": "き"
+        },
+        {
+          "base": "物",
+          "mean": "물건 물",
+          "ruby": "もの"
+        }
+      ],
+      "mean": "기모노"
+    },
+    {
+      "characters": [
+        {
+          "base": "習",
+          "mean": "익힐 습",
+          "ruby": "なら"
+        },
+        {
+          "base": "う"
+        }
+      ],
+      "mean": "배우다"
+    },
+    {
+      "characters": [
+        {
+          "base": "野",
+          "mean": "들 야",
+          "ruby": "や"
+        },
+        {
+          "base": "菜",
+          "mean": "나물 채",
+          "ruby": "さい"
+        }
+      ],
+      "mean": "야채"
+    },
+    {
+      "characters": [
+        {
+          "base": "薬",
+          "mean": "약 약",
+          "ruby": "くすり"
+        },
+        {
+          "base": "を"
+        },
+        {
+          "base": "飲",
+          "mean": "마실 음",
+          "ruby": "の"
+        },
+        {
+          "base": "む"
+        }
+      ],
+      "mean": "약을 먹다"
+    },
+    {
+      "characters": [
+        {
+          "base": "降",
+          "mean": "내릴 강",
+          "ruby": "お"
+        },
+        {
+          "base": "りる"
+        }
+      ],
+      "mean": "내리다"
+    },
+    {
+      "characters": [
+        {
+          "base": "毎",
+          "mean": "매양 매",
+          "ruby": "まい"
+        },
+        {
+          "base": "晩",
+          "mean": "늦을 만",
+          "ruby": "ばん"
+        }
+      ],
+      "mean": "매일 밤"
+    },
+    {
+      "characters": [
+        {
+          "base": "シャワーを"
+        },
+        {
+          "base": "浴",
+          "mean": "목욕할 욕",
+          "ruby": "あ"
+        },
+        {
+          "base": "びる"
+        }
+      ],
+      "mean": "샤워를 하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "外",
+          "mean": "바깥 외",
+          "ruby": "がい"
+        },
+        {
+          "base": "国",
+          "mean": "나라 국",
+          "ruby": "こく"
+        }
+      ],
+      "mean": "외국"
+    },
+    {
+      "characters": [
+        {
+          "base": "〜に"
+        },
+        {
+          "base": "住",
+          "mean": "살 주",
+          "ruby": "す"
+        },
+        {
+          "base": "む"
+        }
+      ],
+      "mean": "~에 살다"
+    },
+    {
+      "characters": [
+        {
+          "base": "イギリス"
+        }
+      ],
+      "mean": "영국"
+    },
+    {
+      "characters": [
+        {
+          "base": "芸",
+          "mean": "재주 예",
+          "ruby": "げい"
+        },
+        {
+          "base": "能",
+          "mean": "능할 능",
+          "ruby": "のう"
+        },
+        {
+          "base": "人",
+          "mean": "사람 인",
+          "ruby": "じん"
+        }
+      ],
+      "mean": "연예인"
+    },
+    {
+      "characters": [
+        {
+          "base": "先",
+          "mean": "먼저 선",
+          "ruby": "せん"
+        },
+        {
+          "base": "週",
+          "mean": "주일 주",
+          "ruby": "しゅう"
+        }
+      ],
+      "mean": "지난주"
+    },
+    {
+      "characters": [
+        {
+          "base": "海",
+          "mean": "바다 해",
+          "ruby": "かい"
+        },
+        {
+          "base": "外",
+          "mean": "바깥 외",
+          "ruby": "がい"
+        },
+        {
+          "base": "旅",
+          "mean": "나그네 려",
+          "ruby": "りょ"
+        },
+        {
+          "base": "行",
+          "mean": "다닐 행",
+          "ruby": "こう"
+        }
+      ],
+      "mean": "해외 여행"
+    },
+    {
+      "characters": [
+        {
+          "base": "家",
+          "mean": "집 가",
+          "ruby": "か"
+        },
+        {
+          "base": "族",
+          "mean": "겨레 족",
+          "ruby": "ぞく"
+        }
+      ],
+      "mean": "가족"
+    },
+    {
+      "characters": [
+        {
+          "base": "出",
+          "mean": "날 출",
+          "ruby": "で"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "나오다/나가다"
+    },
+    {
+      "characters": [
+        {
+          "base": "番",
+          "mean": "차례 번",
+          "ruby": "ばん"
+        },
+        {
+          "base": "組",
+          "mean": "짤 조",
+          "ruby": "ぐみ"
+        }
+      ],
+      "mean": "방송"
+    },
+    {
+      "characters": [
+        {
+          "base": "クイズ"
+        },
+        {
+          "base": "番",
+          "mean": "차례 번",
+          "ruby": "ばん"
+        },
+        {
+          "base": "組",
+          "mean": "짤 조",
+          "ruby": "ぐみ"
+        }
+      ],
+      "mean": "퀴즈방송"
+    },
+    {
+      "characters": [
+        {
+          "base": "手",
+          "mean": "손 수",
+          "ruby": "て"
+        }
+      ],
+      "mean": "손"
+    },
+    {
+      "characters": [
+        {
+          "base": "歯",
+          "mean": "이 치",
+          "ruby": "は"
+        }
+      ],
+      "mean": "이/이빨"
+    },
+    {
+      "characters": [
+        {
+          "base": "磨",
+          "mean": "갈 마",
+          "ruby": "みが"
+        },
+        {
+          "base": "く"
+        }
+      ],
+      "mean": "닦다"
+    },
+    {
+      "characters": [
+        {
+          "base": "化",
+          "mean": "될 화",
+          "ruby": "け"
+        },
+        {
+          "base": "粧",
+          "mean": "단장할 단",
+          "ruby": "しょう"
+        }
+      ],
+      "mean": "화장"
+    },
+    {
+      "characters": [
+        {
+          "base": "くつ"
+        }
+      ],
+      "mean": "구두"
+    },
+    {
+      "characters": [
+        {
+          "base": "脱",
+          "mean": "벗을 탈",
+          "ruby": "ぬ"
+        },
+        {
+          "base": "ぐ"
+        }
+      ],
+      "mean": "벗다"
+    },
+    {
+      "characters": [
+        {
+          "base": "留",
+          "mean": "머무를 류",
+          "ruby": "りゅう"
+        },
+        {
+          "base": "学",
+          "mean": "배울 학",
+          "ruby": "がく"
+        },
+        {
+          "base": "する"
+        }
+      ],
+      "mean": "유학가다"
+    },
+    {
+      "characters": [
+        {
+          "base": "出",
+          "mean": "날 출",
+          "ruby": "だ"
+        },
+        {
+          "base": "す"
+        }
+      ],
+      "mean": "내다/제출하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "送",
+          "mean": "보낼 송",
+          "ruby": "おく"
+        },
+        {
+          "base": "る"
+        }
+      ],
+      "mean": "보내다"
+    },
+    {
+      "characters": [
+        {
+          "base": "終",
+          "mean": "마칠 종",
+          "ruby": "お"
+        },
+        {
+          "base": "わる"
+        }
+      ],
+      "mean": "끝나다"
+    },
+    {
+      "characters": [
+        {
+          "base": "質",
+          "mean": "바탕 질",
+          "ruby": "しつ"
+        },
+        {
+          "base": "問",
+          "mean": "물을 문",
+          "ruby": "もん"
+        }
+      ],
+      "mean": "질문"
+    },
+    {
+      "characters": [
+        {
+          "base": "辞",
+          "mean": "말씀 사",
+          "ruby": "や"
+        },
+        {
+          "base": "める"
+        }
+      ],
+      "mean": "그만두다"
+    },
+    {
+      "characters": [
+        {
+          "base": "大",
+          "mean": "큰 대",
+          "ruby": "だい"
+        },
+        {
+          "base": "学",
+          "mean": "배울 학",
+          "ruby": "がく"
+        },
+        {
+          "base": "院",
+          "mean": "집 원",
+          "ruby": "いん"
+        }
+      ],
+      "mean": "대학원"
+    }
+  ]
+}

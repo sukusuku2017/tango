@@ -1,0 +1,369 @@
+{
+  "chapter": "07",
+  "update": "2017-03-06",
+  "author": [
+    "Phil"
+  ],
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "レストラン"
+        }
+      ],
+      "mean": "레스토랑"
+    },
+    {
+      "characters": [
+        {
+          "base": "とても"
+        }
+      ],
+      "mean": "매우/아주"
+    },
+    {
+      "characters": [
+        {
+          "base": "有",
+          "mean": "있을 유",
+          "ruby": "ゆう"
+        },
+        {
+          "base": "名",
+          "mean": "이름 명",
+          "ruby": "めい"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "유명하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "どんな"
+        }
+      ],
+      "mean": "어떤"
+    },
+    {
+      "characters": [
+        {
+          "base": "大",
+          "mean": "큰 대",
+          "ruby": "だい"
+        },
+        {
+          "base": "好",
+          "mean": "좋을 호",
+          "ruby": "す"
+        },
+        {
+          "base": "きだ"
+        }
+      ],
+      "mean": "아주 좋아하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "でも"
+        }
+      ],
+      "mean": "하지만"
+    },
+    {
+      "characters": [
+        {
+          "base": "わさび"
+        }
+      ],
+      "mean": "고추냉이"
+    },
+    {
+      "characters": [
+        {
+          "base": "どうして"
+        }
+      ],
+      "mean": "왜/어째서"
+    },
+    {
+      "characters": [
+        {
+          "base": "〜からです"
+        }
+      ],
+      "mean": "~때문입니다"
+    },
+    {
+      "characters": [
+        {
+          "base": "彼",
+          "mean": "저 피",
+          "ruby": "かの"
+        },
+        {
+          "base": "女",
+          "mean": "계집 녀",
+          "ruby": "じょ"
+        }
+      ],
+      "mean": "그녀"
+    },
+    {
+      "characters": [
+        {
+          "base": "食",
+          "mean": "밥 식",
+          "ruby": "た"
+        },
+        {
+          "base": "べ"
+        },
+        {
+          "base": "物",
+          "mean": "물건 물",
+          "ruby": "もの"
+        }
+      ],
+      "mean": "음식"
+    },
+    {
+      "characters": [
+        {
+          "base": "立",
+          "mean": "설 립",
+          "ruby": "りっ"
+        },
+        {
+          "base": "派",
+          "mean": "갈래 파",
+          "ruby": "ぱ"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "훌륭하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "丈",
+          "mean": "어른 장",
+          "ruby": "じょう"
+        },
+        {
+          "base": "夫",
+          "mean": "지아비 부",
+          "ruby": "ぶ"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "튼튼하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "便",
+          "mean": "편할 편",
+          "ruby": "べん"
+        },
+        {
+          "base": "利",
+          "mean": "이할 리",
+          "ruby": "り"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "편리하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "地",
+          "mean": "땅 지",
+          "ruby": "ち"
+        },
+        {
+          "base": "下",
+          "mean": "아래 하",
+          "ruby": "か"
+        },
+        {
+          "base": "鉄",
+          "mean": "쇠 철",
+          "ruby": "てつ"
+        }
+      ],
+      "mean": "지하철"
+    },
+    {
+      "characters": [
+        {
+          "base": "早",
+          "mean": "이를 조",
+          "ruby": "はや"
+        },
+        {
+          "base": "い"
+        }
+      ],
+      "mean": "빠르다"
+    },
+    {
+      "characters": [
+        {
+          "base": "公",
+          "mean": "공평할 공",
+          "ruby": "こう"
+        },
+        {
+          "base": "園",
+          "mean": "동산 원",
+          "ruby": "えん"
+        }
+      ],
+      "mean": "공원"
+    },
+    {
+      "characters": [
+        {
+          "base": "真",
+          "mean": "참 진",
+          "ruby": "ま"
+        },
+        {
+          "base": "面",
+          "mean": "낯 면",
+          "ruby": "じ"
+        },
+        {
+          "base": "目",
+          "mean": "눈 목",
+          "ruby": "め"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "성실하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "上",
+          "mean": "윗 상",
+          "ruby": "じょう"
+        },
+        {
+          "base": "手",
+          "mean": "손 수",
+          "ruby": "ず"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "잘한다"
+    },
+    {
+      "characters": [
+        {
+          "base": "さしみ"
+        }
+      ],
+      "mean": "회"
+    },
+    {
+      "characters": [
+        {
+          "base": "子",
+          "mean": "아들 자",
+          "ruby": "こ"
+        },
+        {
+          "base": "ども"
+        }
+      ],
+      "mean": "아이"
+    },
+    {
+      "characters": [
+        {
+          "base": "元",
+          "mean": "의뜸 원",
+          "ruby": "げん"
+        },
+        {
+          "base": "気",
+          "mean": "기운 기",
+          "ruby": "き"
+        },
+        {
+          "base": "だ"
+        }
+      ],
+      "mean": "건강하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "明",
+          "mean": "밝을 명",
+          "ruby": "あか"
+        },
+        {
+          "base": "るい"
+        }
+      ],
+      "mean": "밝다"
+    },
+    {
+      "characters": [
+        {
+          "base": "ハンサムだ"
+        }
+      ],
+      "mean": "핸섬하다"
+    },
+    {
+      "characters": [
+        {
+          "base": "りんご"
+        }
+      ],
+      "mean": "사과"
+    },
+    {
+      "characters": [
+        {
+          "base": "クラス"
+        }
+      ],
+      "mean": "반/클래스"
+    },
+    {
+      "characters": [
+        {
+          "base": "ドラマ"
+        }
+      ],
+      "mean": "드라마"
+    },
+    {
+      "characters": [
+        {
+          "base": "ストーリー"
+        }
+      ],
+      "mean": "스토리"
+    }
+  ]
+}

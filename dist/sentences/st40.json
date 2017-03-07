@@ -1,0 +1,206 @@
+{
+  "chapter": "40",
+  "update": "2017-02-28",
+  "author": [
+    "Phil"
+  ],
+  "subject": {
+    "characters": [
+      {
+        "base": "パーティーの"
+      },
+      {
+        "base": "料",
+        "ruby": "りょう"
+      },
+      {
+        "base": "理",
+        "ruby": "り"
+      },
+      {
+        "base": "は"
+      },
+      {
+        "base": "作",
+        "ruby": "つく"
+      },
+      {
+        "base": "ってありますか。"
+      }
+    ],
+    "mean": "파티 요리는 만들어져 있습니까?"
+  },
+  "content": [
+    {
+      "characters": [
+        {
+          "base": "車",
+          "ruby": "くるま"
+        },
+        {
+          "base": "が",
+          "color": true
+        },
+        {
+          "base": "走",
+          "ruby": "はし"
+        },
+        {
+          "base": "っ"
+        },
+        {
+          "base": "ています",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "차가 달리고 있습니다."
+    },
+    {
+      "characters": [
+        {
+          "base": "財",
+          "ruby": "さい"
+        },
+        {
+          "base": "布",
+          "ruby": "ふ"
+        },
+        {
+          "base": "が",
+          "color": true
+        },
+        {
+          "base": "落",
+          "ruby": "お"
+        },
+        {
+          "base": "ち"
+        },
+        {
+          "base": "ています",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "지갑이 떨어져 있습니다."
+    },
+    {
+      "characters": [
+        {
+          "base": "部",
+          "ruby": "へ"
+        },
+        {
+          "base": "屋",
+          "ruby": "や"
+        },
+        {
+          "base": "を",
+          "color": true
+        },
+        {
+          "base": "片",
+          "ruby": "かた"
+        },
+        {
+          "base": "付",
+          "ruby": "づ"
+        },
+        {
+          "base": "け"
+        },
+        {
+          "base": "ています",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "방을 정리하고 있습니다."
+    },
+    {
+      "characters": [
+        {
+          "base": "仕",
+          "ruby": "し"
+        },
+        {
+          "base": "事",
+          "ruby": "ごと"
+        },
+        {
+          "base": "のために、パソコン"
+        },
+        {
+          "base": "が",
+          "color": true
+        },
+        {
+          "base": "つけ"
+        },
+        {
+          "base": "てあります",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "일을 위해서, 컴퓨터가 켜져 있습니다."
+    },
+    {
+      "characters": [
+        {
+          "base": "会",
+          "ruby": "かい"
+        },
+        {
+          "base": "議",
+          "ruby": "ぎ"
+        },
+        {
+          "base": "の"
+        },
+        {
+          "base": "前",
+          "ruby": "まえ"
+        },
+        {
+          "base": "に"
+        },
+        {
+          "base": "資",
+          "ruby": "し"
+        },
+        {
+          "base": "料",
+          "ruby": "りょう"
+        },
+        {
+          "base": "を"
+        },
+        {
+          "base": "集",
+          "ruby": "あつ"
+        },
+        {
+          "base": "め"
+        },
+        {
+          "base": "ておきます",
+          "color": true
+        },
+        {
+          "base": "。"
+        }
+      ],
+      "mean": "회의 전에 자료를 모아 놓습니다."
+    }
+  ]
+}
