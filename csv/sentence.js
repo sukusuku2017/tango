@@ -1,5 +1,5 @@
 const Converter = require('csvtojson').Converter;
-const csv = require('csvtojson')
+const csv = require('csvtojson');
 const _ = require('underscore');
 const jsonfile = require('jsonfile');
 
